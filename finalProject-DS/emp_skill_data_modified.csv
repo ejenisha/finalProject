@@ -1,0 +1,3371 @@
+emp_id,emp_name,skill_id,skill_name,proficiency_level,no_of_projects_done_in_that_skill,certifications
+E747,Kelly Meza,S013,Financial Modeling,3,4,No
+E1625,Shawn Rocha,S006,Python,5,2,Yes
+E2085,Sharon Hayes,S015,Risk Management,5,3,No
+E2154,Paul Brown,S012,Project Management,1,1,No
+E733,Lisa Vargas,S002,React,3,3,No
+E4084,Morgan Mitchell,S011,Consulting Basics,5,4,No
+E4555,Sheila Alexander,S001,JavaScript,2,2,Yes
+E4101,Samantha Barnes,S009,Data Visualization,5,1,No
+E718,Erin Hernandez,S002,React,5,3,No
+E4151,Colleen Flowers,S001,JavaScript,5,5,Yes
+E2582,Catherine White,S007,SQL,2,1,No
+E861,Kristin Elliott,S008,Machine Learning,3,3,Yes
+E958,Carla Martin,S008,Machine Learning,2,2,No
+E3506,Carlos Robinson,S006,Python,4,2,No
+E2626,Megan Caldwell,S012,Project Management,4,4,No
+E1718,Mrs. Carol Dominguez,S003,Node.js,1,1,Yes
+E2318,Terri Kirk,S012,Project Management,1,3,Yes
+E2493,Brenda Howard,S004,Docker,2,4,Yes
+E387,Peter Webster,S004,Docker,2,4,Yes
+E4594,Gina Ramirez,S004,Docker,1,1,No
+E1501,Jennifer Gomez,S012,Project Management,3,1,Yes
+E3871,Alisha Jarvis,S009,Data Visualization,5,3,Yes
+E2218,Donald Clark,S009,Data Visualization,2,4,No
+E1603,Megan Donaldson,S002,React,3,1,Yes
+E3710,John Barnett,S012,Project Management,1,4,No
+E1753,Sharon Roberson,S003,Node.js,2,3,No
+E949,Bobby Bates,S012,Project Management,10,9,Yes
+E135,Joseph Collins,S008,Machine Learning,1,2,Yes
+E4831,Andrew Browning,S015,Risk Management,3,4,No
+E4800,Sarah Sawyer,S014,Client Management,5,4,Yes
+E2173,Brandi Kennedy,S009,Data Visualization,4,2,Yes
+E015,Kelly Suarez,S004,Docker,3,4,Yes
+E171,Antonio Hess,S013,Financial Modeling,5,4,No
+E3903,Stephen Buchanan,S001,JavaScript,1,3,No
+E3853,Katrina Smith,S008,Machine Learning,1,2,No
+E4969,Chelsea Reeves,S002,React,5,4,No
+E2084,Daniel Richardson,S010,Big Data,2,4,No
+E4678,Elizabeth Nguyen,S004,Docker,3,3,No
+E804,Micheal Armstrong,S007,SQL,5,1,No
+E3916,Dana Lee,S002,React,3,3,No
+E775,Daniel Hicks,S007,SQL,1,1,Yes
+E107,Richard Pittman,S003,Node.js,1,4,No
+E1491,Julie Larson,S002,React,7,10,Yes
+E525,Mario Adams,S007,SQL,4,3,Yes
+E142,Robert Moore,S015,Risk Management,4,3,Yes
+E3069,Robert Cunningham,S008,Machine Learning,5,4,No
+E2689,Patrick Larson,S006,Python,2,2,No
+E746,Jeremy Wood PhD,S015,Risk Management,3,2,Yes
+E4638,Jennifer Roberts,S011,Consulting Basics,3,4,Yes
+E4243,Luke King,S004,Docker,1,1,Yes
+E525,Mario Adams,S004,Docker,4,4,No
+E956,Jeffrey Little,S006,Python,3,1,Yes
+E729,Marissa Chan,S005,HTML/CSS,5,1,No
+E2934,Kimberly Hall,S003,Node.js,7,10,No
+E4574,Rebecca Leonard,S015,Risk Management,3,3,No
+E2334,Ricardo Hall,S014,Client Management,7,5,Yes
+E2811,Bryce Griffin,S014,Client Management,5,4,Yes
+E3947,Lindsey Vaughn,S015,Risk Management,1,1,No
+E1825,Joseph Robinson,S006,Python,3,4,Yes
+E4176,Ryan Dyer,S002,React,5,4,No
+E1315,Jason Thompson,S006,Python,5,4,No
+E752,Melanie Garrett,S014,Client Management,4,1,No
+E958,Carla Martin,S002,React,2,2,No
+E2158,Zachary Gonzalez,S010,Big Data,7,7,No
+E517,Elizabeth Young,S001,JavaScript,3,4,No
+E3227,Melissa Horn,S001,JavaScript,3,4,Yes
+E4417,Patrick Wright,S002,React,1,4,No
+E3421,Stephanie Martin,S003,Node.js,9,12,No
+E2509,David Rice,S005,HTML/CSS,10,8,Yes
+E2215,Jacqueline Edwards,S005,HTML/CSS,6,8,No
+E2285,Matthew Silva,S012,Project Management,5,1,No
+E4274,Michael Weiss,S004,Docker,1,4,Yes
+E3494,Christopher Martinez,S014,Client Management,5,4,No
+E4765,Katrina Oliver,S001,JavaScript,5,1,Yes
+E686,Natalie Neal,S004,Docker,1,4,Yes
+E4336,Jessica Hanson,S013,Financial Modeling,4,3,No
+E1183,Patricia Jackson,S006,Python,3,1,Yes
+E4969,Chelsea Reeves,S010,Big Data,7,6,Yes
+E1588,James Potts,S010,Big Data,5,3,No
+E451,Gary Ponce,S005,HTML/CSS,2,2,No
+E3877,Betty Ellison,S001,JavaScript,8,9,Yes
+E019,Alexandria Smith,S015,Risk Management,10,10,No
+E2189,Jennifer Munoz,S012,Project Management,5,4,No
+E627,Joseph Hebert Jr.,S011,Consulting Basics,1,4,Yes
+E3452,Jeremy Myers,S009,Data Visualization,8,7,Yes
+E3175,Jennifer Hart,S004,Docker,8,9,No
+E172,Jason Wade,S001,JavaScript,1,3,Yes
+E4599,Marisa Allen,S002,React,2,2,Yes
+E4689,Melvin Jimenez,S007,SQL,1,2,No
+E689,Michael Cooper,S010,Big Data,2,1,Yes
+E3404,Melissa Moon,S009,Data Visualization,9,5,Yes
+E799,Patrick Rhodes,S002,React,7,8,Yes
+E1811,Anthony Alexander,S012,Project Management,5,4,Yes
+E1619,Troy Hahn,S004,Docker,4,4,No
+E4821,Philip Romero,S001,JavaScript,1,4,No
+E3970,Hunter May,S008,Machine Learning,7,10,Yes
+E2133,Tammy Carter,S014,Client Management,4,1,No
+E1809,Selena Camacho,S012,Project Management,1,1,Yes
+E187,Jimmy Cantu,S001,JavaScript,3,4,Yes
+E2399,Diamond Paul,S003,Node.js,2,3,No
+E3880,John Gomez,S003,Node.js,1,2,No
+E4102,Jason Moore,S007,SQL,4,4,Yes
+E2158,Zachary Gonzalez,S004,Docker,3,2,No
+E998,Stacie Mcintyre,S010,Big Data,5,1,Yes
+E4328,Dr. George Mack,S010,Big Data,1,2,Yes
+E4875,Michelle Rice,S002,React,1,3,Yes
+E154,Bridget Brown,S006,Python,1,4,No
+E3127,John Saunders,S004,Docker,1,1,No
+E1559,David Davis DDS,S001,JavaScript,2,3,No
+E3288,Stephen Guzman,S012,Project Management,5,1,Yes
+E2086,Beth Hernandez,S001,JavaScript,4,4,No
+E1824,Rachel Taylor,S007,SQL,3,2,Yes
+E1248,Danielle Peterson,S014,Client Management,5,4,No
+E3701,Lisa Tate,S012,Project Management,2,3,Yes
+E3117,John Williams,S008,Machine Learning,1,3,Yes
+E1579,William Davis,S011,Consulting Basics,4,1,No
+E404,Joseph Kennedy,S012,Project Management,3,1,No
+E1461,Christopher Smith,S004,Docker,1,1,Yes
+E1823,Christopher Rogers,S015,Risk Management,4,4,Yes
+E184,Justin Thompson,S014,Client Management,10,6,No
+E4426,David Larsen,S004,Docker,1,1,Yes
+E2320,Miguel Evans,S001,JavaScript,4,3,No
+E3092,Matthew Villanueva,S004,Docker,2,1,Yes
+E1904,Nicholas Banks,S010,Big Data,4,4,No
+E778,Lisa Holt,S012,Project Management,1,1,Yes
+E2286,Jane Pruitt,S005,HTML/CSS,3,2,No
+E2684,Morgan Chandler,S009,Data Visualization,2,3,No
+E2220,Peggy Rojas,S004,Docker,9,5,No
+E414,Dominique Smith,S011,Consulting Basics,8,5,No
+E3545,Joseph Flores,S014,Client Management,1,1,Yes
+E3407,Emma Kelly,S008,Machine Learning,2,3,No
+E2744,Heather Rodriguez,S004,Docker,3,2,Yes
+E4062,Matthew Monroe,S002,React,2,3,Yes
+E1782,Tina Lloyd,S014,Client Management,3,3,Yes
+E3230,David Davis,S002,React,2,2,No
+E1591,Jessica Hanson,S001,JavaScript,5,4,No
+E2317,Brittany Smith,S008,Machine Learning,3,2,Yes
+E454,Benjamin Hogan,S014,Client Management,1,2,Yes
+E1976,John Simon,S003,Node.js,4,3,No
+E4492,Jesse Thompson,S013,Financial Modeling,5,2,Yes
+E238,Emily Perez,S005,HTML/CSS,10,10,Yes
+E2346,Kathleen Morris,S014,Client Management,6,5,Yes
+E198,Paula Schmidt,S005,HTML/CSS,3,4,Yes
+E1834,Sonya Palmer,S007,SQL,8,7,No
+E565,Dr. Chelsey Wallace,S010,Big Data,3,2,Yes
+E4761,Toni Stephens,S014,Client Management,9,12,Yes
+E500,Sheri Black,S008,Machine Learning,2,1,No
+E1832,Gina Davenport,S005,HTML/CSS,2,4,Yes
+E647,Dawn Thomas,S005,HTML/CSS,5,3,Yes
+E2065,Matthew Thomas,S010,Big Data,4,1,Yes
+E2862,Rebecca Jones,S008,Machine Learning,8,6,Yes
+E3735,Michael Carter,S015,Risk Management,10,10,Yes
+E4013,Anthony Dyer,S009,Data Visualization,2,3,No
+E3747,Steven Suarez,S004,Docker,5,2,Yes
+E1379,Meghan Smith,S011,Consulting Basics,7,7,Yes
+E1518,Steven Jennings,S004,Docker,3,3,No
+E3247,Deborah Lynch,S001,JavaScript,4,4,No
+E405,Mr. Jason Marshall,S001,JavaScript,2,4,No
+E2427,Katrina Pierce,S006,Python,2,4,Yes
+E2419,Matthew King,S015,Risk Management,5,4,No
+E4210,Lisa King,S001,JavaScript,4,1,Yes
+E3232,Denise Terry,S011,Consulting Basics,4,3,Yes
+E2718,Brandi Sandoval,S013,Financial Modeling,5,2,No
+E2158,Zachary Gonzalez,S011,Consulting Basics,2,2,No
+E377,Micheal Henderson,S015,Risk Management,10,11,No
+E1097,Paul Myers,S006,Python,1,3,Yes
+E2045,Lawrence Hernandez,S009,Data Visualization,4,1,Yes
+E4995,Samantha Oconnell,S014,Client Management,5,4,Yes
+E2910,Sarah Hall,S012,Project Management,5,3,No
+E3311,Monique Chen,S015,Risk Management,5,1,No
+E577,Vicki Peters,S010,Big Data,5,2,No
+E483,Sean Lynn,S008,Machine Learning,9,7,No
+E4894,Jeremy Kelly,S008,Machine Learning,3,2,Yes
+E4702,Ashlee Wong,S002,React,5,1,No
+E1192,Casey Perez,S003,Node.js,6,9,No
+E1184,Toni Moreno,S015,Risk Management,4,3,Yes
+E1255,Danny Powell,S006,Python,2,4,No
+E2548,Angela Davis,S012,Project Management,5,1,Yes
+E4340,Michael Maldonado,S005,HTML/CSS,4,3,No
+E3244,Janet Bennett,S004,Docker,1,1,No
+E3689,Julie Carroll,S009,Data Visualization,2,3,No
+E2239,Joseph Avila,S002,React,3,3,No
+E1270,Danielle Odonnell,S012,Project Management,3,2,No
+E4191,Amanda Garrett,S009,Data Visualization,2,1,Yes
+E3031,Kenneth Castillo,S003,Node.js,2,3,No
+E4729,Jon Cardenas,S001,JavaScript,3,4,Yes
+E1409,Ashley Klein MD,S015,Risk Management,3,4,No
+E1932,Ashley Scott MD,S001,JavaScript,3,3,No
+E1717,Joyce Warner,S005,HTML/CSS,5,4,Yes
+E4743,Steven Smith,S005,HTML/CSS,5,4,Yes
+E4867,Kimberly Owens,S003,Node.js,1,1,Yes
+E3481,Richard Chandler,S013,Financial Modeling,2,3,Yes
+E3639,James Sherman,S005,HTML/CSS,3,2,Yes
+E986,Claudia Farmer,S002,React,3,3,Yes
+E1861,Carla Davis,S008,Machine Learning,4,1,No
+E1968,Tammy Berry,S008,Machine Learning,9,8,Yes
+E2692,Mark Chavez,S009,Data Visualization,10,12,Yes
+E4372,Edward Watson,S013,Financial Modeling,2,1,Yes
+E486,Erin Williams,S009,Data Visualization,4,3,Yes
+E4305,Andre Vang,S015,Risk Management,1,3,Yes
+E3840,Katherine Adams,S015,Risk Management,3,3,No
+E162,Alyssa Hart,S011,Consulting Basics,3,4,No
+E4653,Lawrence Delacruz,S011,Consulting Basics,2,2,Yes
+E4023,Hannah Hamilton,S013,Financial Modeling,1,3,No
+E2354,Louis Jones,S007,SQL,2,1,Yes
+E2646,Holly Bailey,S012,Project Management,4,2,No
+E1112,Ashley Sanchez,S014,Client Management,2,1,No
+E186,Samantha Lewis,S004,Docker,1,3,Yes
+E2352,Micheal Doyle,S007,SQL,1,2,No
+E1886,Jerry Trujillo,S012,Project Management,4,2,No
+E2161,Anna Horne,S014,Client Management,6,7,No
+E1287,Michael Smith,S010,Big Data,5,4,No
+E1768,Ms. Kristen Patel,S015,Risk Management,8,6,No
+E471,Jessica Perry,S009,Data Visualization,1,3,No
+E3500,Brenda Little,S001,JavaScript,2,3,Yes
+E295,Cheryl Escobar,S011,Consulting Basics,1,2,Yes
+E374,Kevin Bennett,S005,HTML/CSS,4,1,Yes
+E1984,Tricia Tucker,S001,JavaScript,4,3,No
+E4120,Julie Butler,S013,Financial Modeling,2,4,No
+E2761,Robert Woodard,S005,HTML/CSS,2,1,Yes
+E2622,Carla Carroll,S013,Financial Modeling,4,3,No
+E370,Tiffany Walker,S014,Client Management,4,4,Yes
+E1903,Joan Griffin,S002,React,7,12,Yes
+E4958,April Davis,S008,Machine Learning,1,2,Yes
+E2337,Christian Benson,S006,Python,1,3,No
+E1131,Cindy Gordon,S006,Python,7,12,Yes
+E3403,Jennifer Mitchell,S010,Big Data,5,2,Yes
+E3528,Holly Phillips,S011,Consulting Basics,4,4,No
+E3012,Nathan Young,S002,React,2,1,Yes
+E4090,Kimberly Adams,S003,Node.js,6,10,No
+E2549,Kimberly Dixon,S015,Risk Management,1,2,No
+E2545,Stephanie Bennett,S004,Docker,4,1,Yes
+E028,Barry Johnson,S012,Project Management,5,3,Yes
+E3001,Larry Roth,S001,JavaScript,2,3,No
+E2616,Dr. Julia Kelly,S012,Project Management,3,2,Yes
+E195,Megan Padilla,S009,Data Visualization,5,3,Yes
+E3924,Brett Jones,S002,React,6,5,Yes
+E1872,Danielle Miller MD,S005,HTML/CSS,9,11,Yes
+E471,Jessica Perry,S001,JavaScript,1,4,No
+E4643,Laura Herrera,S014,Client Management,2,2,No
+E4782,Jessica Huff,S006,Python,4,2,No
+E4955,Nicholas Perez,S013,Financial Modeling,1,2,Yes
+E522,Christopher Mendoza,S012,Project Management,10,8,No
+E1141,Mr. Bradley Lyons,S010,Big Data,3,4,Yes
+E510,Michael Valdez,S010,Big Data,2,2,Yes
+E4693,Kimberly Martin,S002,React,5,2,No
+E2918,Robert Petersen,S014,Client Management,9,8,Yes
+E4212,Mark Raymond,S008,Machine Learning,4,2,Yes
+E2217,Megan Williams,S004,Docker,2,4,No
+E4679,Donna Davis,S004,Docker,5,4,No
+E2055,Mary Thompson,S006,Python,5,1,Yes
+E3015,Keith Ortiz,S005,HTML/CSS,3,4,Yes
+E4660,Roy Wolf,S011,Consulting Basics,1,4,No
+E2822,Theresa Castro,S002,React,5,4,No
+E2220,Peggy Rojas,S011,Consulting Basics,1,3,Yes
+E4273,Brendan Yu,S006,Python,10,9,No
+E880,Joseph Shaffer,S013,Financial Modeling,8,5,No
+E4566,Kelly Winters,S013,Financial Modeling,2,3,No
+E4560,Linda Davis,S005,HTML/CSS,3,1,Yes
+E2323,James Cunningham,S012,Project Management,8,5,No
+E3293,Ryan Jackson,S013,Financial Modeling,2,1,Yes
+E1636,Anne Massey,S015,Risk Management,9,7,No
+E4209,Stacy Baker,S002,React,7,8,Yes
+E4263,Chelsea Alexander,S002,React,4,3,Yes
+E4794,Lisa Hall,S002,React,3,1,Yes
+E030,Dylan Beard,S005,HTML/CSS,3,4,No
+E4525,Justin Oconnor,S003,Node.js,7,12,No
+E2978,Antonio Mcdaniel,S011,Consulting Basics,3,3,No
+E1750,Lauren Allen,S004,Docker,2,2,No
+E233,Courtney Stevens,S001,JavaScript,2,2,Yes
+E1024,Karla Hawkins,S005,HTML/CSS,4,3,Yes
+E1709,Christine Dalton,S011,Consulting Basics,5,1,No
+E3560,Chelsea Curtis,S010,Big Data,4,4,Yes
+E4137,Monique Jones,S008,Machine Learning,1,1,Yes
+E4016,Nicole Torres,S006,Python,3,4,No
+E1571,Joseph Clark,S012,Project Management,2,1,No
+E4092,Todd King,S006,Python,9,8,Yes
+E4274,Michael Weiss,S008,Machine Learning,1,2,Yes
+E4217,Angela Long,S004,Docker,1,2,Yes
+E2512,Dustin Harris,S007,SQL,4,2,No
+E3984,Lorraine Wall,S010,Big Data,10,7,No
+E1464,Tyrone Delacruz,S015,Risk Management,8,10,No
+E2396,Steven Harvey,S006,Python,6,5,No
+E2268,Shawn Carter,S012,Project Management,4,1,No
+E3581,Jesse Mullen,S007,SQL,1,3,Yes
+E3814,Richard Diaz,S010,Big Data,2,4,No
+E2225,Lori Evans,S004,Docker,1,4,Yes
+E1936,Amber Wallace,S005,HTML/CSS,3,1,Yes
+E609,Kyle Mcintosh,S014,Client Management,4,1,Yes
+E2010,Hannah Reynolds,S003,Node.js,4,4,Yes
+E3501,Ronald Jackson,S011,Consulting Basics,5,3,No
+E4679,Donna Davis,S001,JavaScript,3,2,Yes
+E3742,Derek Long,S011,Consulting Basics,3,2,No
+E2724,Jacob Rogers DDS,S006,Python,5,4,No
+E4787,Taylor Chambers,S013,Financial Modeling,4,4,Yes
+E2994,Daniel Golden,S011,Consulting Basics,4,4,No
+E1038,Angela Lyons,S010,Big Data,6,12,No
+E2162,John Cruz,S005,HTML/CSS,1,2,No
+E3098,Brian Davis,S013,Financial Modeling,4,3,No
+E696,Gregory Smith,S001,JavaScript,2,4,No
+E4172,Elizabeth Ryan,S009,Data Visualization,3,2,No
+E2544,Nicole Stanley,S008,Machine Learning,3,3,No
+E2242,James Collier,S013,Financial Modeling,1,4,No
+E1478,Andrea Castro,S009,Data Visualization,1,3,Yes
+E3792,Todd Erickson,S001,JavaScript,4,1,Yes
+E4111,Donald Henderson,S001,JavaScript,3,4,No
+E245,Shannon Gutierrez,S009,Data Visualization,9,12,No
+E305,Linda Hunter,S007,SQL,3,4,Yes
+E4221,Lori Chandler,S015,Risk Management,2,4,No
+E3946,Charles Ramos,S010,Big Data,1,4,Yes
+E1343,Tamara Edwards,S006,Python,1,4,Yes
+E835,Timothy Delacruz,S006,Python,1,1,No
+E2818,Donna Carroll,S004,Docker,4,2,No
+E2857,Laura Olson,S001,JavaScript,5,2,No
+E1576,Andrew Hayden,S012,Project Management,5,3,Yes
+E1591,Jessica Hanson,S004,Docker,3,3,No
+E3574,Tamara Wade,S012,Project Management,4,3,Yes
+E4311,Joe Gutierrez,S005,HTML/CSS,1,2,Yes
+E4139,Krystal Avila,S009,Data Visualization,1,2,Yes
+E1056,Sarah Brady,S015,Risk Management,5,2,Yes
+E1523,Toni Castro,S012,Project Management,3,3,No
+E2482,Joy Brown,S009,Data Visualization,2,1,No
+E467,Brooke Griffin,S014,Client Management,8,7,Yes
+E571,Richard Norris,S004,Docker,4,4,Yes
+E2490,Michael Edwards,S001,JavaScript,4,4,No
+E1144,Audrey Tucker,S007,SQL,4,3,No
+E3835,Bradley Avila,S006,Python,9,10,Yes
+E254,Dr. Larry Hernandez,S015,Risk Management,5,1,Yes
+E1113,John Stokes,S010,Big Data,9,12,Yes
+E2161,Anna Horne,S006,Python,8,5,No
+E4411,Melinda Carpenter,S013,Financial Modeling,4,3,Yes
+E3853,Katrina Smith,S006,Python,5,4,No
+E328,Andrew Jimenez,S003,Node.js,4,1,No
+E699,John Beck,S003,Node.js,6,8,No
+E3895,Kristina Garcia,S011,Consulting Basics,3,2,Yes
+E3877,Betty Ellison,S006,Python,3,1,Yes
+E1096,Christina Jacobs,S008,Machine Learning,5,1,Yes
+E4423,Ricky Stevenson,S001,JavaScript,8,12,Yes
+E4698,Kimberly Wiggins,S002,React,5,1,No
+E3901,Eric White,S008,Machine Learning,4,1,No
+E2531,Russell Lyons,S010,Big Data,3,3,Yes
+E1624,Natasha Burns,S003,Node.js,3,4,No
+E3912,Thomas Page,S012,Project Management,5,4,No
+E2929,Cody Donaldson,S003,Node.js,5,1,No
+E1834,Sonya Palmer,S003,Node.js,2,1,Yes
+E1118,Emily Kelly,S011,Consulting Basics,5,1,Yes
+E270,Madison Smith,S001,JavaScript,2,2,No
+E1489,Tiffany Phillips,S001,JavaScript,3,4,No
+E2229,Stephen Cochran,S006,Python,9,10,No
+E3151,Thomas Torres,S010,Big Data,2,4,No
+E3770,Timothy Smith,S002,React,1,3,Yes
+E2127,Dustin Clark,S014,Client Management,5,4,Yes
+E1800,Samuel Barrett,S015,Risk Management,2,4,Yes
+E3083,Christine Ward,S006,Python,6,10,Yes
+E4290,Natalie Johnson,S006,Python,4,2,Yes
+E1038,Angela Lyons,S007,SQL,2,3,No
+E3435,Larry Jackson,S002,React,2,3,No
+E508,Doris Carey,S014,Client Management,3,2,No
+E1349,Amanda Decker,S006,Python,3,2,No
+E2663,Sheryl Graves,S006,Python,1,4,No
+E1288,Katrina Smith,S010,Big Data,7,8,Yes
+E4287,Tammy Moran,S013,Financial Modeling,4,2,No
+E1157,Yvette Weaver,S002,React,1,2,No
+E1749,Steven Hernandez,S005,HTML/CSS,5,3,No
+E4044,Russell Griffin,S015,Risk Management,1,3,No
+E3946,Charles Ramos,S013,Financial Modeling,5,4,No
+E1156,Amy Martinez,S013,Financial Modeling,4,3,Yes
+E4510,Nicholas Jackson,S005,HTML/CSS,2,2,Yes
+E898,Ryan White,S011,Consulting Basics,2,1,No
+E353,Cody Novak,S012,Project Management,1,4,No
+E1345,George Peterson,S009,Data Visualization,4,4,Yes
+E4774,Taylor Hodge,S013,Financial Modeling,7,8,No
+E2087,William Owens,S012,Project Management,9,11,Yes
+E4915,Kelly Smith,S011,Consulting Basics,5,1,No
+E1725,Carol Klein,S003,Node.js,4,2,Yes
+E4427,Alex Gentry,S001,JavaScript,5,1,Yes
+E162,Alyssa Hart,S009,Data Visualization,5,1,No
+E4455,Todd Ford,S009,Data Visualization,7,6,No
+E2186,Kevin Escobar,S013,Financial Modeling,4,3,No
+E1059,Christopher Osborne,S006,Python,2,4,No
+E3927,Stephanie Beck,S012,Project Management,1,1,Yes
+E4971,Debra Ray,S010,Big Data,2,2,No
+E4859,Jennifer Roberts,S014,Client Management,5,1,Yes
+E2313,Samantha Nelson,S004,Docker,5,1,No
+E012,Angela West,S007,SQL,1,2,Yes
+E1776,Ricky Jimenez,S001,JavaScript,4,2,No
+E3075,Sylvia Cochran,S012,Project Management,2,2,No
+E2176,Edward Baldwin,S007,SQL,7,12,Yes
+E4614,Matthew Martin,S001,JavaScript,1,4,Yes
+E629,David Bates,S005,HTML/CSS,5,1,No
+E3896,Nicholas Peterson,S015,Risk Management,2,2,No
+E3933,Mary Huang,S013,Financial Modeling,1,4,Yes
+E357,Charlotte Rodriguez,S012,Project Management,4,2,No
+E3021,Sarah Hicks,S003,Node.js,2,4,No
+E2790,Joshua Brown,S006,Python,3,1,No
+E1259,Mckenzie Reyes,S010,Big Data,1,4,Yes
+E4340,Michael Maldonado,S006,Python,2,2,No
+E1569,Catherine Ramirez,S007,SQL,3,2,Yes
+E1938,David Palmer,S003,Node.js,10,9,No
+E2748,Peter Soto,S011,Consulting Basics,3,3,No
+E4611,Thomas Sherman,S010,Big Data,4,1,Yes
+E106,Sean Chavez,S012,Project Management,4,1,No
+E3379,Phillip Johnson,S013,Financial Modeling,2,4,Yes
+E4249,Jaclyn Robinson,S003,Node.js,3,3,No
+E830,Jeffery Harris,S008,Machine Learning,3,1,Yes
+E2607,Deborah Pineda,S010,Big Data,1,3,No
+E1332,Abigail Jones,S013,Financial Modeling,2,1,Yes
+E695,Ashley Johnson MD,S006,Python,2,4,No
+E3265,Jose Rivera,S001,JavaScript,4,1,Yes
+E909,Kristen Suarez,S011,Consulting Basics,3,4,No
+E4599,Marisa Allen,S014,Client Management,1,4,No
+E1574,Kristin Ward,S003,Node.js,6,10,No
+E2144,Jerry Vega,S015,Risk Management,3,1,Yes
+E1015,Chelsea Nguyen,S012,Project Management,3,4,No
+E1102,Molly Rodriguez,S004,Docker,3,4,Yes
+E3405,William Strickland,S009,Data Visualization,1,2,Yes
+E4770,Catherine Schneider,S002,React,1,2,No
+E1205,Michael Thomas,S010,Big Data,1,3,Yes
+E2883,Andrew Mosley,S010,Big Data,1,1,No
+E1755,Robert Deleon,S001,JavaScript,3,4,Yes
+E060,Daniel Richards,S008,Machine Learning,5,3,No
+E4019,Jonathan Turner,S008,Machine Learning,2,2,Yes
+E1300,Kimberly Davis,S010,Big Data,1,1,No
+E867,Tristan Rivera,S003,Node.js,2,1,Yes
+E673,Samuel Lee,S012,Project Management,4,1,No
+E475,Mark Jackson,S008,Machine Learning,9,6,Yes
+E496,Jacqueline Martin MD,S013,Financial Modeling,5,3,No
+E2004,Daniel Barnett,S013,Financial Modeling,5,1,No
+E3439,William Willis,S009,Data Visualization,5,2,No
+E941,Tiffany Rios,S013,Financial Modeling,4,1,No
+E1021,Joseph Hendricks,S012,Project Management,1,1,Yes
+E3692,Ms. Megan Sheppard,S015,Risk Management,2,1,No
+E3131,David Davidson,S009,Data Visualization,4,1,No
+E3699,Robin Thompson,S007,SQL,10,7,No
+E2275,Abigail Jones,S015,Risk Management,2,2,Yes
+E1336,Jennifer Baker,S012,Project Management,1,1,Yes
+E855,Thomas Walsh,S013,Financial Modeling,3,4,Yes
+E2727,Kenneth Duran,S015,Risk Management,3,3,Yes
+E1094,Robert Bond,S004,Docker,6,12,No
+E3425,Mary Holmes,S005,HTML/CSS,3,2,No
+E3954,Kristen Jennings,S009,Data Visualization,5,1,Yes
+E3196,Dorothy Wolfe,S009,Data Visualization,5,1,No
+E4176,Ryan Dyer,S004,Docker,6,6,Yes
+E780,Robert Nelson,S008,Machine Learning,2,3,Yes
+E1610,Matthew Marks,S006,Python,1,2,No
+E788,Jonathan Freeman,S009,Data Visualization,4,4,Yes
+E1130,Patricia Armstrong,S005,HTML/CSS,4,2,No
+E4556,Amy Humphrey,S006,Python,1,3,No
+E841,Alexandria Clark,S010,Big Data,4,1,No
+E3040,Kelly Fischer,S007,SQL,1,3,Yes
+E3735,Michael Carter,S006,Python,4,3,No
+E228,Douglas Lee,S005,HTML/CSS,4,2,Yes
+E892,Emily Goodwin,S004,Docker,5,1,Yes
+E2787,Karen Macdonald,S005,HTML/CSS,3,1,Yes
+E1190,Kevin Goodman,S008,Machine Learning,1,2,No
+E1770,Veronica Duncan,S011,Consulting Basics,5,4,Yes
+E1185,Nathan Rogers,S012,Project Management,7,9,No
+E1097,Paul Myers,S012,Project Management,2,1,No
+E1147,Eric Davis,S003,Node.js,4,1,Yes
+E1114,Jody Wu,S005,HTML/CSS,8,9,No
+E2512,Dustin Harris,S010,Big Data,4,4,Yes
+E2027,Tiffany Taylor,S001,JavaScript,5,4,Yes
+E1973,Shane Mendoza,S012,Project Management,2,1,Yes
+E805,Christopher Bullock,S001,JavaScript,2,4,Yes
+E1854,Autumn Moore,S005,HTML/CSS,1,3,No
+E2995,Katie Bowers,S015,Risk Management,6,7,No
+E3761,Tammy Mccarthy,S012,Project Management,5,1,Yes
+E4776,Mackenzie Wheeler,S001,JavaScript,1,1,Yes
+E3585,Nicole Brady,S005,HTML/CSS,5,2,Yes
+E2232,Joshua Henderson,S011,Consulting Basics,5,1,No
+E710,Mary Lambert,S007,SQL,4,3,Yes
+E210,Eduardo Chang,S004,Docker,1,1,Yes
+E2484,Cody Fisher,S001,JavaScript,5,2,No
+E451,Gary Ponce,S015,Risk Management,1,2,Yes
+E3840,Katherine Adams,S011,Consulting Basics,4,2,Yes
+E4131,Jonathan Huber,S005,HTML/CSS,3,4,No
+E4688,Michelle Hill,S001,JavaScript,4,4,No
+E2685,Michelle Ward,S001,JavaScript,4,1,No
+E2315,Jeffrey Farrell,S007,SQL,1,3,Yes
+E1512,Amanda Kelly,S008,Machine Learning,5,4,No
+E710,Mary Lambert,S004,Docker,7,5,Yes
+E2163,Sarah Sanchez,S004,Docker,1,2,No
+E3430,Adam Higgins,S006,Python,2,3,Yes
+E721,Carol Miller,S013,Financial Modeling,2,4,Yes
+E4524,Bryan Harris,S005,HTML/CSS,1,3,Yes
+E4169,Bridget Williams,S005,HTML/CSS,3,3,No
+E332,Jessica Alexander,S004,Docker,1,4,Yes
+E216,Barbara Hernandez,S005,HTML/CSS,1,1,No
+E2255,Douglas Barnes,S002,React,9,5,No
+E926,Jonathan Morton,S007,SQL,3,1,No
+E2818,Donna Carroll,S011,Consulting Basics,3,4,Yes
+E4157,Richard Smith,S003,Node.js,1,1,No
+E2302,Ashley Leblanc,S004,Docker,4,2,Yes
+E244,Miguel Ball,S005,HTML/CSS,9,10,No
+E4786,Ricky Randolph MD,S004,Docker,4,3,No
+E4610,Matthew Adkins,S014,Client Management,9,6,Yes
+E4490,Taylor Ruiz,S012,Project Management,5,4,No
+E1133,Francisco Harris,S004,Docker,2,4,Yes
+E4118,Rachel Mcconnell,S005,HTML/CSS,9,8,No
+E2523,Dana Solomon,S012,Project Management,6,5,No
+E278,Carolyn Bryant,S005,HTML/CSS,4,2,No
+E876,Sue Spencer,S012,Project Management,4,1,No
+E653,Maria Hicks,S011,Consulting Basics,1,3,Yes
+E4438,Julie Gaines,S001,JavaScript,2,2,No
+E4174,Paula King,S003,Node.js,3,3,Yes
+E3093,Katie Riley,S004,Docker,1,4,No
+E567,Joseph Rogers,S010,Big Data,8,6,No
+E171,Antonio Hess,S012,Project Management,4,1,No
+E708,Cody Luna,S011,Consulting Basics,3,2,Yes
+E3388,Stephanie Michael,S007,SQL,6,9,Yes
+E4129,Aaron Hayes,S014,Client Management,8,12,Yes
+E180,Patrick Bennett,S007,SQL,5,4,No
+E2730,Peggy Patterson,S005,HTML/CSS,1,4,No
+E276,Gerald Jordan,S013,Financial Modeling,1,3,No
+E878,Tommy Brown,S008,Machine Learning,1,2,Yes
+E3781,Scott Thompson,S011,Consulting Basics,9,6,No
+E1759,Anne Bell,S011,Consulting Basics,2,3,Yes
+E2235,Yvonne Snow,S015,Risk Management,6,8,Yes
+E2759,Oscar Silva,S013,Financial Modeling,2,4,No
+E1862,Marilyn Myers,S007,SQL,4,4,No
+E3243,Steve Smith,S002,React,2,4,Yes
+E4664,Ryan Dickson,S009,Data Visualization,4,4,Yes
+E1815,James White,S014,Client Management,3,1,No
+E465,Jonathan Hernandez,S015,Risk Management,2,1,No
+E4334,Timothy George,S005,HTML/CSS,2,2,Yes
+E3901,Eric White,S007,SQL,5,4,Yes
+E3379,Phillip Johnson,S005,HTML/CSS,1,4,Yes
+E1373,Valerie Johnson,S010,Big Data,2,2,No
+E3699,Robin Thompson,S011,Consulting Basics,1,3,No
+E2897,Joyce Avery,S009,Data Visualization,5,3,Yes
+E768,Nicholas Crawford,S009,Data Visualization,2,4,No
+E2615,Melinda Smith,S003,Node.js,3,1,No
+E3985,Bryan Carey,S011,Consulting Basics,4,4,No
+E2502,Todd Davis,S004,Docker,4,3,No
+E2351,Benjamin Rodriguez,S008,Machine Learning,5,1,No
+E1144,Audrey Tucker,S014,Client Management,3,4,No
+E3755,Susan Wade,S014,Client Management,2,2,Yes
+E685,Lauren Stanley,S008,Machine Learning,2,4,No
+E4389,Chad Bowman,S001,JavaScript,6,6,Yes
+E3440,Jennifer Brock,S004,Docker,3,1,Yes
+E1027,John Walters,S013,Financial Modeling,4,2,Yes
+E3271,Carolyn Dunn,S003,Node.js,5,4,No
+E1840,Dawn Miller,S015,Risk Management,3,3,Yes
+E3436,Amanda Hill,S008,Machine Learning,7,5,No
+E3814,Richard Diaz,S005,HTML/CSS,1,3,Yes
+E4106,Vanessa Cooper,S008,Machine Learning,2,1,No
+E2930,Joseph Lee,S012,Project Management,3,3,No
+E2030,Michael Rogers,S011,Consulting Basics,1,1,Yes
+E4994,Ian Macdonald,S015,Risk Management,2,2,No
+E3045,Cody Martin,S015,Risk Management,1,2,Yes
+E4432,Stephanie Hernandez,S007,SQL,4,4,Yes
+E3858,Kathleen Jones,S003,Node.js,5,1,Yes
+E3939,Karen Long,S012,Project Management,3,2,Yes
+E2501,Molly Jimenez,S007,SQL,3,4,Yes
+E668,Pamela Black,S012,Project Management,4,3,No
+E3551,Veronica Dean,S001,JavaScript,8,12,No
+E558,Amanda Green,S004,Docker,2,4,No
+E321,Aaron Santos,S015,Risk Management,5,1,No
+E3025,Jonathon Peterson,S005,HTML/CSS,1,1,Yes
+E2514,Scott Grant,S004,Docker,4,3,Yes
+E014,Catherine Jones,S003,Node.js,3,2,Yes
+E2444,Joseph Martinez,S007,SQL,2,2,No
+E899,Shawna Clark,S005,HTML/CSS,2,2,Yes
+E848,Lindsay Keller,S002,React,5,4,No
+E3271,Carolyn Dunn,S014,Client Management,5,4,No
+E4839,Grant Smith,S004,Docker,10,6,No
+E481,Melanie Cooke,S008,Machine Learning,10,10,Yes
+E030,Dylan Beard,S002,React,4,1,No
+E1882,Thomas Johnson,S009,Data Visualization,5,1,Yes
+E1162,Victor Huerta,S014,Client Management,5,4,No
+E3813,Justin Cruz,S013,Financial Modeling,2,4,Yes
+E2803,Christine Scott,S002,React,5,3,Yes
+E2459,Krista Leonard,S011,Consulting Basics,1,2,Yes
+E4176,Ryan Dyer,S005,HTML/CSS,3,3,Yes
+E4050,Christopher Alvarez,S014,Client Management,5,3,Yes
+E2107,Dr. Linda Barrett MD,S005,HTML/CSS,1,2,No
+E1476,Kenneth Jimenez,S002,React,4,3,Yes
+E4937,Cheyenne Rogers,S012,Project Management,3,1,No
+E1871,Phillip Sanders,S008,Machine Learning,4,2,No
+E2581,Jennifer Crawford,S003,Node.js,3,2,Yes
+E1113,John Stokes,S015,Risk Management,5,2,Yes
+E3299,Steven Phelps,S008,Machine Learning,4,2,Yes
+E3164,Scott Warner,S009,Data Visualization,2,2,Yes
+E2013,Sarah Owens,S003,Node.js,2,4,No
+E2200,Ashley Hicks,S011,Consulting Basics,10,7,Yes
+E4724,Christine Johnson,S013,Financial Modeling,7,7,Yes
+E2998,Jamie Stephens,S015,Risk Management,3,2,No
+E3667,Todd Woodward,S004,Docker,8,7,No
+E181,Jason Adams,S006,Python,6,8,Yes
+E3799,Jennifer Mccoy,S001,JavaScript,4,4,Yes
+E675,Amy Rivas,S010,Big Data,5,4,Yes
+E4602,Andrew Morris,S003,Node.js,3,1,Yes
+E3252,Erin Gonzalez,S001,JavaScript,4,4,No
+E727,Michelle Lane,S011,Consulting Basics,4,1,Yes
+E941,Tiffany Rios,S004,Docker,9,8,No
+E3695,Kristin Jones,S009,Data Visualization,1,3,No
+E3721,Megan Anderson,S005,HTML/CSS,2,1,Yes
+E4170,Sheila Houston,S003,Node.js,10,6,Yes
+E2793,Mr. Luis Alvarado,S015,Risk Management,3,3,Yes
+E2408,Daniel Nelson,S012,Project Management,3,4,Yes
+E047,Mary Hodge,S012,Project Management,5,1,No
+E2600,Jay Jordan,S003,Node.js,6,8,No
+E1241,Brittany Lynch,S009,Data Visualization,2,2,Yes
+E2973,Ronnie Williams,S007,SQL,10,9,No
+E2184,Nicholas Rivera,S015,Risk Management,1,1,No
+E459,Leah Lee DDS,S008,Machine Learning,3,1,Yes
+E1725,Carol Klein,S008,Machine Learning,2,1,Yes
+E3131,David Davidson,S013,Financial Modeling,2,3,No
+E3257,Paul Warren,S004,Docker,5,1,No
+E1719,Sonia Hoover,S015,Risk Management,4,3,No
+E2867,Kelly Rocha,S005,HTML/CSS,3,3,Yes
+E2599,Malik Johnson,S008,Machine Learning,1,4,No
+E2840,Christopher Bridges,S010,Big Data,5,2,No
+E3813,Justin Cruz,S015,Risk Management,5,4,No
+E4209,Stacy Baker,S011,Consulting Basics,3,3,Yes
+E4988,Danielle Huff,S014,Client Management,5,4,Yes
+E493,Cameron Thomas,S006,Python,3,4,Yes
+E3542,Trevor Benson,S008,Machine Learning,4,2,No
+E914,Jack Smith,S010,Big Data,4,3,No
+E1010,Elizabeth Walsh,S015,Risk Management,4,4,Yes
+E4791,Erika Wood,S009,Data Visualization,3,3,Yes
+E4701,William Blankenship,S015,Risk Management,4,4,Yes
+E2296,Joshua Page,S009,Data Visualization,7,9,Yes
+E3714,Robert Holt,S011,Consulting Basics,3,4,No
+E4427,Alex Gentry,S008,Machine Learning,4,3,No
+E4607,April Jordan,S006,Python,3,2,No
+E2249,Erin Mendoza,S001,JavaScript,2,1,Yes
+E2622,Carla Carroll,S012,Project Management,3,3,Yes
+E285,Bruce Hill,S005,HTML/CSS,1,1,No
+E029,Felicia Case,S004,Docker,1,2,No
+E4704,Sabrina Johnson,S010,Big Data,6,10,Yes
+E2137,Tonya Hill,S002,React,1,1,No
+E1144,Audrey Tucker,S002,React,5,3,No
+E594,Jorge Brown,S002,React,6,11,No
+E4918,Ronald Luna,S006,Python,4,2,No
+E4922,Erik Jones,S003,Node.js,2,1,Yes
+E367,Andrea Lee,S011,Consulting Basics,2,1,No
+E1803,Jose Salazar,S015,Risk Management,1,2,No
+E2786,Vincent Petersen,S014,Client Management,1,1,No
+E2445,Ivan Cunningham,S008,Machine Learning,1,3,No
+E4302,Grace Allen,S012,Project Management,8,9,Yes
+E786,Shannon Baker,S001,JavaScript,5,2,No
+E3798,Jason Matthews,S006,Python,5,2,No
+E826,Tracey Mccoy,S009,Data Visualization,3,3,Yes
+E1442,Nathaniel Hebert,S010,Big Data,2,1,Yes
+E328,Andrew Jimenez,S012,Project Management,8,5,No
+E3558,Dr. Jesus Lamb,S012,Project Management,4,2,Yes
+E3632,Mr. Joseph Ochoa,S010,Big Data,5,3,Yes
+E1508,Clifford Gill,S001,JavaScript,4,2,No
+E1368,Jeffrey Wheeler,S015,Risk Management,3,1,Yes
+E4093,Susan Coleman,S001,JavaScript,4,1,No
+E4031,Tracey Dodson,S009,Data Visualization,2,4,No
+E4637,Danielle Henderson,S009,Data Visualization,3,2,No
+E3268,Amanda Bell,S014,Client Management,3,1,Yes
+E3932,Tara Brown,S010,Big Data,3,3,No
+E1252,Sarah Floyd,S004,Docker,5,2,Yes
+E889,Mrs. Pamela Henry,S014,Client Management,3,1,Yes
+E4615,Todd Strong,S008,Machine Learning,7,5,Yes
+E403,Brett Schmidt,S005,HTML/CSS,3,2,No
+E3808,William Thornton,S010,Big Data,5,3,No
+E3894,Terry Miller,S006,Python,2,1,Yes
+E2973,Ronnie Williams,S008,Machine Learning,5,2,No
+E4437,Jason Velazquez,S012,Project Management,3,2,No
+E1870,Deanna Lopez,S005,HTML/CSS,4,1,Yes
+E610,Laura Hebert,S006,Python,5,1,No
+E4174,Paula King,S005,HTML/CSS,3,4,Yes
+E3943,Randall Miller,S009,Data Visualization,2,1,No
+E370,Tiffany Walker,S014,Client Management,5,2,No
+E2952,Ryan Galvan,S001,JavaScript,5,1,No
+E1880,Laura Hill,S013,Financial Modeling,2,4,No
+E2983,Barbara Keller,S008,Machine Learning,2,1,No
+E467,Brooke Griffin,S005,HTML/CSS,3,1,No
+E4706,Marc Hess,S015,Risk Management,5,3,Yes
+E2430,Michelle Barnes MD,S006,Python,2,4,Yes
+E1525,Alexis Johnson,S015,Risk Management,1,4,No
+E4092,Todd King,S015,Risk Management,6,11,No
+E4962,John Hunt,S007,SQL,4,4,Yes
+E746,Jeremy Wood PhD,S008,Machine Learning,10,7,Yes
+E1586,Gregory Decker,S012,Project Management,1,3,Yes
+E3480,Ashley Peterson,S002,React,2,3,Yes
+E2579,Bradley Anderson,S008,Machine Learning,6,9,No
+E1551,Michael Hayes,S006,Python,1,1,No
+E3277,Robin Allen,S004,Docker,4,4,Yes
+E4991,Melissa Ashley,S015,Risk Management,3,3,Yes
+E3462,Andrew Vega,S010,Big Data,9,12,No
+E2413,Anita Clark,S014,Client Management,1,4,No
+E2185,Heather Shaw,S003,Node.js,5,2,Yes
+E3364,Thomas Dawson,S006,Python,2,2,Yes
+E1306,Anne Torres,S012,Project Management,3,2,No
+E1418,Mathew Smith,S012,Project Management,5,4,No
+E3981,Angela Buchanan,S011,Consulting Basics,5,4,Yes
+E4884,Joshua Brooks,S012,Project Management,1,3,No
+E3862,Lucas Hughes,S012,Project Management,4,4,No
+E1254,David Moon,S008,Machine Learning,3,2,No
+E326,Nathan Jones,S009,Data Visualization,1,2,No
+E2220,Peggy Rojas,S009,Data Visualization,4,1,No
+E886,Earl Hobbs,S001,JavaScript,3,3,No
+E4097,Denise Harris,S010,Big Data,4,3,No
+E2625,Melanie Mendoza,S011,Consulting Basics,4,4,Yes
+E1982,James Green,S002,React,1,2,Yes
+E1785,Zachary Ferguson,S001,JavaScript,2,3,Yes
+E987,David Hamilton,S005,HTML/CSS,1,3,Yes
+E3237,Mr. Marc Aguilar II,S006,Python,6,6,Yes
+E4239,Ronnie Solis,S002,React,4,4,No
+E155,Dana Clayton,S014,Client Management,1,2,Yes
+E3145,Kelly Neal,S014,Client Management,3,4,Yes
+E2906,Nicholas Lyons,S007,SQL,9,9,Yes
+E1363,Rebecca Kennedy,S011,Consulting Basics,4,3,No
+E1878,Michele Brown,S012,Project Management,1,2,Yes
+E3916,Dana Lee,S009,Data Visualization,6,10,No
+E1036,Katie Gould,S002,React,10,9,No
+E4724,Christine Johnson,S009,Data Visualization,5,3,Yes
+E691,Ricardo Curry,S011,Consulting Basics,9,11,Yes
+E520,Kevin Edwards,S009,Data Visualization,4,3,No
+E2173,Brandi Kennedy,S012,Project Management,4,4,No
+E151,Sean Price,S012,Project Management,3,1,Yes
+E1877,Sandra Walton MD,S012,Project Management,1,2,Yes
+E3277,Robin Allen,S013,Financial Modeling,3,1,No
+E1258,Christopher Avila,S014,Client Management,1,4,No
+E791,Billy Manning,S012,Project Management,3,3,No
+E4080,Kelli Matthews,S003,Node.js,2,2,No
+E332,Jessica Alexander,S012,Project Management,7,11,Yes
+E2409,David Mack,S008,Machine Learning,3,2,No
+E1917,Margaret Smith,S009,Data Visualization,1,2,Yes
+E905,Emily Hernandez,S008,Machine Learning,3,3,No
+E4825,Mrs. Valerie Thompson,S003,Node.js,8,7,No
+E3782,Kimberly Parsons,S011,Consulting Basics,3,2,No
+E1427,John Gregory,S015,Risk Management,4,3,Yes
+E3479,Michelle Thomas,S011,Consulting Basics,5,4,Yes
+E503,Jesse Chavez,S007,SQL,5,3,Yes
+E4147,Lance Rodriguez,S013,Financial Modeling,3,1,Yes
+E3040,Kelly Fischer,S009,Data Visualization,5,1,No
+E978,Julie Conway,S004,Docker,9,7,No
+E4501,Brian Jordan,S011,Consulting Basics,5,3,No
+E637,Kyle Sanchez,S004,Docker,1,3,No
+E983,Billy Williams,S005,HTML/CSS,1,4,Yes
+E109,Kevin Lopez,S008,Machine Learning,5,4,No
+E4979,Todd Williams,S005,HTML/CSS,2,3,No
+E3513,Andrea Gates,S006,Python,3,4,No
+E1038,Angela Lyons,S005,HTML/CSS,9,12,No
+E567,Joseph Rogers,S006,Python,2,2,No
+E337,Holly Martinez,S012,Project Management,1,4,No
+E208,Donna Sullivan,S003,Node.js,4,3,No
+E544,John Miller,S012,Project Management,7,8,Yes
+E3832,Ashley Chandler,S001,JavaScript,2,2,Yes
+E160,Michael Roberts,S005,HTML/CSS,4,3,No
+E1617,Benjamin Galloway,S003,Node.js,4,4,Yes
+E3437,Aaron Nguyen,S003,Node.js,5,1,No
+E4330,Emily Hess,S008,Machine Learning,5,1,Yes
+E1361,David Rose,S012,Project Management,1,2,Yes
+E2350,Pamela Bailey,S004,Docker,3,1,Yes
+E2012,Michelle Walker,S006,Python,4,3,Yes
+E3129,Melanie Rios,S011,Consulting Basics,3,4,No
+E308,James Morgan,S004,Docker,6,11,Yes
+E4918,Ronald Luna,S008,Machine Learning,5,2,No
+E4846,Angela Schneider,S009,Data Visualization,7,12,No
+E1776,Ricky Jimenez,S014,Client Management,4,4,No
+E2152,Cody Williams,S014,Client Management,5,2,Yes
+E4203,Jessica Carr,S011,Consulting Basics,8,10,Yes
+E2550,Keith Thompson,S006,Python,10,6,No
+E4665,Luis Miller,S004,Docker,2,1,Yes
+E3062,Jason Rivera,S001,JavaScript,2,2,No
+E642,David Wilson,S002,React,3,1,Yes
+E1413,Ricardo Sullivan,S011,Consulting Basics,9,11,No
+E2062,Wesley Ramsey,S012,Project Management,2,2,Yes
+E2999,Nicholas Carson,S013,Financial Modeling,5,2,No
+E2321,George Freeman,S012,Project Management,5,1,No
+E4004,James Chapman,S007,SQL,2,2,No
+E3071,Ryan Chavez,S008,Machine Learning,4,3,No
+E3608,Jill Wilson,S001,JavaScript,1,4,Yes
+E4794,Lisa Hall,S006,Python,3,1,No
+E3871,Alisha Jarvis,S002,React,5,1,No
+E1233,Autumn Shepherd,S001,JavaScript,2,2,Yes
+E3397,Aaron Dunn,S010,Big Data,6,11,No
+E290,Daryl Braun,S014,Client Management,2,1,Yes
+E2669,Danielle Morris,S007,SQL,4,1,No
+E047,Mary Hodge,S002,React,3,4,No
+E1500,Sharon Cook,S002,React,1,3,Yes
+E3841,Haley Hill,S013,Financial Modeling,3,3,No
+E1401,Victor Hunt,S014,Client Management,8,10,No
+E2080,James Anderson,S011,Consulting Basics,1,4,Yes
+E1580,Trevor Hill,S011,Consulting Basics,2,4,Yes
+E127,Stephanie Brown,S005,HTML/CSS,1,2,Yes
+E1582,Kyle Lucas,S012,Project Management,9,10,No
+E2003,Jason Smith,S005,HTML/CSS,7,8,No
+E1981,Gregory Warner,S015,Risk Management,5,1,Yes
+E949,Bobby Bates,S012,Project Management,2,3,Yes
+E1510,Amber Smith,S001,JavaScript,8,8,No
+E3075,Sylvia Cochran,S013,Financial Modeling,4,4,No
+E3531,Rebecca Hooper,S008,Machine Learning,2,1,No
+E4220,Kenneth Navarro,S004,Docker,1,3,Yes
+E1544,Heather Wise,S001,JavaScript,2,3,No
+E4106,Vanessa Cooper,S010,Big Data,3,2,Yes
+E4320,George Ramirez,S009,Data Visualization,4,4,No
+E878,Tommy Brown,S015,Risk Management,3,2,No
+E3193,Linda Brown,S008,Machine Learning,5,2,No
+E1157,Yvette Weaver,S012,Project Management,3,3,No
+E4217,Angela Long,S007,SQL,6,7,No
+E2905,Lisa Gonzales,S013,Financial Modeling,4,1,Yes
+E4667,Jessica King,S006,Python,2,4,No
+E2600,Jay Jordan,S014,Client Management,3,2,No
+E351,Benjamin Hopkins,S015,Risk Management,1,1,No
+E026,Heather Park,S010,Big Data,5,4,Yes
+E3212,Ronald Bailey,S004,Docker,2,2,Yes
+E3599,Daniel Cummings,S011,Consulting Basics,9,11,No
+E3552,Anthony Hawkins,S012,Project Management,5,4,Yes
+E3913,Melissa Beasley,S015,Risk Management,1,1,Yes
+E2971,Caroline Le,S011,Consulting Basics,5,1,Yes
+E1568,Amy Gonzales,S005,HTML/CSS,2,3,No
+E362,Michael Harper,S005,HTML/CSS,4,4,No
+E3676,Alex Young,S003,Node.js,10,10,No
+E4943,Ann Mullins,S008,Machine Learning,8,7,No
+E2933,Jennifer Gaines,S005,HTML/CSS,2,3,No
+E1291,Stephen Bell,S011,Consulting Basics,2,2,Yes
+E2010,Hannah Reynolds,S004,Docker,2,2,No
+E1161,Scott Ortiz,S008,Machine Learning,5,4,No
+E4030,Jacqueline Miller,S006,Python,8,5,No
+E3417,Joseph Stone,S009,Data Visualization,2,3,Yes
+E2990,Brian Harrison,S008,Machine Learning,1,2,Yes
+E3027,Lindsay Jordan,S003,Node.js,5,3,Yes
+E4287,Tammy Moran,S014,Client Management,1,3,No
+E3947,Lindsey Vaughn,S003,Node.js,3,2,No
+E138,Jodi Herring,S013,Financial Modeling,8,11,Yes
+E2642,Denise Allen,S014,Client Management,2,2,Yes
+E1919,Mary Nelson,S009,Data Visualization,4,4,Yes
+E722,Brandon Valdez,S005,HTML/CSS,1,3,Yes
+E441,Kimberly Lopez,S006,Python,2,1,No
+E3058,Elizabeth Spencer,S003,Node.js,3,4,No
+E4256,Andrew Fowler,S011,Consulting Basics,4,1,No
+E1308,Susan Miranda,S014,Client Management,4,2,No
+E1614,Anna Fox,S011,Consulting Basics,1,1,No
+E1300,Kimberly Davis,S013,Financial Modeling,3,3,No
+E530,Deborah Calhoun,S005,HTML/CSS,3,1,Yes
+E1819,Peter Randall,S014,Client Management,4,4,Yes
+E1961,Elizabeth Reyes,S006,Python,3,3,Yes
+E4271,David Leon,S001,JavaScript,1,2,No
+E4078,Jeffrey Rodriguez,S004,Docker,4,2,Yes
+E1933,Tonya Wilkinson,S011,Consulting Basics,9,9,No
+E1393,Ashley Nichols,S006,Python,1,1,No
+E4575,Anthony Allen,S005,HTML/CSS,1,1,No
+E1318,Kristen Romero,S014,Client Management,2,3,No
+E4327,Mrs. Jasmine Rogers,S015,Risk Management,5,3,Yes
+E4457,Melinda Johnson,S011,Consulting Basics,5,2,Yes
+E937,Diane Wood,S006,Python,5,3,No
+E2873,Mitchell Crawford,S008,Machine Learning,1,3,Yes
+E201,Ian Juarez,S011,Consulting Basics,10,7,No
+E3762,Beverly Atkinson,S006,Python,4,2,No
+E4356,Isaac Williams,S004,Docker,5,2,No
+E2208,Sierra Olson,S013,Financial Modeling,4,3,No
+E3352,Christina Dunn,S003,Node.js,1,3,Yes
+E009,Alisha Brown,S002,React,5,3,Yes
+E2152,Cody Williams,S011,Consulting Basics,2,1,No
+E2186,Kevin Escobar,S005,HTML/CSS,4,3,Yes
+E3857,Ronald Madden,S005,HTML/CSS,1,2,No
+E1424,Gina Flores,S003,Node.js,2,1,Yes
+E2669,Danielle Morris,S011,Consulting Basics,2,1,No
+E2416,Joseph White,S015,Risk Management,4,3,No
+E1261,Julie Wallace,S004,Docker,4,4,Yes
+E3863,Kenneth Benjamin,S011,Consulting Basics,1,3,No
+E4474,Jasmine Wilson,S009,Data Visualization,6,5,No
+E3924,Brett Jones,S013,Financial Modeling,1,4,Yes
+E3075,Sylvia Cochran,S011,Consulting Basics,1,3,No
+E3828,Leonard Stewart,S008,Machine Learning,1,1,No
+E4879,Ashley Watkins,S013,Financial Modeling,4,4,No
+E3359,Richard Buckley,S008,Machine Learning,10,8,No
+E1718,Mrs. Carol Dominguez,S013,Financial Modeling,2,3,No
+E4033,Michael Williams,S003,Node.js,10,8,Yes
+E3838,Steven Graham,S010,Big Data,5,1,No
+E3485,Nancy Rosario,S004,Docker,3,2,No
+E2123,Lisa Wu,S008,Machine Learning,3,2,No
+E1083,Pamela Scott,S008,Machine Learning,1,4,Yes
+E2220,Peggy Rojas,S014,Client Management,7,9,No
+E4015,Carmen Woods,S002,React,3,3,Yes
+E4166,Monica Foster,S014,Client Management,1,2,No
+E2662,Michelle Ortiz,S014,Client Management,4,3,Yes
+E3884,Scott Powers,S007,SQL,2,3,Yes
+E4345,Rebecca Evans,S014,Client Management,5,3,Yes
+E894,Michael Bell,S004,Docker,8,5,No
+E3711,Jeremy Roberson,S008,Machine Learning,3,1,Yes
+E2664,Chad Bryan,S008,Machine Learning,1,1,Yes
+E3468,Thomas Hurley,S010,Big Data,4,4,No
+E3849,Michelle Chung,S012,Project Management,3,3,No
+E3396,Amanda Nash,S003,Node.js,9,12,No
+E2531,Russell Lyons,S007,SQL,9,12,No
+E435,Desiree Garcia,S006,Python,2,2,Yes
+E716,Stephen Cain,S009,Data Visualization,7,9,No
+E3883,Kyle Holloway,S007,SQL,2,2,Yes
+E2829,Cody Harrison,S014,Client Management,2,2,No
+E1937,Brian Cook,S012,Project Management,2,1,Yes
+E2930,Joseph Lee,S012,Project Management,5,1,Yes
+E1640,Maria Henderson,S007,SQL,3,2,No
+E3629,Diamond Myers,S005,HTML/CSS,6,6,No
+E3905,Michael Jenkins,S001,JavaScript,4,1,No
+E1357,Katherine Perez,S014,Client Management,5,2,No
+E2127,Dustin Clark,S012,Project Management,2,1,No
+E2545,Stephanie Bennett,S006,Python,1,3,Yes
+E1274,Justin Sanchez,S014,Client Management,6,10,Yes
+E4735,Sheryl Bennett,S009,Data Visualization,3,1,Yes
+E3739,Jasmine Mclean,S015,Risk Management,8,10,No
+E2201,Luis Stanton,S008,Machine Learning,4,4,Yes
+E1282,Kirsten Campbell,S009,Data Visualization,5,3,No
+E1899,Angela Mitchell,S006,Python,2,4,No
+E3229,Austin Bennett,S007,SQL,4,2,No
+E3085,Scott Mays,S012,Project Management,10,8,No
+E3084,Marcus Smith,S011,Consulting Basics,5,1,Yes
+E2214,Brandy Reyes,S003,Node.js,7,5,Yes
+E4215,Nancy Robinson,S008,Machine Learning,2,3,Yes
+E3529,Jeremy Adams,S009,Data Visualization,2,3,Yes
+E366,Amy Anderson,S012,Project Management,1,4,Yes
+E4388,Cynthia Johnson,S013,Financial Modeling,5,3,No
+E3025,Jonathon Peterson,S012,Project Management,9,6,Yes
+E1981,Gregory Warner,S009,Data Visualization,1,1,No
+E1971,Amy Curry,S010,Big Data,3,2,No
+E3937,Benjamin Kim,S004,Docker,3,1,Yes
+E4013,Anthony Dyer,S006,Python,3,4,Yes
+E1039,Laura Blackwell,S013,Financial Modeling,9,8,Yes
+E3953,John Ortiz,S013,Financial Modeling,4,3,Yes
+E2693,Walter Coleman,S011,Consulting Basics,5,3,Yes
+E2281,Erik Knight,S003,Node.js,4,2,Yes
+E4065,Nicholas Schroeder,S003,Node.js,2,3,Yes
+E193,Austin Casey,S014,Client Management,3,4,No
+E4522,Mr. Christopher Richards,S013,Financial Modeling,8,12,No
+E4173,Michael Stanton,S003,Node.js,2,2,No
+E2167,Beth Henderson,S005,HTML/CSS,3,1,Yes
+E2522,Amy Pearson,S015,Risk Management,2,2,No
+E3843,Timothy Smith,S013,Financial Modeling,4,3,No
+E4062,Matthew Monroe,S010,Big Data,5,1,Yes
+E027,Jesus Davies,S006,Python,5,4,No
+E4923,Douglas Kelly,S010,Big Data,2,3,Yes
+E993,Katie Costa,S004,Docker,1,2,Yes
+E1805,Debra Tanner,S002,React,3,4,Yes
+E4844,Joshua Allen,S011,Consulting Basics,4,1,Yes
+E700,Christopher Fox,S015,Risk Management,2,1,No
+E1346,Jonathan Smith,S005,HTML/CSS,3,4,Yes
+E3906,Mary Lee,S012,Project Management,4,2,No
+E2711,Emily Ellis,S002,React,4,4,Yes
+E496,Jacqueline Martin MD,S011,Consulting Basics,2,2,No
+E1849,Michael Strickland,S014,Client Management,10,10,Yes
+E474,Brian Lee,S004,Docker,1,2,Yes
+E4046,Jason Kennedy,S001,JavaScript,4,3,No
+E503,Jesse Chavez,S014,Client Management,2,4,Yes
+E4947,Peter Roberts,S004,Docker,5,4,Yes
+E4227,Alexandria Williams,S014,Client Management,5,2,No
+E1821,Anna Washington,S006,Python,3,2,No
+E1868,Tyler Nixon,S001,JavaScript,5,4,No
+E2244,Christopher Sanchez,S005,HTML/CSS,2,3,No
+E2048,Brenda Walker,S005,HTML/CSS,5,3,Yes
+E1641,Mrs. Rebecca Beltran PhD,S002,React,1,3,No
+E1899,Angela Mitchell,S010,Big Data,4,1,No
+E3088,Heidi Cox,S011,Consulting Basics,4,4,No
+E4401,Patricia Smith,S003,Node.js,10,10,Yes
+E2193,Angelica Newman,S012,Project Management,6,6,Yes
+E2268,Shawn Carter,S007,SQL,1,4,Yes
+E032,David Taylor,S004,Docker,5,1,No
+E3060,Stephanie Newton,S004,Docker,7,12,No
+E1359,Crystal Berry,S015,Risk Management,2,2,Yes
+E1150,Matthew Donovan,S004,Docker,5,3,No
+E4757,Tracey Herrera,S010,Big Data,10,9,No
+E1295,Jason Thomas,S006,Python,2,1,Yes
+E2632,Justin Watts,S014,Client Management,4,2,Yes
+E099,Jeff Smith,S001,JavaScript,5,3,No
+E4279,Bernard Johnson,S007,SQL,5,4,Yes
+E2550,Keith Thompson,S001,JavaScript,1,2,Yes
+E890,Chad Alvarado,S014,Client Management,2,2,Yes
+E2488,Paula Anderson,S004,Docker,4,2,Yes
+E288,Michelle King,S001,JavaScript,4,3,Yes
+E2088,John Barton,S011,Consulting Basics,1,3,Yes
+E632,Nicholas Phelps,S011,Consulting Basics,4,3,Yes
+E3070,Angela Richmond,S001,JavaScript,5,3,Yes
+E3685,Gabriel Hahn,S002,React,3,3,Yes
+E2262,Brian Glenn,S011,Consulting Basics,4,3,No
+E4184,Jeffrey Barnes,S004,Docker,1,2,Yes
+E3607,Jill Williamson,S010,Big Data,2,1,Yes
+E1887,Teresa Quinn,S010,Big Data,4,3,No
+E3068,Brian Aguirre,S007,SQL,3,2,Yes
+E467,Brooke Griffin,S001,JavaScript,1,3,Yes
+E2322,Crystal Kent,S010,Big Data,2,3,Yes
+E4258,Veronica Hood,S007,SQL,5,1,Yes
+E521,Mark Jackson,S002,React,9,10,No
+E2206,Jonathan Edwards,S011,Consulting Basics,5,3,Yes
+E973,Donald Sullivan,S014,Client Management,1,3,No
+E2332,Richard Rice,S013,Financial Modeling,3,4,No
+E2253,Angela Miller,S002,React,1,2,No
+E4741,Carrie Cook,S008,Machine Learning,1,4,No
+E1035,James Nguyen,S015,Risk Management,5,4,No
+E272,Courtney Turner,S013,Financial Modeling,3,4,No
+E4313,Eric Barrera,S006,Python,5,2,Yes
+E1299,Alyssa Johnson,S002,React,5,3,Yes
+E2943,Amanda Duran,S002,React,8,10,Yes
+E1595,Nathan Ball,S015,Risk Management,4,1,No
+E4775,Melanie Wheeler,S013,Financial Modeling,3,4,Yes
+E393,Erin Jones,S007,SQL,1,1,No
+E4096,Deborah Fisher,S013,Financial Modeling,3,2,No
+E185,Darryl Cox,S004,Docker,4,3,No
+E3900,Melanie Simon,S009,Data Visualization,3,1,Yes
+E923,Jamie Ali,S004,Docker,1,2,Yes
+E2340,Tammy Stephens,S008,Machine Learning,2,2,No
+E4927,Barbara Jennings,S003,Node.js,1,2,No
+E106,Sean Chavez,S015,Risk Management,4,3,No
+E3672,Emily Richard,S005,HTML/CSS,2,4,Yes
+E1235,Matthew Lawrence,S002,React,3,1,Yes
+E3203,Heidi Smith,S013,Financial Modeling,10,11,Yes
+E1502,Jennifer Miller,S003,Node.js,4,4,Yes
+E2839,Shawn Smith,S003,Node.js,3,2,No
+E3448,Cindy Brown,S003,Node.js,1,4,No
+E1251,Joseph Walker,S002,React,1,1,No
+E837,Christina Miller,S014,Client Management,5,4,No
+E445,Jasmine Williams,S004,Docker,3,3,Yes
+E2590,Nicholas Kim,S014,Client Management,4,3,No
+E3025,Jonathon Peterson,S002,React,3,4,No
+E3807,Jason Patterson,S012,Project Management,6,11,Yes
+E438,Nicholas Matthews,S007,SQL,1,2,No
+E219,Amy Carter,S014,Client Management,5,2,No
+E1344,Barbara Barnett,S009,Data Visualization,4,3,No
+E3791,Ms. Laura Jones,S008,Machine Learning,3,1,Yes
+E166,John Hill,S012,Project Management,8,10,Yes
+E3592,Joanne Armstrong,S011,Consulting Basics,5,1,Yes
+E510,Michael Valdez,S009,Data Visualization,1,3,No
+E1729,Elizabeth Baker,S011,Consulting Basics,2,3,Yes
+E1804,Michael Brown,S009,Data Visualization,4,1,No
+E1158,Mary Crawford,S004,Docker,1,4,Yes
+E4851,Ronald Carey,S010,Big Data,4,4,No
+E2297,Brenda Matthews,S001,JavaScript,2,2,No
+E990,Justin Mays,S003,Node.js,2,3,No
+E1575,Kristi Nguyen,S008,Machine Learning,3,1,No
+E4904,Gina Hancock,S003,Node.js,8,11,No
+E4215,Nancy Robinson,S015,Risk Management,3,1,Yes
+E3458,Priscilla Long,S002,React,5,4,Yes
+E3283,Sharon Clark,S010,Big Data,2,2,Yes
+E2370,Jay Hall,S008,Machine Learning,2,2,No
+E1696,Robert Woodard,S012,Project Management,1,2,No
+E4602,Andrew Morris,S015,Risk Management,4,3,Yes
+E4430,Veronica Jensen,S004,Docker,4,1,No
+E3136,Mr. Corey Tanner,S006,Python,4,4,No
+E2516,Katherine James,S014,Client Management,2,2,Yes
+E2473,Steven Nunez,S002,React,1,3,Yes
+E4540,Dr. Lori Burton,S009,Data Visualization,9,12,Yes
+E3346,Sara Roberts DDS,S010,Big Data,4,2,No
+E3132,Kevin Fuentes,S006,Python,1,3,Yes
+E820,Mrs. Brandi Barker,S006,Python,7,5,No
+E1096,Christina Jacobs,S004,Docker,5,1,No
+E2368,Nicole Orozco,S010,Big Data,2,1,Yes
+E385,Marco Gonzalez,S006,Python,2,1,Yes
+E2809,Ashley Hill,S008,Machine Learning,1,4,Yes
+E3850,Matthew Rogers,S005,HTML/CSS,2,4,Yes
+E1907,Logan Montgomery,S012,Project Management,1,3,No
+E4122,Heidi Boyd,S001,JavaScript,1,1,No
+E2767,William Wells,S012,Project Management,3,2,Yes
+E1121,Dawn Fischer,S006,Python,4,4,No
+E1328,Andrew Simmons,S013,Financial Modeling,7,10,No
+E3350,Ruth Davis,S008,Machine Learning,2,1,Yes
+E1168,James Patterson,S003,Node.js,5,4,No
+E1413,Ricardo Sullivan,S014,Client Management,4,2,Yes
+E3215,Michael Moore,S003,Node.js,5,4,Yes
+E2386,Devin Andrews,S012,Project Management,2,1,Yes
+E2392,Joyce Meadows,S013,Financial Modeling,1,4,Yes
+E521,Mark Jackson,S006,Python,3,2,Yes
+E4315,Courtney Griffith,S003,Node.js,3,4,No
+E3799,Jennifer Mccoy,S007,SQL,4,3,Yes
+E919,Austin Williams,S015,Risk Management,4,3,No
+E017,Travis Moore,S015,Risk Management,3,2,No
+E2788,Amanda Washington,S004,Docker,1,2,No
+E583,Kristin Thomas,S010,Big Data,1,3,No
+E1320,Morgan Sherman,S009,Data Visualization,1,3,No
+E126,Mrs. Jamie Foley,S015,Risk Management,9,7,Yes
+E248,Tara Frederick,S007,SQL,1,3,No
+E3149,Sylvia David,S010,Big Data,2,4,No
+E1623,Eugene Snyder,S012,Project Management,4,2,Yes
+E3931,Tammy Quinn,S007,SQL,1,1,No
+E3898,Alan King,S008,Machine Learning,6,6,Yes
+E1134,Thomas Bell,S014,Client Management,1,1,Yes
+E1848,Christina Welch,S010,Big Data,1,3,No
+E2978,Antonio Mcdaniel,S013,Financial Modeling,2,2,Yes
+E3361,Leslie Elliott,S005,HTML/CSS,8,10,No
+E4037,Xavier Dixon,S007,SQL,3,3,Yes
+E1717,Joyce Warner,S015,Risk Management,5,4,No
+E2399,Diamond Paul,S012,Project Management,5,1,No
+E2105,Jason Rodriguez,S008,Machine Learning,2,2,No
+E2076,Mia Carpenter,S014,Client Management,3,1,No
+E2905,Lisa Gonzales,S008,Machine Learning,6,6,Yes
+E4506,Curtis Hernandez,S007,SQL,2,4,Yes
+E1151,Melissa Lopez,S004,Docker,4,4,Yes
+E914,Jack Smith,S009,Data Visualization,4,2,Yes
+E1126,Anthony Horton,S005,HTML/CSS,3,3,Yes
+E1751,Johnathan Moran,S011,Consulting Basics,2,4,Yes
+E3000,Mark Ross,S013,Financial Modeling,1,2,Yes
+E4993,Sandra Charles,S011,Consulting Basics,4,1,Yes
+E4093,Susan Coleman,S014,Client Management,2,1,No
+E1162,Victor Huerta,S004,Docker,3,4,No
+E4656,Joseph Sandoval,S008,Machine Learning,10,10,No
+E1475,Marvin Williams,S011,Consulting Basics,4,1,No
+E3388,Stephanie Michael,S006,Python,4,2,No
+E4565,Javier Torres,S012,Project Management,1,4,Yes
+E235,Edward Cook,S001,JavaScript,4,2,No
+E2120,Molly Johnson,S008,Machine Learning,9,7,No
+E717,Zachary Brown,S010,Big Data,4,2,Yes
+E1368,Jeffrey Wheeler,S005,HTML/CSS,8,12,No
+E1381,Adam Ramos,S015,Risk Management,3,2,Yes
+E2896,Terry Briggs,S003,Node.js,1,2,No
+E3791,Ms. Laura Jones,S003,Node.js,4,2,No
+E599,Jessica Campbell,S008,Machine Learning,4,2,Yes
+E3748,Holly Blankenship,S004,Docker,2,1,No
+E3429,Gavin Wright,S015,Risk Management,3,4,Yes
+E466,Laura Hamilton,S008,Machine Learning,4,1,No
+E445,Jasmine Williams,S009,Data Visualization,4,4,Yes
+E670,Jennifer Burton,S015,Risk Management,4,2,No
+E1651,Matthew Jackson,S013,Financial Modeling,1,4,No
+E4498,Kenneth Thomas,S006,Python,1,1,No
+E1926,Lisa Singh,S003,Node.js,1,1,No
+E3744,Robert Ellis,S015,Risk Management,5,4,Yes
+E4503,Marie Benton,S003,Node.js,2,3,No
+E2164,Robert Padilla,S009,Data Visualization,3,3,Yes
+E1896,Brian Adams,S011,Consulting Basics,3,1,No
+E397,Lisa Peters,S005,HTML/CSS,4,1,Yes
+E1123,James Washington,S008,Machine Learning,3,1,Yes
+E3782,Kimberly Parsons,S007,SQL,5,2,Yes
+E426,Julie Phillips,S010,Big Data,4,1,Yes
+E2663,Sheryl Graves,S012,Project Management,1,4,No
+E2046,Hannah White,S007,SQL,2,2,No
+E694,Timothy Robles,S004,Docker,1,1,Yes
+E3728,Emma Santos DVM,S010,Big Data,6,12,Yes
+E3935,Joseph Russell,S007,SQL,2,4,No
+E4649,Jennifer Wiggins,S006,Python,3,1,No
+E2867,Kelly Rocha,S006,Python,3,4,Yes
+E3924,Brett Jones,S004,Docker,4,2,Yes
+E3066,Candace West,S014,Client Management,4,1,Yes
+E2895,Jason Dunn,S009,Data Visualization,4,1,Yes
+E4511,Michelle Mcintyre,S012,Project Management,4,2,Yes
+E2711,Emily Ellis,S014,Client Management,1,4,Yes
+E2130,Nathan Cooper,S002,React,4,4,No
+E2352,Micheal Doyle,S008,Machine Learning,2,4,No
+E634,Joshua Johns,S012,Project Management,4,4,Yes
+E4361,Theresa Garcia,S015,Risk Management,3,2,Yes
+E3586,Matthew Jackson,S006,Python,3,4,No
+E3596,Melanie Lee,S010,Big Data,2,2,Yes
+E4149,George Olsen,S011,Consulting Basics,4,1,Yes
+E4205,Rachael Ward,S007,SQL,4,4,Yes
+E4422,Kerry Brooks,S007,SQL,5,1,No
+E732,Dalton Gilmore,S004,Docker,1,4,No
+E3145,Kelly Neal,S011,Consulting Basics,5,1,No
+E2506,Jennifer Baker,S010,Big Data,5,3,No
+E3437,Aaron Nguyen,S010,Big Data,3,3,No
+E4220,Kenneth Navarro,S014,Client Management,4,3,No
+E2576,Danielle Perez,S004,Docker,1,2,No
+E800,Melissa Stanton,S005,HTML/CSS,3,4,No
+E3489,Tamara Shepherd,S001,JavaScript,1,3,Yes
+E2556,Samantha Reyes,S008,Machine Learning,4,2,No
+E2237,Andrew Gomez,S004,Docker,2,3,No
+E3298,Jordan Camacho,S002,React,2,2,No
+E268,Heidi Rodriguez,S007,SQL,2,1,Yes
+E109,Kevin Lopez,S010,Big Data,4,2,No
+E4366,Johnny Horton,S006,Python,5,2,No
+E1233,Autumn Shepherd,S006,Python,2,1,Yes
+E1377,Jacob Nguyen,S008,Machine Learning,8,9,No
+E983,Billy Williams,S009,Data Visualization,5,1,Yes
+E118,Kenneth Harris,S010,Big Data,6,12,Yes
+E1377,Jacob Nguyen,S010,Big Data,1,4,No
+E3314,Nicole Mcfarland,S008,Machine Learning,1,3,Yes
+E4678,Elizabeth Nguyen,S013,Financial Modeling,1,4,No
+E1306,Anne Torres,S015,Risk Management,5,2,No
+E936,Joanna Kelley,S014,Client Management,9,5,Yes
+E1262,Linda Bright,S011,Consulting Basics,3,1,Yes
+E1075,Timothy Johnson,S006,Python,8,8,No
+E4573,Michael Lewis MD,S013,Financial Modeling,2,3,No
+E009,Alisha Brown,S015,Risk Management,4,3,No
+E3533,Stephanie Johnson,S015,Risk Management,3,2,Yes
+E2068,Scott Marquez,S011,Consulting Basics,4,3,Yes
+E4745,Gordon Williams,S005,HTML/CSS,9,7,Yes
+E2063,Joel Evans,S005,HTML/CSS,4,3,Yes
+E2276,Amber Austin,S002,React,4,1,No
+E879,Jeff Jones,S013,Financial Modeling,5,4,No
+E2576,Danielle Perez,S011,Consulting Basics,2,4,No
+E3626,Stephanie Mccarthy,S005,HTML/CSS,3,2,Yes
+E2687,Kathleen Garcia,S003,Node.js,2,3,No
+E690,Keith Davis DDS,S011,Consulting Basics,7,9,Yes
+E1510,Amber Smith,S010,Big Data,6,6,No
+E2223,Jacob Farmer,S007,SQL,4,2,No
+E3023,Brittany Fernandez,S014,Client Management,3,3,Yes
+E553,Johnny Perez,S010,Big Data,4,3,No
+E1210,Donna Schneider,S010,Big Data,10,6,Yes
+E2121,Michael Schmidt,S005,HTML/CSS,1,1,No
+E1709,Christine Dalton,S001,JavaScript,2,3,No
+E221,Jordan Spencer,S005,HTML/CSS,4,4,No
+E2831,Brandon Chavez,S011,Consulting Basics,1,3,Yes
+E494,Monica Harris,S015,Risk Management,10,10,Yes
+E4893,Kimberly Lopez,S008,Machine Learning,3,1,Yes
+E4822,Bailey Anderson,S001,JavaScript,3,3,No
+E177,Antonio White,S006,Python,3,2,No
+E1672,Matthew May,S007,SQL,9,5,No
+E4380,Bryce Hernandez,S014,Client Management,3,4,Yes
+E766,Taylor Wolf,S011,Consulting Basics,4,1,Yes
+E3353,Melissa Benjamin,S008,Machine Learning,2,2,Yes
+E3955,John Cervantes,S010,Big Data,4,1,No
+E380,Lori Adams,S008,Machine Learning,5,1,No
+E1956,Cassandra Adams,S015,Risk Management,2,2,Yes
+E2843,Peter Wells,S015,Risk Management,4,4,No
+E2597,Donna Davis MD,S006,Python,4,3,Yes
+E4256,Andrew Fowler,S001,JavaScript,10,8,No
+E3555,Joshua Reyes,S006,Python,4,3,No
+E1780,Jason Rodriguez,S006,Python,1,3,No
+E1860,Susan Williams,S010,Big Data,1,2,Yes
+E3724,Charles Green,S008,Machine Learning,4,2,Yes
+E4340,Michael Maldonado,S012,Project Management,5,4,No
+E1338,Walter Smith,S006,Python,8,10,No
+E1840,Dawn Miller,S005,HTML/CSS,3,4,Yes
+E1510,Amber Smith,S006,Python,5,3,No
+E4104,Christina Garcia,S006,Python,5,2,No
+E2775,Sheryl Garcia,S009,Data Visualization,7,10,No
+E3625,Erika Mills,S010,Big Data,2,1,No
+E318,Jennifer Martinez,S003,Node.js,3,4,Yes
+E3267,Kathy Silva,S015,Risk Management,2,1,Yes
+E836,Robert Allen,S011,Consulting Basics,10,8,Yes
+E1807,Heather Strong,S005,HTML/CSS,5,2,Yes
+E736,Tanya Sosa,S005,HTML/CSS,4,3,No
+E2357,Ricky Steele,S012,Project Management,9,8,Yes
+E3912,Thomas Page,S007,SQL,4,1,Yes
+E202,Ronald Fernandez,S004,Docker,1,1,No
+E1304,Garrett Chapman,S002,React,6,12,No
+E290,Daryl Braun,S015,Risk Management,9,12,Yes
+E2849,Jennifer Burke,S003,Node.js,2,1,No
+E4091,Darin Green,S014,Client Management,3,2,No
+E4238,Juan Calhoun,S007,SQL,5,1,Yes
+E3002,Sydney Lewis,S002,React,1,2,Yes
+E2343,Stacy Shepard,S003,Node.js,1,1,No
+E2631,Joseph Harper,S001,JavaScript,4,3,Yes
+E2707,Samantha Anderson,S013,Financial Modeling,4,3,Yes
+E3139,Dr. Brenda Camacho,S012,Project Management,1,1,Yes
+E2343,Stacy Shepard,S008,Machine Learning,1,1,Yes
+E383,Sharon Mccarty,S007,SQL,2,3,Yes
+E1180,Susan Garcia,S015,Risk Management,3,1,Yes
+E3439,William Willis,S005,HTML/CSS,2,1,No
+E2887,Brandon Nguyen,S008,Machine Learning,6,5,Yes
+E3783,Holly Stark,S004,Docker,4,2,Yes
+E3777,Kiara Robinson,S011,Consulting Basics,2,4,No
+E3714,Robert Holt,S002,React,4,2,Yes
+E4294,Mr. John Jefferson IV,S009,Data Visualization,4,4,No
+E3270,Robert Evans,S011,Consulting Basics,4,3,Yes
+E1479,Brandi Villarreal,S002,React,4,3,No
+E4516,Summer Kidd,S009,Data Visualization,3,1,No
+E881,Daniel Scott,S011,Consulting Basics,5,2,No
+E3352,Christina Dunn,S006,Python,4,4,Yes
+E3469,Christopher Sosa,S004,Docker,10,7,No
+E3085,Scott Mays,S001,JavaScript,1,4,Yes
+E787,Paul Myers,S005,HTML/CSS,7,8,No
+E1242,Jacob Romero,S012,Project Management,4,1,No
+E1936,Amber Wallace,S008,Machine Learning,1,3,No
+E1621,Bruce Miller,S011,Consulting Basics,1,2,No
+E1643,Mario Cross,S001,JavaScript,3,3,Yes
+E2463,Joseph Cortez,S004,Docker,2,1,Yes
+E061,Sarah Nichols,S006,Python,5,1,No
+E2299,Nicholas Schmidt,S002,React,2,2,Yes
+E2499,Edward Johnson,S001,JavaScript,5,3,No
+E2574,Lance Gallegos,S013,Financial Modeling,3,2,No
+E4598,Nicole Ayala,S014,Client Management,3,3,Yes
+E1940,Brittany Bridges,S005,HTML/CSS,5,4,No
+E4029,Sara Johnson,S014,Client Management,3,2,No
+E3114,Michelle Castillo,S006,Python,3,2,Yes
+E3495,Diamond Singh,S014,Client Management,2,1,No
+E4741,Carrie Cook,S013,Financial Modeling,4,2,No
+E2563,John Mcdonald,S009,Data Visualization,3,1,No
+E2524,David Scott,S001,JavaScript,4,2,No
+E324,Christopher Jones,S008,Machine Learning,4,4,Yes
+E4038,Tracy Mathews,S007,SQL,4,3,Yes
+E2834,Sonya Flores,S015,Risk Management,4,1,Yes
+E948,Samuel George,S009,Data Visualization,3,4,No
+E3590,Carrie Foster,S001,JavaScript,1,1,Yes
+E069,Jared Stevenson,S002,React,10,10,Yes
+E641,Laura Lang,S010,Big Data,1,4,No
+E678,Veronica Morris,S009,Data Visualization,8,5,Yes
+E1177,Michael Carney,S002,React,7,6,Yes
+E850,Caleb Hunter,S013,Financial Modeling,2,2,No
+E2229,Stephen Cochran,S005,HTML/CSS,5,3,Yes
+E4105,Troy Leon,S007,SQL,4,3,No
+E4617,Amanda Taylor,S015,Risk Management,4,1,No
+E217,Stephanie Maynard,S002,React,3,3,Yes
+E3695,Kristin Jones,S012,Project Management,2,3,No
+E2670,Sarah Morgan,S015,Risk Management,3,1,Yes
+E1209,Jeffrey Sosa,S004,Docker,5,2,No
+E1463,Christine Duran,S004,Docker,1,4,No
+E4408,Steven Fry,S011,Consulting Basics,2,2,No
+E2142,David Webster,S004,Docker,2,1,Yes
+E4752,Eddie Hayes,S006,Python,4,4,Yes
+E2306,Nichole House,S003,Node.js,1,1,Yes
+E1040,Harold Duncan,S004,Docker,5,3,No
+E4795,Patrick Gibson,S012,Project Management,5,3,No
+E531,Walter Johnson,S009,Data Visualization,2,2,Yes
+E989,Robert Dunn,S010,Big Data,1,4,No
+E2438,Leslie Meadows,S013,Financial Modeling,1,2,Yes
+E1285,Paul Griffith,S005,HTML/CSS,1,1,No
+E4128,Stacy Marshall,S003,Node.js,4,2,Yes
+E1478,Andrea Castro,S005,HTML/CSS,5,2,Yes
+E830,Jeffery Harris,S004,Docker,1,1,Yes
+E221,Jordan Spencer,S006,Python,5,3,Yes
+E2791,Jill Jordan,S008,Machine Learning,2,4,No
+E3393,Mr. William Kirk,S005,HTML/CSS,2,2,No
+E1073,William Adams,S014,Client Management,1,3,Yes
+E2303,Timothy Clark,S001,JavaScript,6,7,Yes
+E1440,Michael Lucas,S002,React,4,3,No
+E4464,Erin Taylor,S009,Data Visualization,3,1,Yes
+E4643,Laura Herrera,S008,Machine Learning,1,2,No
+E2884,Mr. Jonathon Garcia Jr.,S008,Machine Learning,2,1,Yes
+E4334,Timothy George,S012,Project Management,1,4,No
+E4348,Kristy Vega,S001,JavaScript,2,1,No
+E2636,Wyatt Morris,S013,Financial Modeling,8,6,No
+E4418,Felicia Wheeler,S015,Risk Management,5,1,Yes
+E3341,Juan Stewart,S014,Client Management,3,1,No
+E2193,Angelica Newman,S015,Risk Management,2,3,Yes
+E1178,Chad Sherman,S012,Project Management,4,1,Yes
+E2089,Benjamin Gutierrez,S014,Client Management,3,1,No
+E3595,Christopher Barker,S013,Financial Modeling,5,1,Yes
+E4978,Stacey Chavez,S015,Risk Management,3,1,No
+E3749,Paul Henderson,S006,Python,3,2,Yes
+E2025,Marc Carter,S009,Data Visualization,4,3,Yes
+E4406,Ashley Hicks,S005,HTML/CSS,1,4,Yes
+E2522,Amy Pearson,S006,Python,4,3,No
+E2523,Dana Solomon,S002,React,5,3,No
+E4251,Robert Fisher,S013,Financial Modeling,2,3,Yes
+E2525,Carol Alexander,S012,Project Management,3,4,Yes
+E4251,Robert Fisher,S015,Risk Management,1,3,No
+E1259,Mckenzie Reyes,S014,Client Management,4,3,Yes
+E495,Johnny Jensen,S015,Risk Management,2,4,No
+E4030,Jacqueline Miller,S002,React,10,6,Yes
+E2950,Alex Lamb,S003,Node.js,4,3,No
+E4075,Danielle Bauer,S013,Financial Modeling,2,4,Yes
+E1842,Rebecca Anderson,S014,Client Management,2,2,No
+E4890,Scott Lee,S007,SQL,2,1,Yes
+E3166,Juan Johnson,S015,Risk Management,5,3,Yes
+E1633,David Taylor,S012,Project Management,5,1,Yes
+E3043,Lisa Anderson,S006,Python,1,3,No
+E4248,Stephen Maldonado,S007,SQL,3,2,No
+E3547,Emily Cantrell,S006,Python,4,2,No
+E3063,John Allen,S010,Big Data,4,3,Yes
+E830,Jeffery Harris,S003,Node.js,5,2,Yes
+E4129,Aaron Hayes,S005,HTML/CSS,1,1,No
+E1133,Francisco Harris,S003,Node.js,5,4,Yes
+E273,Alison Mckenzie,S012,Project Management,1,3,No
+E3722,Justin Foster,S012,Project Management,2,3,Yes
+E219,Amy Carter,S010,Big Data,8,10,Yes
+E2955,Kelli Allen,S005,HTML/CSS,1,4,No
+E4427,Alex Gentry,S002,React,4,2,No
+E2582,Catherine White,S006,Python,5,2,Yes
+E4815,Lori Hansen,S004,Docker,5,1,No
+E4281,Matthew Fox,S003,Node.js,2,4,Yes
+E3453,Kristina Reynolds,S003,Node.js,1,1,No
+E2624,Albert Hopkins,S011,Consulting Basics,5,2,No
+E640,Mark Walker,S005,HTML/CSS,2,2,Yes
+E4785,Barbara Ellis,S008,Machine Learning,1,4,No
+E311,Adriana Kelley,S011,Consulting Basics,4,3,No
+E4140,Alexis Campbell,S008,Machine Learning,4,4,No
+E3125,Bruce Petersen,S008,Machine Learning,1,1,No
+E3327,Michael Jackson,S008,Machine Learning,9,8,No
+E410,Jennifer Roy,S003,Node.js,4,2,No
+E3912,Thomas Page,S006,Python,7,10,Yes
+E2963,Fernando Joyce,S005,HTML/CSS,7,6,No
+E3792,Todd Erickson,S014,Client Management,2,3,Yes
+E1499,Christopher Stewart,S005,HTML/CSS,3,4,Yes
+E3208,William Rodriguez,S004,Docker,9,6,No
+E3083,Christine Ward,S011,Consulting Basics,7,11,No
+E3591,Alexa Sanders,S015,Risk Management,1,3,Yes
+E3384,Catherine Wheeler,S011,Consulting Basics,1,3,No
+E4592,Nathan Combs,S004,Docker,3,2,Yes
+E3894,Terry Miller,S003,Node.js,3,3,No
+E1690,Bruce Wright,S008,Machine Learning,7,12,No
+E1569,Catherine Ramirez,S003,Node.js,1,3,No
+E1276,Brandon Shah,S015,Risk Management,8,9,Yes
+E3447,Andrea Guerrero,S006,Python,5,4,No
+E2029,Heather Rowe,S003,Node.js,1,4,No
+E3140,Rachel Gallagher,S008,Machine Learning,4,1,No
+E844,Jennifer Clayton,S007,SQL,4,1,Yes
+E4249,Jaclyn Robinson,S009,Data Visualization,5,2,No
+E3653,Austin Garrett,S005,HTML/CSS,3,4,Yes
+E4010,Ariana Bates,S005,HTML/CSS,5,1,Yes
+E3087,Dustin Wilson,S007,SQL,4,3,Yes
+E2361,Catherine Castro,S010,Big Data,3,2,Yes
+E3614,Steven Daniels,S011,Consulting Basics,1,4,Yes
+E694,Timothy Robles,S010,Big Data,3,1,No
+E2529,Daniel Ryan,S013,Financial Modeling,1,4,No
+E2690,Steven Hughes,S014,Client Management,4,3,Yes
+E172,Jason Wade,S008,Machine Learning,4,2,No
+E4326,Michael Webb,S007,SQL,5,5,No
+E1962,Nancy Davis,S006,Python,7,11,No
+E1079,John Smith,S003,Node.js,1,1,Yes
+E1353,Melissa Fowler,S012,Project Management,5,3,Yes
+E2774,Gregory Hutchinson,S011,Consulting Basics,5,3,No
+E1683,Kathleen Anderson,S015,Risk Management,4,4,Yes
+E4357,Benjamin Phillips,S001,JavaScript,2,3,Yes
+E3929,Emma Ward,S005,HTML/CSS,5,1,Yes
+E3299,Steven Phelps,S012,Project Management,2,3,No
+E1946,Jason Walter,S003,Node.js,2,2,No
+E3946,Charles Ramos,S014,Client Management,3,4,Yes
+E1051,Ronald Wall,S009,Data Visualization,10,11,Yes
+E478,Carrie Gallegos,S010,Big Data,3,1,No
+E3523,Christina Harmon,S010,Big Data,5,3,Yes
+E3164,Scott Warner,S009,Data Visualization,8,7,No
+E3164,Scott Warner,S013,Financial Modeling,4,3,Yes
+E4778,Frances Holt,S002,React,1,3,No
+E4640,Erica Schmidt,S010,Big Data,4,3,No
+E1041,Michael Hatfield,S014,Client Management,3,3,No
+E1399,Brandon Carter,S001,JavaScript,2,4,Yes
+E427,Brittany Martinez,S014,Client Management,2,2,No
+E4561,Jeffery Douglas,S007,SQL,4,3,No
+E1422,Anne Jennings,S001,JavaScript,1,2,Yes
+E4000,David Bishop,S004,Docker,3,2,Yes
+E3490,Lacey Williams,S005,HTML/CSS,9,11,No
+E1353,Melissa Fowler,S006,Python,5,3,No
+E1478,Andrea Castro,S003,Node.js,8,12,Yes
+E4014,Cody Williams,S001,JavaScript,4,3,No
+E3894,Terry Miller,S004,Docker,2,3,Yes
+E1407,Carlos Padilla,S014,Client Management,2,1,Yes
+E2032,Laura Wall,S011,Consulting Basics,3,4,No
+E2191,Steven Hernandez,S007,SQL,10,10,Yes
+E900,William Mendez,S006,Python,7,7,No
+E1933,Tonya Wilkinson,S012,Project Management,3,2,No
+E2539,Jenna Cline,S002,React,10,9,Yes
+E2247,Vanessa Love,S012,Project Management,1,3,Yes
+E2989,Stephanie Collins,S012,Project Management,6,6,No
+E2209,Benjamin Ward,S009,Data Visualization,4,1,No
+E3477,Roger Lang,S015,Risk Management,2,1,No
+E2478,Robert Christensen,S004,Docker,10,8,No
+E087,Sara Price,S005,HTML/CSS,1,4,No
+E1730,Amber Davis,S009,Data Visualization,2,4,Yes
+E3172,Savannah Ramirez,S005,HTML/CSS,2,4,No
+E2644,Caitlin Hamilton,S002,React,5,4,No
+E2671,Jamie Ayers,S006,Python,4,4,No
+E2431,Jeffrey Moody,S005,HTML/CSS,2,3,No
+E4533,Andrea Blevins,S005,HTML/CSS,1,4,Yes
+E4517,Fernando Sawyer,S010,Big Data,1,1,No
+E2016,David George,S011,Consulting Basics,1,1,No
+E1261,Julie Wallace,S012,Project Management,1,2,No
+E4264,Kristin Walker,S004,Docker,3,4,No
+E1793,Douglas Allen,S010,Big Data,2,2,No
+E3100,Christine Miller,S010,Big Data,8,7,No
+E4655,Erin Thompson,S008,Machine Learning,5,2,Yes
+E4694,Laurie Maddox MD,S003,Node.js,10,7,No
+E2938,Jeffrey Smith,S015,Risk Management,4,2,Yes
+E2362,Melissa Gilmore,S004,Docker,3,2,Yes
+E2576,Danielle Perez,S015,Risk Management,5,1,No
+E643,Veronica Baldwin,S001,JavaScript,2,2,Yes
+E257,Patricia Fowler,S003,Node.js,3,3,No
+E2213,Denise Washington,S003,Node.js,1,4,Yes
+E360,Dustin Hanson,S009,Data Visualization,10,10,Yes
+E4432,Stephanie Hernandez,S005,HTML/CSS,3,2,Yes
+E4178,Brittany Ruiz,S006,Python,5,3,Yes
+E1398,Michael Hanson,S001,JavaScript,4,1,No
+E075,Stephen Glass,S006,Python,8,6,Yes
+E2699,Christopher Little,S002,React,5,2,Yes
+E723,Jon Bowman,S005,HTML/CSS,1,1,Yes
+E4356,Isaac Williams,S005,HTML/CSS,8,5,No
+E4595,Brian Smith,S010,Big Data,5,2,Yes
+E864,Nicholas Thompson,S002,React,2,4,No
+E3095,Brandon Lawrence,S010,Big Data,1,4,No
+E4509,Peggy Matthews,S007,SQL,2,2,Yes
+E2794,Steven Gonzalez,S009,Data Visualization,1,2,Yes
+E1929,Andrew Vaughn,S007,SQL,2,2,Yes
+E2221,Gregory Alexander,S010,Big Data,4,2,No
+E3790,Randall Moore,S003,Node.js,4,1,No
+E3077,Tiffany Baker,S007,SQL,2,4,Yes
+E2226,Miguel Silva,S005,HTML/CSS,5,1,No
+E3282,Sean Chen,S014,Client Management,10,9,Yes
+E2995,Katie Bowers,S004,Docker,4,4,No
+E717,Zachary Brown,S004,Docker,8,5,No
+E3637,Emily Hendricks,S015,Risk Management,3,4,Yes
+E858,Karen Bell,S010,Big Data,5,1,No
+E3919,Jennifer Ibarra,S012,Project Management,2,1,No
+E2938,Jeffrey Smith,S015,Risk Management,3,1,Yes
+E3520,Joshua Olson,S004,Docker,4,4,Yes
+E1385,Nathan Elliott,S002,React,7,10,Yes
+E3531,Rebecca Hooper,S004,Docker,1,4,No
+E4281,Matthew Fox,S015,Risk Management,2,2,Yes
+E1431,Steven Davis,S006,Python,10,5,Yes
+E4584,Brent Jones,S009,Data Visualization,4,1,No
+E2502,Todd Davis,S002,React,5,4,Yes
+E3246,Loretta Griffith,S013,Financial Modeling,1,3,Yes
+E1770,Veronica Duncan,S004,Docker,4,2,Yes
+E2027,Tiffany Taylor,S004,Docker,3,3,Yes
+E1534,Alyssa Foster,S014,Client Management,2,4,No
+E1975,Samantha Powell,S008,Machine Learning,4,2,Yes
+E187,Jimmy Cantu,S015,Risk Management,8,8,Yes
+E2119,Valerie Robinson,S011,Consulting Basics,4,3,Yes
+E1701,Heather Richardson,S005,HTML/CSS,1,1,No
+E1602,Mandy Molina,S015,Risk Management,4,3,No
+E4025,Joseph Wilkinson,S004,Docker,5,3,Yes
+E1055,Amy Rogers,S011,Consulting Basics,6,6,No
+E3184,Austin Baldwin,S003,Node.js,5,4,No
+E4439,Sarah Walter,S005,HTML/CSS,3,4,Yes
+E2725,Amanda Reed,S007,SQL,3,4,No
+E2260,Carla Cooper,S006,Python,3,1,No
+E1507,Vernon Sullivan,S014,Client Management,3,2,No
+E3451,Stephanie Allen,S012,Project Management,4,2,Yes
+E2881,Caitlin Fuller,S010,Big Data,5,3,Yes
+E2270,Stephanie Nguyen,S013,Financial Modeling,3,2,Yes
+E287,Terry Moore,S007,SQL,5,4,Yes
+E3481,Richard Chandler,S002,React,1,1,Yes
+E260,Jack Anderson,S006,Python,6,8,Yes
+E112,Tiffany Morton,S015,Risk Management,5,1,No
+E018,Patrick Little,S001,JavaScript,2,4,Yes
+E3988,Samantha Anderson,S001,JavaScript,2,2,Yes
+E913,Jerry Wilson,S003,Node.js,4,4,No
+E3675,Amy Smith,S011,Consulting Basics,9,12,Yes
+E3979,Brett Fischer,S004,Docker,3,3,No
+E3540,Claudia Collins,S009,Data Visualization,3,4,Yes
+E4008,Matthew Harris,S012,Project Management,2,1,No
+E3769,Rebecca Sandoval,S008,Machine Learning,4,3,Yes
+E3962,Shannon Kent,S012,Project Management,5,4,Yes
+E219,Amy Carter,S001,JavaScript,5,1,Yes
+E3947,Lindsey Vaughn,S010,Big Data,7,11,No
+E3493,Laura Day,S014,Client Management,4,3,No
+E3773,Patrick Hernandez,S005,HTML/CSS,5,3,No
+E3109,Raymond Lee,S015,Risk Management,5,4,No
+E3557,Vanessa Williams,S012,Project Management,4,4,Yes
+E1420,Scott Payne,S003,Node.js,4,2,Yes
+E3554,Tanya Malone,S013,Financial Modeling,3,1,No
+E995,Cassandra Morris,S014,Client Management,7,5,Yes
+E221,Jordan Spencer,S006,Python,10,12,Yes
+E2649,Betty Martinez,S001,JavaScript,10,9,No
+E2795,Jennifer Barry,S002,React,5,3,Yes
+E849,Lynn Campos,S002,React,2,4,Yes
+E3810,Rachel Norton,S007,SQL,1,3,No
+E1330,Sarah Washington,S010,Big Data,2,1,No
+E3501,Ronald Jackson,S006,Python,1,4,No
+E3914,William Ward MD,S001,JavaScript,1,4,Yes
+E1426,John Reid,S001,JavaScript,5,4,No
+E4598,Nicole Ayala,S004,Docker,2,2,Yes
+E1521,Connie Carter,S006,Python,4,4,Yes
+E3662,Victoria Ramirez,S004,Docker,1,2,Yes
+E1783,Christopher Hale,S007,SQL,5,1,No
+E1378,Bethany Peters,S013,Financial Modeling,9,12,No
+E2958,Charles Fleming,S008,Machine Learning,10,6,Yes
+E151,Sean Price,S007,SQL,2,2,Yes
+E771,Sarah Ramirez,S012,Project Management,5,4,Yes
+E2524,David Scott,S007,SQL,5,1,Yes
+E1011,Joel Patrick,S014,Client Management,3,4,Yes
+E3804,Edward Bryant,S006,Python,5,1,Yes
+E1303,Nathaniel Jones,S004,Docker,1,1,Yes
+E4185,Vincent Beck,S010,Big Data,8,12,Yes
+E108,Francisco Brown,S005,HTML/CSS,5,1,Yes
+E2656,Karen Cooley,S003,Node.js,3,1,Yes
+E2087,William Owens,S012,Project Management,1,3,Yes
+E1673,Lisa Carter,S001,JavaScript,10,7,No
+E2972,Timothy Lambert,S013,Financial Modeling,5,3,Yes
+E1447,Nicole Vega,S007,SQL,2,1,No
+E1376,Charles Doyle,S006,Python,5,1,Yes
+E1410,David Morales,S003,Node.js,2,1,No
+E3551,Veronica Dean,S011,Consulting Basics,2,3,No
+E3216,Christopher Garrett,S006,Python,3,3,No
+E3272,Angela Bailey,S014,Client Management,4,1,Yes
+E4823,Sean Edwards,S003,Node.js,8,9,Yes
+E198,Paula Schmidt,S005,HTML/CSS,3,2,No
+E4453,Taylor Fuller,S012,Project Management,4,3,No
+E2003,Jason Smith,S001,JavaScript,1,2,Yes
+E1206,Edwin Collins,S004,Docker,4,3,No
+E4621,Robert Ponce,S015,Risk Management,4,4,Yes
+E2764,Benjamin Ross,S006,Python,3,1,Yes
+E4916,Matthew Sullivan,S006,Python,4,2,No
+E4493,Samuel Brown,S003,Node.js,2,3,Yes
+E2305,Diana Black,S006,Python,3,1,Yes
+E3724,Charles Green,S004,Docker,5,2,No
+E3079,David Butler,S003,Node.js,7,9,Yes
+E2446,Joseph Ortiz,S013,Financial Modeling,3,1,Yes
+E4034,Sandra Snyder,S011,Consulting Basics,1,2,Yes
+E4282,Melissa Pham,S001,JavaScript,6,7,No
+E2500,Pamela King,S002,React,4,3,Yes
+E2848,Amy Garcia,S008,Machine Learning,8,6,Yes
+E1673,Lisa Carter,S012,Project Management,5,2,Yes
+E3213,Ryan Serrano,S005,HTML/CSS,9,6,Yes
+E240,Timothy Harrington,S012,Project Management,2,3,Yes
+E3157,Joe Lopez,S012,Project Management,3,4,Yes
+E1410,David Morales,S010,Big Data,1,3,No
+E2362,Melissa Gilmore,S002,React,4,2,No
+E4268,Chad Lee,S012,Project Management,6,7,No
+E1823,Christopher Rogers,S013,Financial Modeling,3,3,Yes
+E026,Heather Park,S005,HTML/CSS,3,1,No
+E4005,Gary Smith,S003,Node.js,3,1,No
+E4011,Nathan Acevedo,S003,Node.js,2,2,Yes
+E3804,Edward Bryant,S001,JavaScript,5,1,Yes
+E3215,Michael Moore,S015,Risk Management,2,4,No
+E2561,Alice Williams,S013,Financial Modeling,7,7,Yes
+E1428,John Jones,S012,Project Management,2,2,Yes
+E2364,Elizabeth Ingram,S013,Financial Modeling,5,1,No
+E1187,Sarah Weeks,S013,Financial Modeling,4,2,No
+E4774,Taylor Hodge,S001,JavaScript,3,3,No
+E4627,Thomas Deleon,S008,Machine Learning,4,1,Yes
+E4147,Lance Rodriguez,S007,SQL,1,1,Yes
+E2688,Douglas Freeman,S001,JavaScript,3,1,Yes
+E1582,Kyle Lucas,S008,Machine Learning,1,1,No
+E3306,Paige Miller,S001,JavaScript,5,1,Yes
+E172,Jason Wade,S006,Python,7,9,Yes
+E4884,Joshua Brooks,S001,JavaScript,2,2,No
+E2032,Laura Wall,S009,Data Visualization,8,5,No
+E1285,Paul Griffith,S006,Python,1,1,Yes
+E2100,Ronnie Ramirez,S002,React,3,1,Yes
+E1055,Amy Rogers,S001,JavaScript,4,1,No
+E1432,Nicholas Long,S008,Machine Learning,9,6,Yes
+E2867,Kelly Rocha,S010,Big Data,2,4,Yes
+E355,Michael Mann,S014,Client Management,4,1,No
+E1632,John Edwards,S014,Client Management,4,4,Yes
+E4952,Scott Cherry,S008,Machine Learning,2,4,No
+E1674,Brandy Smith,S010,Big Data,2,4,No
+E2525,Carol Alexander,S001,JavaScript,1,2,No
+E332,Jessica Alexander,S005,HTML/CSS,1,2,Yes
+E1671,Valerie Pruitt DVM,S010,Big Data,5,2,Yes
+E2673,Rodney Carter,S007,SQL,5,4,No
+E1966,Michelle Mooney,S013,Financial Modeling,4,1,Yes
+E3829,Catherine Boyd,S011,Consulting Basics,2,4,No
+E4611,Thomas Sherman,S004,Docker,4,1,No
+E4414,David Garcia,S007,SQL,1,2,Yes
+E3468,Thomas Hurley,S011,Consulting Basics,1,4,No
+E017,Travis Moore,S003,Node.js,5,3,No
+E2269,Bruce Gay,S005,HTML/CSS,4,1,No
+E2738,Jason Taylor,S005,HTML/CSS,3,2,Yes
+E3422,Jon Leach,S009,Data Visualization,4,1,Yes
+E3969,Christopher Stafford Jr.,S006,Python,9,10,No
+E4388,Cynthia Johnson,S004,Docker,10,9,No
+E2604,Valerie Washington,S007,SQL,5,4,No
+E3900,Melanie Simon,S012,Project Management,2,1,No
+E3125,Bruce Petersen,S008,Machine Learning,2,2,Yes
+E3063,John Allen,S005,HTML/CSS,3,1,Yes
+E3573,Brent Lewis,S004,Docker,2,1,Yes
+E3855,Rachael Patterson,S006,Python,8,5,No
+E3166,Juan Johnson,S003,Node.js,3,3,Yes
+E425,Jeffrey Thompson,S004,Docker,2,2,No
+E4248,Stephen Maldonado,S013,Financial Modeling,7,9,No
+E3490,Lacey Williams,S012,Project Management,6,9,Yes
+E4969,Chelsea Reeves,S014,Client Management,5,1,No
+E2547,Nicole Mcneil,S005,HTML/CSS,1,4,No
+E655,Gina Floyd,S009,Data Visualization,4,2,Yes
+E670,Jennifer Burton,S004,Docker,1,4,No
+E3773,Patrick Hernandez,S002,React,1,3,Yes
+E4594,Gina Ramirez,S013,Financial Modeling,5,2,No
+E859,Mary Zuniga,S015,Risk Management,3,4,Yes
+E2837,Haley King,S009,Data Visualization,10,6,No
+E4131,Jonathan Huber,S006,Python,6,8,No
+E3927,Stephanie Beck,S014,Client Management,9,7,No
+E3032,Shelley Hardin,S002,React,3,1,No
+E3665,Mrs. Ashley Blankenship,S003,Node.js,3,4,No
+E3073,Jennifer Lozano,S007,SQL,3,2,No
+E1167,Roger King,S014,Client Management,4,4,No
+E3217,Kayla Morris,S003,Node.js,8,10,Yes
+E4618,Ricky Chavez,S013,Financial Modeling,1,3,Yes
+E3944,Sherry Walker,S003,Node.js,4,4,No
+E422,Cynthia Allen,S004,Docker,2,1,No
+E3466,Susan Henderson,S009,Data Visualization,4,2,Yes
+E4692,Melissa Morton,S011,Consulting Basics,7,8,No
+E1130,Patricia Armstrong,S012,Project Management,4,2,No
+E3734,Joshua Pollard,S003,Node.js,4,2,No
+E4443,Cody Giles,S010,Big Data,3,3,Yes
+E4575,Anthony Allen,S010,Big Data,2,2,Yes
+E204,Jeremy White,S003,Node.js,5,3,No
+E3733,Jennifer Williams,S012,Project Management,2,4,Yes
+E786,Shannon Baker,S003,Node.js,3,4,Yes
+E1242,Jacob Romero,S004,Docker,3,4,Yes
+E3685,Gabriel Hahn,S012,Project Management,1,4,Yes
+E794,Shawn Hernandez,S008,Machine Learning,4,4,Yes
+E2652,Jennifer Horn,S005,HTML/CSS,10,8,No
+E1533,Amy Marks,S007,SQL,4,3,Yes
+E1129,Rebecca Schultz,S005,HTML/CSS,5,4,Yes
+E961,Judith Chavez,S006,Python,5,2,Yes
+E665,Lisa Edwards,S013,Financial Modeling,5,4,Yes
+E2329,Christopher Roberts,S004,Docker,3,3,Yes
+E4989,Teresa Perry,S002,React,1,2,No
+E2237,Andrew Gomez,S005,HTML/CSS,8,8,Yes
+E2094,Larry Shaw,S010,Big Data,5,3,No
+E1468,Marc Johnston,S014,Client Management,4,1,Yes
+E2024,Jacob Cole,S001,JavaScript,3,1,No
+E357,Charlotte Rodriguez,S015,Risk Management,3,1,No
+E1139,Samuel Graham,S012,Project Management,3,2,No
+E4536,Madison Barton,S012,Project Management,3,1,Yes
+E2922,Thomas Mckay,S006,Python,4,2,Yes
+E061,Sarah Nichols,S004,Docker,5,2,No
+E026,Heather Park,S002,React,3,4,Yes
+E1417,Pamela Wagner,S006,Python,2,1,No
+E2494,Elizabeth Washington,S008,Machine Learning,1,2,Yes
+E145,Michael Roy,S007,SQL,1,3,No
+E1270,Danielle Odonnell,S012,Project Management,4,1,Yes
+E667,Wendy Greer,S014,Client Management,3,2,Yes
+E1928,Katrina Williams,S009,Data Visualization,4,3,No
+E3522,Jon Cross,S012,Project Management,3,1,No
+E4087,Rachel Berger,S008,Machine Learning,2,1,Yes
+E3789,Shannon Smith,S002,React,2,3,Yes
+E1331,Robin Chen,S004,Docker,1,3,Yes
+E010,Kelly Taylor,S009,Data Visualization,4,1,No
+E4670,Rebekah Goodwin,S014,Client Management,8,12,Yes
+E1760,Tracy Stanley,S011,Consulting Basics,9,12,Yes
+E3212,Ronald Bailey,S005,HTML/CSS,3,1,No
+E4287,Tammy Moran,S008,Machine Learning,5,3,No
+E410,Jennifer Roy,S002,React,4,1,No
+E1353,Melissa Fowler,S001,JavaScript,1,3,No
+E1467,Joseph Davis,S007,SQL,4,3,Yes
+E4521,Kevin Clayton,S011,Consulting Basics,5,4,No
+E4898,Charles Cooper,S008,Machine Learning,8,7,Yes
+E186,Samantha Lewis,S007,SQL,4,4,Yes
+E289,Chad Meyers,S011,Consulting Basics,3,2,No
+E3295,Mariah Evans,S008,Machine Learning,8,6,No
+E4057,Lacey Lynch,S013,Financial Modeling,5,1,No
+E4310,Scott Snyder,S014,Client Management,2,3,Yes
+E4196,Olivia Sweeney,S015,Risk Management,1,3,Yes
+E2765,Wendy Watkins,S010,Big Data,5,4,No
+E2743,Nathaniel Lewis,S002,React,3,4,No
+E3172,Savannah Ramirez,S010,Big Data,4,2,No
+E1409,Ashley Klein MD,S011,Consulting Basics,3,1,Yes
+E1380,Jessica Bryant,S014,Client Management,5,2,Yes
+E4546,Traci Patterson,S008,Machine Learning,2,3,Yes
+E4329,Ryan Barnes,S013,Financial Modeling,4,1,Yes
+E4987,Joshua Castillo,S011,Consulting Basics,1,3,Yes
+E3099,Julie Graves,S008,Machine Learning,6,10,Yes
+E253,Stacy Gutierrez,S013,Financial Modeling,7,7,No
+E3175,Jennifer Hart,S006,Python,1,1,No
+E2557,Thomas Collins,S002,React,5,3,No
+E3646,Stacy Barnes,S013,Financial Modeling,4,2,No
+E3440,Jennifer Brock,S013,Financial Modeling,4,2,Yes
+E3657,Jennifer Miller,S004,Docker,4,1,No
+E4587,Richard Moreno,S013,Financial Modeling,3,4,Yes
+E3881,Eric Gonzalez,S001,JavaScript,4,4,Yes
+E1277,Amy Rocha,S001,JavaScript,4,2,No
+E4668,Judy Welch,S006,Python,1,3,No
+E3184,Austin Baldwin,S012,Project Management,2,4,Yes
+E2476,Gina Moore,S008,Machine Learning,10,9,No
+E3006,Alexandria Williams,S011,Consulting Basics,4,2,Yes
+E087,Sara Price,S014,Client Management,2,1,No
+E4539,Amanda King,S008,Machine Learning,2,1,No
+E398,Mrs. Rebecca Whitney,S008,Machine Learning,8,11,Yes
+E1368,Jeffrey Wheeler,S007,SQL,5,1,Yes
+E2858,Brandon Mann,S010,Big Data,2,4,Yes
+E2726,Steven Grant,S008,Machine Learning,4,4,Yes
+E506,Brian Maddox,S003,Node.js,2,2,Yes
+E1128,Sarah Snyder,S006,Python,4,2,No
+E3075,Sylvia Cochran,S007,SQL,1,4,No
+E1126,Anthony Horton,S015,Risk Management,1,3,Yes
+E1496,Frank Graham,S015,Risk Management,3,4,Yes
+E164,Joshua Daugherty,S007,SQL,8,10,No
+E3754,Brad Jackson,S005,HTML/CSS,2,2,Yes
+E4975,Donna Carter,S007,SQL,8,7,No
+E3425,Mary Holmes,S013,Financial Modeling,4,2,No
+E2436,Carla Smith,S005,HTML/CSS,4,3,Yes
+E106,Sean Chavez,S004,Docker,5,3,Yes
+E2522,Amy Pearson,S011,Consulting Basics,7,12,Yes
+E364,Pam Jones,S007,SQL,1,3,Yes
+E2879,Bryan Lopez,S012,Project Management,2,4,Yes
+E3397,Aaron Dunn,S001,JavaScript,3,2,Yes
+E728,Aaron Harvey,S007,SQL,6,6,Yes
+E4300,Stephanie Torres,S007,SQL,2,4,No
+E888,Amanda Miller,S010,Big Data,2,1,Yes
+E2768,Katherine Ortiz,S005,HTML/CSS,10,7,No
+E345,Luis Jones,S007,SQL,1,1,Yes
+E1681,Christopher Garrett,S011,Consulting Basics,2,3,Yes
+E2148,Heather Jackson,S009,Data Visualization,5,4,Yes
+E2168,Charles Adams,S008,Machine Learning,2,3,No
+E3662,Victoria Ramirez,S003,Node.js,5,1,Yes
+E2069,Tracy Torres,S015,Risk Management,3,1,Yes
+E3718,Amanda Martinez,S006,Python,9,12,No
+E4284,Colin Roy,S012,Project Management,2,3,No
+E1333,Kevin Chapman,S013,Financial Modeling,2,3,No
+E1213,Tiffany Kerr,S013,Financial Modeling,4,1,No
+E4080,Kelli Matthews,S003,Node.js,1,2,Yes
+E3944,Sherry Walker,S004,Docker,6,11,Yes
+E3927,Stephanie Beck,S009,Data Visualization,8,10,No
+E3064,Kevin Moore,S003,Node.js,1,2,No
+E4451,Richard Robinson,S008,Machine Learning,4,1,No
+E4827,Jessica Miller,S002,React,2,1,Yes
+E3035,Rebecca Cortez,S007,SQL,4,4,No
+E2920,Jennifer Dunlap,S001,JavaScript,3,3,Yes
+E2976,Billy Horn,S014,Client Management,8,10,Yes
+E149,Whitney Brown,S007,SQL,10,9,No
+E1596,Christie Vasquez,S008,Machine Learning,1,2,No
+E1747,Jennifer Castaneda,S011,Consulting Basics,2,1,Yes
+E4453,Taylor Fuller,S012,Project Management,1,3,No
+E471,Jessica Perry,S008,Machine Learning,7,11,No
+E415,Robert Richardson,S006,Python,4,4,No
+E3001,Larry Roth,S007,SQL,8,10,Yes
+E2132,Glenn Hughes,S007,SQL,5,3,No
+E263,Stephen Holder,S014,Client Management,3,3,No
+E967,Emily Lane,S015,Risk Management,3,2,Yes
+E1746,Nicole Martin,S009,Data Visualization,4,1,Yes
+E927,Eric Webster,S009,Data Visualization,4,3,Yes
+E4815,Lori Hansen,S004,Docker,10,9,No
+E4416,Teresa Ferguson,S008,Machine Learning,1,2,Yes
+E4221,Lori Chandler,S015,Risk Management,5,1,No
+E4291,Perry Kelly,S012,Project Management,3,3,Yes
+E4215,Nancy Robinson,S010,Big Data,3,4,Yes
+E324,Christopher Jones,S014,Client Management,4,1,Yes
+E2402,Kent Carter Jr.,S002,React,2,3,Yes
+E4498,Kenneth Thomas,S004,Docker,2,2,No
+E2280,Tammy Alexander,S015,Risk Management,2,4,Yes
+E626,Ashley Cruz,S009,Data Visualization,4,2,No
+E2058,Cynthia Scott,S010,Big Data,1,1,Yes
+E2232,Joshua Henderson,S002,React,2,1,Yes
+E780,Robert Nelson,S003,Node.js,8,8,Yes
+E4890,Scott Lee,S004,Docker,5,3,No
+E987,David Hamilton,S011,Consulting Basics,5,3,No
+E1465,Justin Morgan,S012,Project Management,3,4,No
+E799,Patrick Rhodes,S005,HTML/CSS,5,2,Yes
+E3948,Patricia Walter,S004,Docker,3,1,Yes
+E743,Michael Tran,S001,JavaScript,2,2,No
+E4278,Monica Castaneda,S002,React,2,4,Yes
+E1378,Bethany Peters,S009,Data Visualization,3,3,Yes
+E924,Thomas James,S002,React,2,4,No
+E2365,Michelle Diaz,S005,HTML/CSS,4,1,Yes
+E2115,Steven Morgan,S004,Docker,3,3,No
+E4174,Paula King,S013,Financial Modeling,4,3,No
+E3747,Steven Suarez,S010,Big Data,1,3,No
+E160,Michael Roberts,S005,HTML/CSS,5,3,Yes
+E3670,Lisa Moore,S003,Node.js,2,2,No
+E1106,Briana Santos,S006,Python,2,4,No
+E1381,Adam Ramos,S008,Machine Learning,5,4,No
+E4816,Joshua Crosby,S006,Python,1,3,Yes
+E1368,Jeffrey Wheeler,S009,Data Visualization,2,2,Yes
+E1332,Abigail Jones,S011,Consulting Basics,5,3,No
+E995,Cassandra Morris,S014,Client Management,4,2,Yes
+E2304,Jordan Jones,S015,Risk Management,1,1,No
+E1056,Sarah Brady,S007,SQL,3,2,No
+E3679,Penny Clark,S014,Client Management,1,4,Yes
+E1427,John Gregory,S008,Machine Learning,3,1,Yes
+E951,Michael Silva,S007,SQL,5,3,Yes
+E1375,Robert Jackson,S009,Data Visualization,2,4,Yes
+E4826,Jennifer Booth,S015,Risk Management,4,1,No
+E322,Jonathan Adams,S002,React,1,4,No
+E3675,Amy Smith,S013,Financial Modeling,2,4,No
+E2511,Alexander Kelly,S009,Data Visualization,5,2,No
+E3788,Michelle Conway,S012,Project Management,4,1,Yes
+E4848,Evan Benitez,S011,Consulting Basics,4,3,No
+E3053,Jamie Williams,S014,Client Management,3,3,Yes
+E4478,Michael Burton,S002,React,5,1,Yes
+E3154,Courtney Baxter,S007,SQL,5,1,No
+E902,Kimberly Deleon,S010,Big Data,4,1,No
+E195,Megan Padilla,S009,Data Visualization,5,1,No
+E4478,Michael Burton,S015,Risk Management,3,2,Yes
+E136,Roy Baker,S013,Financial Modeling,2,3,No
+E2504,John Obrien,S002,React,6,12,Yes
+E4590,Rebekah Foster,S013,Financial Modeling,3,3,No
+E783,Kimberly Berger,S012,Project Management,9,10,No
+E2677,Charles Williams,S010,Big Data,3,2,Yes
+E4710,William Barber,S011,Consulting Basics,3,1,No
+E2984,Thomas Baker,S006,Python,5,2,No
+E1575,Kristi Nguyen,S002,React,5,2,No
+E3303,Stephanie Mcmillan,S007,SQL,6,10,No
+E3194,Matthew Nguyen,S008,Machine Learning,6,5,Yes
+E172,Jason Wade,S012,Project Management,1,3,No
+E4696,Lauren Wise,S012,Project Management,7,11,Yes
+E3639,James Sherman,S015,Risk Management,2,1,Yes
+E3722,Justin Foster,S011,Consulting Basics,2,1,No
+E2725,Amanda Reed,S013,Financial Modeling,3,1,No
+E1771,Barbara Stephens,S012,Project Management,5,4,No
+E2589,Adam Carter,S008,Machine Learning,1,4,No
+E1249,Kristen Matthews,S011,Consulting Basics,2,3,No
+E1607,Jesus Sampson,S008,Machine Learning,4,4,No
+E1443,Michelle Orozco,S010,Big Data,5,4,No
+E714,Ryan Martinez,S007,SQL,9,11,No
+E3744,Robert Ellis,S012,Project Management,1,3,No
+E2033,Andres Griffith,S015,Risk Management,2,3,No
+E2694,Randall Miller,S006,Python,2,2,Yes
+E2100,Ronnie Ramirez,S009,Data Visualization,2,2,No
+E006,Keith Webb,S001,JavaScript,2,2,Yes
+E1939,Denise Hanson MD,S009,Data Visualization,4,4,Yes
+E2744,Heather Rodriguez,S009,Data Visualization,9,7,Yes
+E795,Carl Smith,S011,Consulting Basics,4,1,Yes
+E3157,Joe Lopez,S007,SQL,5,4,Yes
+E1162,Victor Huerta,S002,React,1,2,No
+E953,Lisa Curtis,S003,Node.js,9,8,No
+E422,Cynthia Allen,S007,SQL,4,4,No
+E3142,Joshua Miller,S011,Consulting Basics,5,1,No
+E2458,David Thompson,S005,HTML/CSS,2,2,Yes
+E4771,Julie Taylor,S003,Node.js,9,8,No
+E468,Regina Wilson,S009,Data Visualization,5,2,No
+E687,Richard Davis,S001,JavaScript,3,4,Yes
+E4855,Victoria Dixon,S008,Machine Learning,3,3,Yes
+E4671,Barbara Shepherd,S008,Machine Learning,8,11,Yes
+E4234,Colleen Campbell DVM,S008,Machine Learning,4,3,No
+E4689,Melvin Jimenez,S006,Python,10,5,No
+E1298,Katrina Davis,S004,Docker,9,5,Yes
+E1476,Kenneth Jimenez,S013,Financial Modeling,7,7,Yes
+E1375,Robert Jackson,S012,Project Management,1,3,No
+E481,Melanie Cooke,S010,Big Data,2,3,Yes
+E1108,Martin Ashley,S013,Financial Modeling,5,2,Yes
+E1609,Brittany Cross,S009,Data Visualization,2,2,Yes
+E2402,Kent Carter Jr.,S009,Data Visualization,3,2,No
+E365,Dr. April Garcia DVM,S003,Node.js,10,9,No
+E4413,Nancy Stone,S010,Big Data,5,2,Yes
+E1159,Ernest Thomas,S014,Client Management,1,4,Yes
+E1833,Amber Weaver,S006,Python,1,2,Yes
+E3119,Michael Smith,S011,Consulting Basics,2,3,No
+E4630,Darryl Zuniga,S002,React,1,1,Yes
+E242,Rick Garcia,S014,Client Management,2,1,Yes
+E2971,Caroline Le,S010,Big Data,1,3,No
+E2421,Geoffrey Long,S006,Python,1,1,Yes
+E254,Dr. Larry Hernandez,S008,Machine Learning,5,1,Yes
+E381,Christine Adams,S005,HTML/CSS,3,3,Yes
+E3639,James Sherman,S008,Machine Learning,3,3,No
+E667,Wendy Greer,S001,JavaScript,2,2,Yes
+E758,Sarah Johnston,S007,SQL,2,3,Yes
+E3237,Mr. Marc Aguilar II,S014,Client Management,4,4,Yes
+E1931,Jordan Rodriguez,S010,Big Data,3,1,No
+E628,James Thompson,S008,Machine Learning,3,1,No
+E1859,Michael Mendoza,S001,JavaScript,4,2,Yes
+E4766,Stacy Smith,S014,Client Management,8,11,No
+E3585,Nicole Brady,S010,Big Data,8,11,No
+E184,Justin Thompson,S005,HTML/CSS,5,4,Yes
+E4847,John Johnson,S011,Consulting Basics,2,3,Yes
+E4470,Michael Harris,S012,Project Management,2,4,No
+E4534,Amy Walter,S006,Python,3,4,Yes
+E2278,Bridget Cherry,S003,Node.js,3,4,No
+E1997,Leslie Robinson,S005,HTML/CSS,3,3,Yes
+E4694,Laurie Maddox MD,S015,Risk Management,4,2,No
+E3691,Nathan Levine,S006,Python,5,1,No
+E827,Alexis Johnson,S007,SQL,3,1,No
+E1624,Natasha Burns,S002,React,2,3,Yes
+E1404,Rebecca Fernandez,S003,Node.js,3,4,No
+E2758,Kimberly Montgomery,S013,Financial Modeling,8,12,Yes
+E1372,David Palmer,S005,HTML/CSS,5,4,No
+E318,Jennifer Martinez,S001,JavaScript,1,3,Yes
+E925,Steven Walton,S003,Node.js,4,1,Yes
+E1841,Courtney Burns,S007,SQL,3,3,Yes
+E3505,Mrs. Elizabeth Lowery DDS,S005,HTML/CSS,3,3,Yes
+E3526,Gary Wilcox,S005,HTML/CSS,7,6,Yes
+E1765,Joshua Smith,S013,Financial Modeling,1,4,No
+E231,Jason Clark,S005,HTML/CSS,1,1,Yes
+E1262,Linda Bright,S007,SQL,3,3,Yes
+E2937,Christopher Lambert,S015,Risk Management,3,2,No
+E3260,Michele Kelly,S015,Risk Management,2,3,No
+E3398,Ryan Bailey,S005,HTML/CSS,4,2,No
+E830,Jeffery Harris,S003,Node.js,3,3,Yes
+E3306,Paige Miller,S002,React,6,9,No
+E3611,Laurie Martin,S006,Python,2,2,Yes
+E3260,Michele Kelly,S008,Machine Learning,2,3,Yes
+E331,Diana Mcgee,S005,HTML/CSS,3,4,No
+E4833,Julie Clark,S006,Python,1,1,No
+E2476,Gina Moore,S013,Financial Modeling,1,2,Yes
+E1839,Craig Johnson,S005,HTML/CSS,2,3,Yes
+E4942,Jennifer Bailey,S015,Risk Management,3,4,No
+E2152,Cody Williams,S003,Node.js,4,2,No
+E2253,Angela Miller,S014,Client Management,2,3,No
+E1955,Richard Lee,S005,HTML/CSS,1,4,No
+E3868,William Howard,S009,Data Visualization,4,4,Yes
+E1593,Michael Fisher,S003,Node.js,4,4,No
+E3508,Amber Kim,S008,Machine Learning,6,6,Yes
+E4320,George Ramirez,S009,Data Visualization,4,1,No
+E518,Sandra Garcia,S009,Data Visualization,4,1,Yes
+E2367,John Hernandez,S009,Data Visualization,2,2,Yes
+E2287,John Bradshaw,S011,Consulting Basics,4,3,No
+E3352,Christina Dunn,S001,JavaScript,1,2,Yes
+E1516,James Johnson,S010,Big Data,4,2,No
+E2879,Bryan Lopez,S006,Python,3,3,Yes
+E2790,Joshua Brown,S013,Financial Modeling,3,4,Yes
+E1569,Catherine Ramirez,S003,Node.js,5,2,No
+E3927,Stephanie Beck,S005,HTML/CSS,5,3,Yes
+E4468,Heather Ross,S003,Node.js,3,3,Yes
+E2453,Ashley Fletcher,S010,Big Data,5,2,No
+E4713,John Adams,S015,Risk Management,2,3,Yes
+E3457,Brooke Garcia,S011,Consulting Basics,8,6,No
+E4407,Dean Liu,S006,Python,6,5,Yes
+E2859,Hannah Davis,S015,Risk Management,5,1,Yes
+E3497,Joshua Vargas,S010,Big Data,4,3,Yes
+E4620,Rachel Perry,S014,Client Management,1,4,Yes
+E3037,Jordan Dunlap,S003,Node.js,3,1,No
+E1224,Christopher Joseph,S011,Consulting Basics,10,10,No
+E4925,Jessica Lawson,S012,Project Management,3,3,Yes
+E770,Corey Adkins,S002,React,1,4,No
+E4313,Eric Barrera,S006,Python,3,3,No
+E472,Eric Schmidt,S010,Big Data,5,3,No
+E306,Blake Ross,S007,SQL,1,3,Yes
+E4647,William Garcia,S004,Docker,1,3,Yes
+E2126,Bradley Murphy,S015,Risk Management,1,2,Yes
+E4134,Adam Holmes,S011,Consulting Basics,2,2,No
+E2375,Michael Harris DVM,S009,Data Visualization,3,4,No
+E3812,Ryan Roberson,S003,Node.js,6,11,Yes
+E1676,Duane Hansen,S001,JavaScript,4,3,No
+E4851,Ronald Carey,S011,Consulting Basics,4,1,No
+E4883,Matthew Walker,S015,Risk Management,4,2,No
+E628,James Thompson,S009,Data Visualization,1,2,Yes
+E408,Andrew Davis,S006,Python,1,3,Yes
+E507,Brandy Woods,S003,Node.js,5,2,No
+E3772,Anthony Vaughn,S001,JavaScript,5,1,Yes
+E4847,John Johnson,S002,React,8,11,Yes
+E2119,Valerie Robinson,S006,Python,1,4,No
+E1176,Katherine Nguyen,S015,Risk Management,3,1,No
+E4684,Caitlin Sanchez DDS,S011,Consulting Basics,4,2,No
+E4294,Mr. John Jefferson IV,S015,Risk Management,3,2,No
+E3614,Steven Daniels,S004,Docker,4,3,No
+E4194,Samantha Butler,S001,JavaScript,4,2,Yes
+E723,Jon Bowman,S004,Docker,3,1,No
+E514,Gabrielle Jenkins,S005,HTML/CSS,3,4,Yes
+E1794,Amy Boyd,S005,HTML/CSS,4,3,Yes
+E4306,Laurie Burns,S012,Project Management,5,1,No
+E1042,Jessica Davis,S010,Big Data,7,12,No
+E4183,Lucas Villa,S010,Big Data,4,3,No
+E457,Jennifer Vasquez,S004,Docker,1,4,No
+E2750,Joel Gonzalez,S004,Docker,3,1,Yes
+E2993,Brandon Davis DDS,S003,Node.js,4,1,No
+E3146,Arthur Morales,S012,Project Management,4,1,Yes
+E436,Linda Mosley,S015,Risk Management,4,4,Yes
+E1857,Jose Smith,S010,Big Data,9,10,Yes
+E2378,Melissa Barry,S014,Client Management,7,7,No
+E1526,Katherine Aguilar,S005,HTML/CSS,9,5,No
+E4355,Kathryn Haney,S010,Big Data,2,4,No
+E1426,John Reid,S008,Machine Learning,4,4,No
+E3168,Jonathan Hayes,S006,Python,1,2,Yes
+E1608,Vincent Gilbert,S014,Client Management,1,2,Yes
+E4969,Chelsea Reeves,S008,Machine Learning,2,2,Yes
+E1651,Matthew Jackson,S002,React,9,9,Yes
+E1884,Lydia Francis,S015,Risk Management,5,1,Yes
+E2045,Lawrence Hernandez,S013,Financial Modeling,3,3,Yes
+E1117,Katelyn Austin,S008,Machine Learning,8,6,No
+E2667,Bryan Weeks,S005,HTML/CSS,1,3,No
+E995,Cassandra Morris,S012,Project Management,9,7,Yes
+E3018,Michael Cain,S011,Consulting Basics,1,2,No
+E908,April Jenkins,S001,JavaScript,2,4,No
+E1978,Phyllis Hester,S010,Big Data,4,2,Yes
+E138,Jodi Herring,S007,SQL,2,4,No
+E1933,Tonya Wilkinson,S010,Big Data,3,1,No
+E2008,Rhonda Carson,S013,Financial Modeling,4,4,No
+E3129,Melanie Rios,S002,React,2,1,Yes
+E4852,William Collins,S012,Project Management,1,2,Yes
+E1430,Sharon Shepard,S004,Docker,1,1,No
+E687,Richard Davis,S011,Consulting Basics,7,6,No
+E1733,Nicole Fitzgerald,S005,HTML/CSS,5,1,No
+E2028,Kimberly Davenport,S014,Client Management,4,1,Yes
+E471,Jessica Perry,S006,Python,5,1,Yes
+E1604,Robert Armstrong,S008,Machine Learning,4,2,Yes
+E3201,Jessica Mckinney,S015,Risk Management,3,2,No
+E1833,Amber Weaver,S013,Financial Modeling,1,4,Yes
+E701,Frederick Davis,S006,Python,2,3,No
+E4175,Michelle Santiago,S008,Machine Learning,4,1,No
+E2454,Frank Lowery,S002,React,1,1,No
+E3068,Brian Aguirre,S009,Data Visualization,5,4,No
+E2935,Mark Thomas PhD,S003,Node.js,2,1,No
+E2764,Benjamin Ross,S008,Machine Learning,5,2,Yes
+E3554,Tanya Malone,S007,SQL,1,1,No
+E4518,Andrew Smith,S015,Risk Management,3,2,No
+E371,Bradley Moore,S001,JavaScript,3,1,Yes
+E516,Steven Brown,S003,Node.js,1,4,No
+E178,Lauren Gonzalez,S009,Data Visualization,7,7,Yes
+E2421,Geoffrey Long,S007,SQL,5,3,No
+E4339,Victor Griffin,S005,HTML/CSS,1,2,Yes
+E2361,Catherine Castro,S007,SQL,4,3,No
+E4184,Jeffrey Barnes,S001,JavaScript,5,2,Yes
+E2272,Shelley Burns,S013,Financial Modeling,2,3,Yes
+E1712,Martha Wilkinson,S015,Risk Management,1,3,Yes
+E4537,Melissa Griffin,S008,Machine Learning,1,4,Yes
+E2019,Michael Johnson,S007,SQL,5,3,Yes
+E4438,Julie Gaines,S011,Consulting Basics,3,3,No
+E4623,Danielle Coleman,S002,React,4,1,Yes
+E1367,Adam Bennett,S006,Python,3,1,No
+E840,Dustin Morgan,S006,Python,6,6,Yes
+E2118,John Cobb,S003,Node.js,2,4,Yes
+E4026,Kevin Alexander,S007,SQL,8,6,Yes
+E4090,Kimberly Adams,S004,Docker,8,12,Yes
+E4207,Joshua Moses,S008,Machine Learning,1,2,No
+E1320,Morgan Sherman,S009,Data Visualization,9,9,No
+E3312,Jeremy Wallace,S010,Big Data,7,11,No
+E1097,Paul Myers,S012,Project Management,2,2,Yes
+E2401,Robin Jenkins,S002,React,3,3,No
+E2303,Timothy Clark,S006,Python,4,1,Yes
+E2691,Amy Kent,S006,Python,5,3,No
+E1976,John Simon,S008,Machine Learning,2,2,Yes
+E2209,Benjamin Ward,S002,React,3,1,Yes
+E3740,Edwin Hicks,S009,Data Visualization,2,4,Yes
+E4816,Joshua Crosby,S009,Data Visualization,3,1,Yes
+E4274,Michael Weiss,S003,Node.js,2,3,Yes
+E183,Jessica Rios,S015,Risk Management,5,3,No
+E1866,Christopher Simmons,S002,React,5,2,No
+E4677,Christopher Newton,S012,Project Management,1,1,Yes
+E570,Erin Thompson,S004,Docker,6,6,Yes
+E511,Jack Murphy,S013,Financial Modeling,5,1,Yes
+E1648,Karen Hall,S012,Project Management,1,4,No
+E4010,Ariana Bates,S002,React,4,3,Yes
+E3803,Mark Fletcher,S001,JavaScript,2,3,Yes
+E089,Nathan Warren,S013,Financial Modeling,2,3,Yes
+E3517,Christopher Ortiz,S010,Big Data,4,3,Yes
+E1923,Janice Carroll,S012,Project Management,2,4,Yes
+E1938,David Palmer,S002,React,4,2,Yes
+E419,Rebecca Anderson,S013,Financial Modeling,7,7,No
+E856,Richard Thompson,S001,JavaScript,4,2,No
+E590,David Castillo,S009,Data Visualization,5,4,No
+E607,Mitchell Lee,S005,HTML/CSS,5,1,No
+E4213,Michael Jackson,S010,Big Data,10,10,Yes
+E841,Alexandria Clark,S008,Machine Learning,10,9,No
+E3924,Brett Jones,S014,Client Management,5,1,Yes
+E616,Michael Smith MD,S015,Risk Management,2,3,No
+E4872,Sarah Austin,S012,Project Management,4,1,Yes
+E4016,Nicole Torres,S004,Docker,1,1,Yes
+E3195,Rodney Spencer,S015,Risk Management,9,8,No
+E2842,Wanda Walsh,S007,SQL,7,7,Yes
+E4861,Wesley Wilson,S010,Big Data,3,4,Yes
+E1846,William Fox,S006,Python,3,4,No
+E3664,Scott Oliver,S011,Consulting Basics,3,1,No
+E1432,Nicholas Long,S007,SQL,4,4,Yes
+E3793,Jack Berry,S015,Risk Management,2,2,No
+E4218,Stephanie Wilson,S002,React,5,3,No
+E628,James Thompson,S010,Big Data,4,2,Yes
+E4524,Bryan Harris,S011,Consulting Basics,4,3,Yes
+E1582,Kyle Lucas,S009,Data Visualization,4,1,No
+E119,Nicolas Hogan,S002,React,5,3,No
+E4505,Dylan Peters,S005,HTML/CSS,3,1,No
+E311,Adriana Kelley,S008,Machine Learning,6,6,No
+E1791,Randy Williams,S015,Risk Management,4,2,No
+E4463,Robert Hayes,S015,Risk Management,1,4,Yes
+E2728,Donna Holden,S003,Node.js,5,4,No
+E1710,Tonya Murphy,S009,Data Visualization,4,2,No
+E3042,Devin Parsons,S009,Data Visualization,1,2,No
+E1286,Mark Griffin,S012,Project Management,5,3,Yes
+E1853,Rebecca King,S014,Client Management,5,1,Yes
+E719,Danielle Miller,S014,Client Management,4,1,No
+E475,Mark Jackson,S004,Docker,8,9,Yes
+E154,Bridget Brown,S004,Docker,2,2,Yes
+E2108,Michael Thompson,S001,JavaScript,5,3,Yes
+E2539,Jenna Cline,S004,Docker,3,1,Yes
+E2061,George Lewis,S008,Machine Learning,4,1,No
+E2421,Geoffrey Long,S006,Python,5,2,Yes
+E526,Keith Patterson,S004,Docker,9,7,Yes
+E826,Tracey Mccoy,S001,JavaScript,4,2,Yes
+E267,Jordan Ortega,S007,SQL,3,4,Yes
+E4051,Vincent Yang,S013,Financial Modeling,4,4,No
+E4033,Michael Williams,S011,Consulting Basics,5,3,Yes
+E2286,Jane Pruitt,S004,Docker,3,3,No
+E4890,Scott Lee,S006,Python,3,4,Yes
+E904,Adam Mitchell,S007,SQL,1,4,Yes
+E2854,Daniel Chapman,S002,React,2,4,Yes
+E2552,Robert Young,S007,SQL,4,2,No
+E847,Kristin Lambert,S002,React,2,1,Yes
+E2520,Kathleen Shepherd,S003,Node.js,3,4,No
+E1636,Anne Massey,S014,Client Management,1,4,Yes
+E4831,Andrew Browning,S006,Python,9,8,No
+E1183,Patricia Jackson,S015,Risk Management,5,1,No
+E1259,Mckenzie Reyes,S002,React,3,3,No
+E4449,Evelyn Khan,S009,Data Visualization,8,7,Yes
+E1512,Amanda Kelly,S002,React,3,2,Yes
+E3697,Sara Watson,S004,Docker,1,3,No
+E2010,Hannah Reynolds,S008,Machine Learning,3,4,Yes
+E1106,Briana Santos,S007,SQL,5,4,Yes
+E4606,Ian Cobb,S009,Data Visualization,5,3,Yes
+E4207,Joshua Moses,S012,Project Management,3,2,Yes
+E4104,Christina Garcia,S011,Consulting Basics,8,5,Yes
+E1809,Selena Camacho,S002,React,3,4,Yes
+E4465,Christopher Moody,S007,SQL,4,3,No
+E4843,Cassie Gutierrez,S004,Docker,3,3,Yes
+E2685,Michelle Ward,S003,Node.js,2,1,No
+E2455,Linda Chavez,S012,Project Management,4,4,No
+E3738,Beth Baker,S013,Financial Modeling,3,1,No
+E1020,Lynn Williams,S012,Project Management,2,1,No
+E4312,Stanley Collins DDS,S004,Docker,5,3,Yes
+E4522,Mr. Christopher Richards,S015,Risk Management,7,5,Yes
+E595,Phillip Howard,S008,Machine Learning,2,3,No
+E2796,Katie Allison,S012,Project Management,1,2,No
+E4319,Ryan Guzman,S011,Consulting Basics,3,1,Yes
+E2916,Grace Moore,S013,Financial Modeling,3,3,No
+E1011,Joel Patrick,S005,HTML/CSS,9,5,Yes
+E3321,Heather Lopez,S011,Consulting Basics,4,3,Yes
+E1797,Laura Garza,S015,Risk Management,3,1,Yes
+E1096,Christina Jacobs,S003,Node.js,7,10,Yes
+E4259,Robert Brewer,S001,JavaScript,2,1,Yes
+E1582,Kyle Lucas,S004,Docker,2,4,No
+E3828,Leonard Stewart,S011,Consulting Basics,2,4,No
+E812,Joseph Hunt,S014,Client Management,5,1,No
+E4677,Christopher Newton,S012,Project Management,8,7,Yes
+E628,James Thompson,S011,Consulting Basics,1,2,Yes
+E666,Joshua Miller,S011,Consulting Basics,2,1,Yes
+E1856,Pamela Lee,S008,Machine Learning,1,1,Yes
+E2834,Sonya Flores,S002,React,1,4,Yes
+E898,Ryan White,S006,Python,7,7,Yes
+E4525,Justin Oconnor,S012,Project Management,9,5,Yes
+E4227,Alexandria Williams,S005,HTML/CSS,10,10,No
+E3888,Meghan Ruiz,S014,Client Management,4,2,No
+E3694,Heidi Ramirez,S005,HTML/CSS,2,3,No
+E2281,Erik Knight,S004,Docker,5,3,Yes
+E1838,Toni Chase,S012,Project Management,1,1,Yes
+E2763,Ashley Potts,S007,SQL,4,4,Yes
+E2286,Jane Pruitt,S008,Machine Learning,5,4,Yes
+E2842,Wanda Walsh,S010,Big Data,1,2,No
+E1240,Melissa Smith,S002,React,4,1,No
+E4515,Michael Meza,S002,React,3,2,Yes
+E892,Emily Goodwin,S004,Docker,4,3,Yes
+E4085,Daniel Hoffman,S004,Docker,3,1,Yes
+E1661,Adam Carlson,S006,Python,2,2,Yes
+E1927,Christina Howard,S015,Risk Management,1,3,No
+E4648,James Barrera,S013,Financial Modeling,2,3,No
+E3446,Anthony Sanders,S002,React,1,2,No
+E3872,Denise Morris,S015,Risk Management,2,4,No
+E1322,Erik Orozco DDS,S014,Client Management,3,4,Yes
+E1969,Amanda Rodriguez,S007,SQL,4,2,Yes
+E4374,Megan Bell,S003,Node.js,3,3,No
+E3904,Brittany Burke,S005,HTML/CSS,4,3,No
+E3921,Elizabeth Robinson,S012,Project Management,9,7,No
+E4355,Kathryn Haney,S006,Python,1,1,Yes
+E2498,Kendra Sanchez,S008,Machine Learning,1,2,Yes
+E2986,Melissa Miller,S005,HTML/CSS,4,4,Yes
+E1300,Kimberly Davis,S015,Risk Management,1,3,Yes
+E2691,Amy Kent,S013,Financial Modeling,5,4,Yes
+E3975,Shelia Johnson,S004,Docker,1,1,Yes
+E2441,Kenneth Shields,S011,Consulting Basics,6,12,Yes
+E4399,Heather Gordon,S001,JavaScript,4,2,Yes
+E1409,Ashley Klein MD,S009,Data Visualization,5,4,No
+E4211,Ruth Robertson,S015,Risk Management,4,2,No
+E3194,Matthew Nguyen,S014,Client Management,1,3,No
+E319,Stephen Bauer,S012,Project Management,3,3,Yes
+E3660,Tina Jones,S006,Python,3,2,No
+E616,Michael Smith MD,S009,Data Visualization,5,1,No
+E1849,Michael Strickland,S013,Financial Modeling,7,10,Yes
+E2606,Dr. Michael Graham PhD,S015,Risk Management,3,3,Yes
+E1638,Alexander Walker,S001,JavaScript,4,2,No
+E4475,Dana English,S005,HTML/CSS,1,1,No
+E2164,Robert Padilla,S008,Machine Learning,1,3,No
+E1296,James Martinez,S006,Python,1,1,Yes
+E075,Stephen Glass,S001,JavaScript,1,1,No
+E4467,Breanna Park,S012,Project Management,5,4,Yes
+E1958,Jessica King,S014,Client Management,1,1,No
+E2255,Douglas Barnes,S010,Big Data,1,2,Yes
+E4339,Victor Griffin,S006,Python,2,3,No
+E2215,Jacqueline Edwards,S012,Project Management,3,2,No
+E4518,Andrew Smith,S013,Financial Modeling,4,1,Yes
+E4161,Aaron Medina,S005,HTML/CSS,1,1,No
+E356,Jessica Hernandez,S014,Client Management,6,8,No
+E4149,George Olsen,S011,Consulting Basics,2,4,Yes
+E1094,Robert Bond,S001,JavaScript,4,4,No
+E3387,Jesus Brooks,S014,Client Management,4,2,Yes
+E3642,Lori Peters,S008,Machine Learning,3,2,Yes
+E2535,Sherri Payne,S015,Risk Management,5,4,Yes
+E1395,Warren Hahn,S015,Risk Management,1,2,Yes
+E1910,Travis Alexander,S013,Financial Modeling,4,3,No
+E1225,Daniel Castillo,S008,Machine Learning,1,2,Yes
+E742,Melvin Williams,S001,JavaScript,1,3,Yes
+E4153,Julie Thomas MD,S010,Big Data,8,12,Yes
+E992,Cynthia Morrison,S002,React,2,1,Yes
+E4188,Darren Wang,S004,Docker,5,4,No
+E2657,Frances Evans,S014,Client Management,3,1,No
+E3222,Carl Johnson,S002,React,5,2,Yes
+E3463,Emily Johnson,S002,React,2,2,Yes
+E2994,Daniel Golden,S005,HTML/CSS,4,3,No
+E3054,Marc Nguyen,S005,HTML/CSS,8,11,No
+E543,Mrs. Vanessa Robertson,S001,JavaScript,7,9,No
+E060,Daniel Richards,S001,JavaScript,1,4,No
+E4502,Carly Payne,S013,Financial Modeling,3,4,No
+E2068,Scott Marquez,S007,SQL,8,9,No
+E294,Nicole Mendez,S003,Node.js,2,1,Yes
+E4575,Anthony Allen,S009,Data Visualization,10,8,No
+E4304,Thomas Williamson,S012,Project Management,2,4,No
+E3291,Cynthia Travis,S007,SQL,3,4,Yes
+E3901,Eric White,S006,Python,3,1,No
+E2148,Heather Jackson,S003,Node.js,4,3,Yes
+E4035,Laurie Miles,S002,React,2,1,No
+E1211,Joseph Parsons,S010,Big Data,3,2,No
+E3330,Benjamin Kelley,S011,Consulting Basics,5,4,Yes
+E355,Michael Mann,S003,Node.js,3,4,No
+E720,Amy Nguyen,S008,Machine Learning,5,3,No
+E3214,Mr. Robert Johnston MD,S011,Consulting Basics,1,3,Yes
+E823,Annette Shaw,S004,Docker,4,3,No
+E2824,Kimberly Owen,S005,HTML/CSS,3,3,Yes
+E2256,Aaron Anderson,S001,JavaScript,3,4,Yes
+E2630,Curtis Glover,S001,JavaScript,5,2,Yes
+E3947,Lindsey Vaughn,S012,Project Management,5,1,No
+E2828,Melissa Stone,S008,Machine Learning,8,6,No
+E3826,Lindsey Bruce,S006,Python,4,2,No
+E3880,John Gomez,S013,Financial Modeling,3,3,Yes
+E3102,Debra Ortega,S002,React,4,1,No
+E3252,Erin Gonzalez,S001,JavaScript,6,7,Yes
+E4045,Nathan Marquez,S001,JavaScript,9,6,No
+E675,Amy Rivas,S010,Big Data,6,5,No
+E4516,Summer Kidd,S011,Consulting Basics,9,12,No
+E869,Elizabeth Chaney,S011,Consulting Basics,3,2,No
+E4563,Harold Nichols,S002,React,4,1,Yes
+E338,Tiffany Munoz,S011,Consulting Basics,2,1,Yes
+E3402,Patricia Collins,S010,Big Data,10,11,Yes
+E4326,Michael Webb,S015,Risk Management,4,2,No
+E1525,Alexis Johnson,S002,React,5,4,Yes
+E3029,Jessica Campbell,S012,Project Management,7,9,Yes
+E4455,Todd Ford,S015,Risk Management,1,1,No
+E3105,Catherine Cohen,S002,React,5,3,Yes
+E660,Donald Jordan,S014,Client Management,5,4,No
+E2686,Brianna Glover,S001,JavaScript,2,4,No
+E248,Tara Frederick,S006,Python,1,3,Yes
+E4352,Mark Galloway,S004,Docker,10,11,Yes
+E3093,Katie Riley,S013,Financial Modeling,3,1,No
+E2428,Jacob Rodriguez,S015,Risk Management,5,3,No
+E4922,Erik Jones,S012,Project Management,6,10,No
+E3712,Mr. Joseph Lee,S007,SQL,3,1,Yes
+E1804,Michael Brown,S010,Big Data,1,1,Yes
+E2649,Betty Martinez,S010,Big Data,6,11,No
+E2084,Daniel Richardson,S002,React,1,1,No
+E3671,Ashley Garcia,S004,Docker,1,3,No
+E790,Shannon Mccoy,S004,Docker,9,9,Yes
+E494,Monica Harris,S003,Node.js,5,4,Yes
+E2621,Michelle Howell,S012,Project Management,2,1,No
+E4028,Melanie Hoover,S009,Data Visualization,5,1,No
+E914,Jack Smith,S002,React,4,2,No
+E538,Rachael Alvarez,S011,Consulting Basics,1,4,No
+E2110,Robert Price,S004,Docker,1,4,Yes
+E2707,Samantha Anderson,S008,Machine Learning,4,1,No
+E481,Melanie Cooke,S004,Docker,2,2,No
+E2738,Jason Taylor,S013,Financial Modeling,4,3,No
+E2980,Jeanette Garcia,S008,Machine Learning,5,4,Yes
+E1335,Ashley Johnson,S011,Consulting Basics,1,2,Yes
+E2089,Benjamin Gutierrez,S012,Project Management,3,1,Yes
+E2945,Rebecca Shaffer,S006,Python,3,1,Yes
+E2012,Michelle Walker,S007,SQL,8,9,Yes
+E3383,Angel Lee,S013,Financial Modeling,5,2,Yes
+E2816,Christopher Andrade,S012,Project Management,5,2,Yes
+E1793,Douglas Allen,S011,Consulting Basics,4,1,Yes
+E4753,Amy Moreno,S005,HTML/CSS,1,1,No
+E3501,Ronald Jackson,S010,Big Data,5,2,No
+E3882,Angela Holmes,S001,JavaScript,6,9,Yes
+E1368,Jeffrey Wheeler,S012,Project Management,4,2,No
+E3697,Sara Watson,S002,React,3,1,Yes
+E2186,Kevin Escobar,S003,Node.js,1,3,Yes
+E1688,Jessica Frederick,S015,Risk Management,5,4,Yes
+E2320,Miguel Evans,S001,JavaScript,2,3,No
+E3522,Jon Cross,S009,Data Visualization,7,10,Yes
+E2779,Ryan Nelson,S008,Machine Learning,1,2,Yes
+E3604,Christian Sparks,S014,Client Management,9,5,Yes
+E589,Kurt Sanchez,S011,Consulting Basics,3,1,No
+E1685,Tammy Mcdaniel DDS,S006,Python,3,2,Yes
+E4489,Joshua Fowler,S013,Financial Modeling,5,3,Yes
+E3685,Gabriel Hahn,S007,SQL,3,2,Yes
+E2302,Ashley Leblanc,S012,Project Management,4,4,Yes
+E944,Barry Spencer,S015,Risk Management,4,4,Yes
+E2082,Laurie Jones,S003,Node.js,2,4,Yes
+E4864,Michael Bennett,S014,Client Management,4,4,Yes
+E4906,April Rodriguez,S010,Big Data,4,2,Yes
+E3126,Robert Johnson,S004,Docker,5,1,Yes
+E1893,Timothy Thompson,S014,Client Management,4,3,No
+E3992,Joseph Sharp,S004,Docker,2,1,Yes
+E2385,Dr. Melissa Bowman,S001,JavaScript,1,4,No
+E1479,Brandi Villarreal,S009,Data Visualization,1,3,Yes
+E3544,Brittany Holland,S001,JavaScript,2,1,No
+E410,Jennifer Roy,S015,Risk Management,6,12,Yes
+E1158,Mary Crawford,S011,Consulting Basics,4,3,Yes
+E4893,Kimberly Lopez,S012,Project Management,2,3,Yes
+E4494,Patricia Johnson,S008,Machine Learning,5,4,Yes
+E2672,Jessica Mills,S011,Consulting Basics,1,2,No
+E1428,John Jones,S005,HTML/CSS,1,2,No
+E4444,Zachary Salazar,S003,Node.js,3,1,No
+E4812,Carrie Horton,S014,Client Management,5,4,No
+E4361,Theresa Garcia,S009,Data Visualization,2,2,Yes
+E325,Karl Payne,S006,Python,4,1,Yes
+E813,Victor Collins,S003,Node.js,3,1,No
+E2430,Michelle Barnes MD,S003,Node.js,5,2,No
+E4280,Jordan Robertson,S008,Machine Learning,3,4,Yes
+E1347,Victor Woods,S007,SQL,5,3,Yes
+E4886,Tammy Newton,S006,Python,1,3,No
+E1187,Sarah Weeks,S003,Node.js,3,1,No
+E3809,Michelle Garza,S009,Data Visualization,2,3,Yes
+E2642,Denise Allen,S014,Client Management,1,4,No
+E2737,Brian Silva,S002,React,8,5,Yes
+E168,Jordan Miller,S009,Data Visualization,10,11,No
+E3501,Ronald Jackson,S011,Consulting Basics,6,5,Yes
+E849,Lynn Campos,S009,Data Visualization,5,2,No
+E4882,Joseph James,S012,Project Management,7,9,No
+E2638,Angela Martinez,S006,Python,9,11,Yes
+E1652,Jacob Drake,S013,Financial Modeling,1,2,No
+E1525,Alexis Johnson,S004,Docker,5,3,Yes
+E615,Julie Sanchez,S013,Financial Modeling,2,3,Yes
+E1782,Tina Lloyd,S001,JavaScript,3,1,No
+E4861,Wesley Wilson,S010,Big Data,1,3,No
+E3179,Mary Davis,S011,Consulting Basics,1,3,Yes
+E736,Tanya Sosa,S008,Machine Learning,3,2,Yes
+E3318,Thomas Edwards,S003,Node.js,5,2,No
+E4294,Mr. John Jefferson IV,S003,Node.js,3,4,No
+E3852,Larry Scott,S002,React,3,2,Yes
+E3312,Jeremy Wallace,S003,Node.js,3,3,Yes
+E2441,Kenneth Shields,S010,Big Data,7,11,No
+E778,Lisa Holt,S005,HTML/CSS,4,1,Yes
+E2823,Amanda Turner,S008,Machine Learning,9,6,Yes
+E1160,Aimee Mendoza,S005,HTML/CSS,2,3,No
+E965,Ryan Allen,S015,Risk Management,1,1,No
+E351,Benjamin Hopkins,S003,Node.js,6,10,Yes
+E724,Mark Roberts,S013,Financial Modeling,3,1,No
+E3796,George Gomez,S001,JavaScript,1,3,No
+E1208,Wayne Lang,S015,Risk Management,7,7,Yes
+E315,Joanna Munoz,S007,SQL,3,3,Yes
+E1946,Jason Walter,S009,Data Visualization,2,4,Yes
+E4949,James Gallagher,S003,Node.js,7,9,Yes
+E2057,Jesse Shah,S008,Machine Learning,2,4,No
+E1466,Dustin Ross,S005,HTML/CSS,3,3,No
+E018,Patrick Little,S005,HTML/CSS,7,9,Yes
+E3505,Mrs. Elizabeth Lowery DDS,S011,Consulting Basics,4,2,Yes
+E2445,Ivan Cunningham,S001,JavaScript,1,1,Yes
+E799,Patrick Rhodes,S001,JavaScript,4,3,Yes
+E1081,Timothy Horne,S015,Risk Management,4,3,Yes
+E3246,Loretta Griffith,S001,JavaScript,2,4,No
+E4562,Russell Bell,S015,Risk Management,1,2,Yes
+E2387,Brandy Williams,S007,SQL,1,2,Yes
+E263,Stephen Holder,S008,Machine Learning,6,11,Yes
+E3914,William Ward MD,S004,Docker,5,1,Yes
+E4688,Michelle Hill,S011,Consulting Basics,7,11,No
+E4553,Olivia Woods,S008,Machine Learning,7,11,No
+E3434,John Peterson,S012,Project Management,2,2,No
+E2368,Nicole Orozco,S007,SQL,2,1,No
+E4726,Deborah Poole DDS,S007,SQL,5,4,Yes
+E1402,Allison Gallagher,S011,Consulting Basics,8,6,Yes
+E1943,James Stewart,S009,Data Visualization,10,9,No
+E3812,Ryan Roberson,S005,HTML/CSS,5,3,Yes
+E153,Luis Wilson,S006,Python,2,2,No
+E490,Timothy Cook,S011,Consulting Basics,5,3,No
+E1294,Sara Roberts,S015,Risk Management,4,1,Yes
+E1639,Jonathan Ward,S011,Consulting Basics,3,3,No
+E2143,Vanessa Cox,S001,JavaScript,2,1,No
+E3384,Catherine Wheeler,S011,Consulting Basics,1,3,No
+E872,Mike Malone,S001,JavaScript,6,5,Yes
+E262,Jonathan Jones,S004,Docker,3,4,No
+E2273,Emily Reid,S003,Node.js,3,4,No
+E3546,Dawn Jones,S010,Big Data,1,1,No
+E502,Jessica Horton,S012,Project Management,1,1,Yes
+E2421,Geoffrey Long,S014,Client Management,5,3,No
+E441,Kimberly Lopez,S009,Data Visualization,3,3,No
+E3245,Carla Reed,S010,Big Data,7,9,No
+E1323,Katherine Washington,S015,Risk Management,8,11,Yes
+E3036,Brenda Dean,S014,Client Management,5,1,No
+E4829,Todd Gonzalez,S001,JavaScript,8,11,Yes
+E2394,Tyler Ward,S012,Project Management,1,1,Yes
+E771,Sarah Ramirez,S009,Data Visualization,6,10,Yes
+E3114,Michelle Castillo,S003,Node.js,5,4,Yes
+E2260,Carla Cooper,S013,Financial Modeling,3,3,Yes
+E3461,Shane Cruz,S010,Big Data,4,1,Yes
+E493,Cameron Thomas,S015,Risk Management,1,1,Yes
+E1834,Sonya Palmer,S012,Project Management,5,3,No
+E4002,Dana Anderson,S005,HTML/CSS,3,2,No
+E3162,David Rosales,S012,Project Management,5,4,Yes
+E1085,Roy Jarvis,S006,Python,2,3,No
+E2725,Amanda Reed,S009,Data Visualization,2,2,No
+E2193,Angelica Newman,S007,SQL,5,4,Yes
+E3226,Jeffrey Sims,S009,Data Visualization,5,3,Yes
+E1494,Matthew Odonnell,S014,Client Management,2,3,No
+E3926,Alison Rose,S013,Financial Modeling,3,2,No
+E4765,Katrina Oliver,S013,Financial Modeling,10,12,No
+E334,Christian Jackson,S005,HTML/CSS,3,4,Yes
+E1303,Nathaniel Jones,S009,Data Visualization,5,2,Yes
+E3810,Rachel Norton,S003,Node.js,10,11,No
+E1614,Anna Fox,S007,SQL,2,4,Yes
+E2802,Rebekah Larson,S006,Python,2,2,No
+E444,Sandra Gutierrez,S002,React,2,2,No
+E3281,Scott Myers,S013,Financial Modeling,5,4,Yes
+E4425,Walter Parker,S013,Financial Modeling,1,4,Yes
+E1766,David Costa,S015,Risk Management,2,2,Yes
+E1299,Alyssa Johnson,S008,Machine Learning,9,7,Yes
+E089,Nathan Warren,S007,SQL,8,7,No
+E3367,John Odom,S010,Big Data,5,4,No
+E1303,Nathaniel Jones,S011,Consulting Basics,3,3,Yes
+E3623,Mark Campbell,S001,JavaScript,2,3,No
+E1519,Shirley Rogers,S012,Project Management,5,2,No
+E1488,Lisa Hill,S013,Financial Modeling,4,3,No
+E623,Seth Sutton,S010,Big Data,2,1,Yes
+E070,Melanie Gonzalez,S011,Consulting Basics,2,3,No
+E1003,Dawn Campos,S005,HTML/CSS,4,2,Yes
+E4921,David Keller,S005,HTML/CSS,1,4,No
+E1239,Nicholas Chaney,S003,Node.js,2,3,No
+E1263,Sandra Smith,S007,SQL,1,1,No
+E905,Emily Hernandez,S011,Consulting Basics,1,1,Yes
+E4957,Joseph Cisneros,S006,Python,2,2,No
+E2608,Tom Lee,S015,Risk Management,5,2,No
+E2087,William Owens,S012,Project Management,5,3,Yes
+E3244,Janet Bennett,S012,Project Management,1,1,Yes
+E3078,John Ferguson,S006,Python,1,1,No
+E2472,Nicole Jackson,S004,Docker,1,2,Yes
+E2078,Jacob Ingram,S010,Big Data,1,3,No
+E4782,Jessica Huff,S015,Risk Management,2,2,No
+E696,Gregory Smith,S009,Data Visualization,5,3,Yes
+E1525,Alexis Johnson,S007,SQL,3,1,Yes
+E1878,Michele Brown,S002,React,9,5,No
+E4338,Zachary Phillips,S005,HTML/CSS,5,4,No
+E3626,Stephanie Mccarthy,S015,Risk Management,5,3,Yes
+E3573,Brent Lewis,S004,Docker,5,4,No
+E1358,Allison Salazar,S003,Node.js,1,2,No
+E844,Jennifer Clayton,S009,Data Visualization,4,4,No
+E2747,Priscilla Miller,S003,Node.js,2,1,No
+E4592,Nathan Combs,S014,Client Management,5,3,Yes
+E406,Allison Rogers,S007,SQL,6,8,No
+E1743,Daniel Williams,S005,HTML/CSS,9,11,No
+E1301,Mark Johnson,S012,Project Management,5,2,No
+E1956,Cassandra Adams,S014,Client Management,3,4,Yes
+E2131,Joshua Brown,S006,Python,3,1,No
+E3728,Emma Santos DVM,S001,JavaScript,5,1,Yes
+E459,Leah Lee DDS,S014,Client Management,5,4,No
+E3306,Paige Miller,S001,JavaScript,3,2,No
+E933,Karen Carrillo,S006,Python,9,7,Yes
+E1970,Julie Boyle,S015,Risk Management,1,1,No
+E1095,Lori Williams,S010,Big Data,6,12,No
+E2384,Jessica Taylor,S005,HTML/CSS,8,11,Yes
+E305,Linda Hunter,S001,JavaScript,1,2,Yes
+E2990,Brian Harrison,S004,Docker,4,4,No
+E3258,Frank Adams,S004,Docker,3,2,Yes
+E3765,Jesus Dodson,S001,JavaScript,3,2,Yes
+E169,John Newman,S006,Python,3,3,Yes
+E2235,Yvonne Snow,S007,SQL,1,2,Yes
+E3978,Michael Davis,S011,Consulting Basics,1,1,No
+E2988,Julia Harmon,S011,Consulting Basics,2,4,No
+E2178,Nathaniel Carter,S006,Python,9,6,Yes
+E3424,Matthew Walker,S014,Client Management,2,1,Yes
+E458,John Martinez,S001,JavaScript,6,6,Yes
+E2506,Jennifer Baker,S012,Project Management,4,4,No
+E1397,Sandy Jacobs,S012,Project Management,4,4,Yes
+E3408,Debra Romero,S002,React,5,4,No
+E447,Craig Cuevas PhD,S006,Python,2,1,Yes
+E3900,Melanie Simon,S003,Node.js,2,1,Yes
+E3753,Ashley Thomas,S001,JavaScript,6,11,Yes
+E1746,Nicole Martin,S007,SQL,2,1,No
+E1217,Christie Kim,S015,Risk Management,3,1,Yes
+E149,Whitney Brown,S007,SQL,3,1,No
+E4586,Kayla Cruz,S011,Consulting Basics,2,3,Yes
+E2735,Catherine Smith,S003,Node.js,4,3,No
+E4980,Eric Peterson,S013,Financial Modeling,5,2,Yes
+E3112,Brian Hernandez,S003,Node.js,3,2,No
+E1620,Chris Ray,S008,Machine Learning,3,1,No
+E3262,Jason Scott,S011,Consulting Basics,7,6,No
+E2717,Diana Bush,S010,Big Data,4,1,Yes
+E4049,Craig Compton,S011,Consulting Basics,3,4,No
+E925,Steven Walton,S015,Risk Management,4,1,Yes
+E3673,Julie Golden,S003,Node.js,10,6,No
+E4817,David Fisher,S012,Project Management,1,4,No
+E1866,Christopher Simmons,S015,Risk Management,2,1,Yes
+E1289,Michael Gomez,S006,Python,5,4,Yes
+E3226,Jeffrey Sims,S013,Financial Modeling,3,4,Yes
+E3240,Lori Collins,S007,SQL,6,6,No
+E4828,Angela Dunn,S013,Financial Modeling,1,4,Yes
+E2384,Jessica Taylor,S007,SQL,3,3,Yes
+E4306,Laurie Burns,S006,Python,2,2,No
+E2840,Christopher Bridges,S004,Docker,5,2,No
+E1201,Timothy Johnston,S012,Project Management,4,2,Yes
+E2161,Anna Horne,S012,Project Management,1,1,No
+E3375,Richard Thompson,S008,Machine Learning,1,1,Yes
+E2469,Kenneth Gill,S002,React,3,3,Yes
+E820,Mrs. Brandi Barker,S001,JavaScript,4,1,Yes
+E3697,Sara Watson,S013,Financial Modeling,4,4,Yes
+E1791,Randy Williams,S012,Project Management,4,4,No
+E4300,Stephanie Torres,S001,JavaScript,5,2,No
+E3478,Melissa Schmidt,S003,Node.js,5,1,Yes
+E1506,Nicholas Rodriguez,S001,JavaScript,4,1,Yes
+E1181,Jason Stephenson,S006,Python,3,1,No
+E2193,Angelica Newman,S008,Machine Learning,3,1,Yes
+E577,Vicki Peters,S002,React,1,2,Yes
+E364,Pam Jones,S001,JavaScript,2,3,Yes
+E2904,Martin Garner,S008,Machine Learning,3,4,No
+E2688,Douglas Freeman,S008,Machine Learning,5,1,Yes
+E2246,John Harris,S004,Docker,3,1,No
+E2723,Cindy Perez,S011,Consulting Basics,4,4,No
+E1210,Donna Schneider,S001,JavaScript,9,11,Yes
+E1978,Phyllis Hester,S010,Big Data,4,3,Yes
+E3655,Lindsey Hill,S009,Data Visualization,4,4,Yes
+E4950,Mark Miller,S009,Data Visualization,4,2,Yes
+E1381,Adam Ramos,S005,HTML/CSS,3,2,Yes
+E676,Lauren Francis,S014,Client Management,5,1,Yes
+E2036,David Walker,S006,Python,4,4,No
+E3803,Mark Fletcher,S009,Data Visualization,2,3,No
+E977,Amy Perez,S003,Node.js,3,1,Yes
+E3761,Tammy Mccarthy,S004,Docker,1,2,Yes
+E1000,Ashley Swanson,S014,Client Management,8,5,No
+E4311,Joe Gutierrez,S007,SQL,5,1,No
+E2888,Carol Martinez,S011,Consulting Basics,2,3,Yes
+E467,Brooke Griffin,S011,Consulting Basics,3,1,Yes
+E2165,Sydney Sanford,S011,Consulting Basics,8,12,No
+E368,Nancy Mcbride,S009,Data Visualization,3,2,No
+E443,Manuel Byrd,S011,Consulting Basics,2,1,Yes
+E2208,Sierra Olson,S004,Docker,9,5,Yes
+E4763,Rachel Stephens,S014,Client Management,4,2,No
+E3010,Laura Grant,S015,Risk Management,8,6,Yes
+E810,Stephanie Garcia,S004,Docker,1,2,Yes
+E2551,Charles Monroe,S001,JavaScript,5,1,No
+E3603,Carrie Jones,S009,Data Visualization,4,2,Yes
+E3551,Veronica Dean,S011,Consulting Basics,3,1,No
+E436,Linda Mosley,S003,Node.js,1,4,No
+E110,Laura Medina,S010,Big Data,3,4,No
+E2932,Tracy Peters DDS,S012,Project Management,1,3,No
+E244,Miguel Ball,S015,Risk Management,3,2,Yes
+E1001,Lauren Williams,S001,JavaScript,3,2,Yes
+E2654,Paul Carroll,S011,Consulting Basics,1,2,Yes
+E1496,Frank Graham,S009,Data Visualization,6,6,No
+E1104,Debbie Robinson,S009,Data Visualization,6,9,No
+E2961,Raven Wagner,S015,Risk Management,4,1,No
+E3745,Wendy Benson,S015,Risk Management,3,4,No
+E2016,David George,S012,Project Management,2,2,No
+E4074,Thomas Martin,S003,Node.js,8,10,No
+E2067,Melissa Summers,S003,Node.js,4,1,Yes
+E1240,Melissa Smith,S006,Python,2,4,Yes
+E3684,Jennifer Shaffer,S005,HTML/CSS,9,12,Yes
+E1953,Jamie Shields,S001,JavaScript,4,2,No
+E3108,Brandon Jensen,S013,Financial Modeling,10,12,No
+E121,Danielle Ingram,S012,Project Management,3,1,Yes
+E2048,Brenda Walker,S004,Docker,4,4,Yes
+E2465,William Gutierrez,S005,HTML/CSS,3,2,No
+E1045,Cathy Dunn,S007,SQL,1,2,Yes
+E4610,Matthew Adkins,S005,HTML/CSS,2,1,Yes
+E3651,Destiny Patterson,S004,Docker,1,3,No
+E1111,Joseph Pena II,S007,SQL,8,8,No
+E3343,Michelle Davis,S007,SQL,7,5,No
+E1236,Robert Valdez,S003,Node.js,3,2,No
+E1833,Amber Weaver,S003,Node.js,5,1,Yes
+E3116,Dr. Bridget Jimenez MD,S008,Machine Learning,10,11,No
+E4148,James Hall,S006,Python,10,9,Yes
+E1384,Rhonda Webb,S002,React,1,4,Yes
+E3022,Danielle Hale,S003,Node.js,5,4,Yes
+E4231,Tiffany Glover,S011,Consulting Basics,1,4,Yes
+E4908,Ryan Brooks,S003,Node.js,1,2,No
+E4714,Rachel Jones,S008,Machine Learning,5,2,Yes
+E3710,John Barnett,S009,Data Visualization,2,4,No
+E4078,Jeffrey Rodriguez,S013,Financial Modeling,8,6,Yes
+E4137,Monique Jones,S004,Docker,3,4,Yes
+E2165,Sydney Sanford,S015,Risk Management,1,3,Yes
+E3678,Charles Smith,S012,Project Management,3,3,Yes
+E4120,Julie Butler,S002,React,2,2,Yes
+E4559,Philip Ballard,S011,Consulting Basics,1,2,Yes
+E3565,Michael Smith,S015,Risk Management,9,7,Yes
+E2372,Kelly Butler,S015,Risk Management,2,1,Yes
+E1638,Alexander Walker,S010,Big Data,5,2,Yes
+E943,Christina Brown,S007,SQL,5,4,No
+E4489,Joshua Fowler,S015,Risk Management,1,1,No
+E393,Erin Jones,S007,SQL,2,1,Yes
+E4125,Sara Austin,S011,Consulting Basics,6,9,Yes
+E2415,Sara Lester,S011,Consulting Basics,4,3,Yes
+E2033,Andres Griffith,S014,Client Management,1,3,Yes
+E1995,Daniel Schultz,S011,Consulting Basics,2,2,No
+E3798,Jason Matthews,S006,Python,3,1,No
+E3326,Seth Hill,S001,JavaScript,5,1,No
+E653,Maria Hicks,S002,React,8,9,No
+E045,Jason Cooper,S008,Machine Learning,2,1,No
+E1313,Kristina Barry,S014,Client Management,3,3,Yes
+E2109,John Estrada,S015,Risk Management,5,2,Yes
+E4184,Jeffrey Barnes,S012,Project Management,3,3,No
+E1846,William Fox,S006,Python,4,4,No
+E2743,Nathaniel Lewis,S011,Consulting Basics,3,4,No
+E477,Brittany Dyer,S015,Risk Management,8,10,Yes
+E1111,Joseph Pena II,S005,HTML/CSS,6,5,Yes
+E4663,Christina Hickman,S001,JavaScript,5,4,No
+E1102,Molly Rodriguez,S014,Client Management,1,2,No
+E1414,Jose Johnson,S011,Consulting Basics,5,1,No
+E4169,Bridget Williams,S008,Machine Learning,3,1,No
+E2899,Danielle Elliott,S004,Docker,2,1,No
+E3250,Robert Fisher,S006,Python,3,4,No
+E3270,Robert Evans,S013,Financial Modeling,4,2,Yes
+E3869,Becky Collier,S007,SQL,2,1,No
+E3916,Dana Lee,S014,Client Management,7,11,Yes
+E1485,Brittany Jacobs,S015,Risk Management,4,3,No
+E4799,Valerie Hanson,S006,Python,2,1,No
+E224,Stephanie Rowe,S014,Client Management,3,4,Yes
+E1818,Angela Nichols,S012,Project Management,3,3,Yes
+E1239,Nicholas Chaney,S010,Big Data,4,2,No
+E1081,Timothy Horne,S014,Client Management,1,2,Yes
+E4510,Nicholas Jackson,S008,Machine Learning,3,1,Yes
+E4904,Gina Hancock,S004,Docker,3,1,Yes
+E2630,Curtis Glover,S005,HTML/CSS,1,1,Yes
+E2688,Douglas Freeman,S002,React,3,2,Yes
+E1107,Walter Griffin,S003,Node.js,1,1,No
+E720,Amy Nguyen,S011,Consulting Basics,1,2,No
+E2299,Nicholas Schmidt,S004,Docker,1,4,No
+E3396,Amanda Nash,S003,Node.js,2,2,Yes
+E4345,Rebecca Evans,S013,Financial Modeling,5,2,Yes
+E4893,Kimberly Lopez,S015,Risk Management,10,9,Yes
+E1037,Kimberly Malone,S004,Docker,1,2,No
+E433,Sarah Peterson,S011,Consulting Basics,6,9,No
+E282,Andrea Cervantes,S013,Financial Modeling,3,2,No
+E1004,Rebecca Gomez,S003,Node.js,7,10,Yes
+E300,Heather Flores,S010,Big Data,1,4,No
+E973,Donald Sullivan,S001,JavaScript,2,4,No
+E3603,Carrie Jones,S011,Consulting Basics,3,2,No
+E3356,Sara Guzman,S011,Consulting Basics,4,3,No
+E3469,Christopher Sosa,S004,Docker,3,4,No
+E1754,James Buckley,S006,Python,4,3,Yes
+E4406,Ashley Hicks,S009,Data Visualization,2,2,No
+E2767,William Wells,S013,Financial Modeling,8,9,Yes
+E4557,Laurie Hernandez,S011,Consulting Basics,3,2,No
+E2642,Denise Allen,S004,Docker,4,4,No
+E4590,Rebekah Foster,S010,Big Data,2,1,No
+E2602,Mary Mendez,S005,HTML/CSS,7,8,Yes
+E1771,Barbara Stephens,S009,Data Visualization,6,6,No
+E4421,Angela Bennett,S008,Machine Learning,10,5,No
+E4824,David Williams,S008,Machine Learning,2,1,Yes
+E741,Daniel Frost,S011,Consulting Basics,3,1,Yes
+E4282,Melissa Pham,S011,Consulting Basics,8,11,Yes
+E3876,Thomas Robinson,S006,Python,2,3,Yes
+E1055,Amy Rogers,S002,React,4,3,No
+E2096,James Lopez,S004,Docker,5,1,Yes
+E4283,Mr. Jeremy Wagner,S005,HTML/CSS,3,1,No
+E347,Sarah Lee,S012,Project Management,5,1,Yes
+E2609,Patrick Johnson,S008,Machine Learning,4,4,No
+E2039,Megan Walls,S004,Docker,1,3,No
+E1897,Maria Cannon MD,S010,Big Data,1,1,Yes
+E167,Curtis Cole,S010,Big Data,1,4,No
+E072,Donald Velez,S012,Project Management,2,1,Yes
+E506,Brian Maddox,S002,React,8,12,Yes
+E2205,Stephen Colon,S015,Risk Management,4,4,Yes
+E4877,Christopher Allen,S012,Project Management,7,12,No
+E392,Patricia Morrison,S007,SQL,4,3,Yes
+E909,Kristen Suarez,S010,Big Data,7,7,No
+E4359,Jimmy Smith,S003,Node.js,8,10,Yes
+E2695,Kyle Martinez,S012,Project Management,4,4,No
+E209,Samantha Hall,S015,Risk Management,10,12,Yes
+E192,Brenda Murphy,S007,SQL,4,1,Yes
+E4625,Thomas Wilson,S002,React,5,3,Yes
+E3196,Dorothy Wolfe,S003,Node.js,10,8,No
+E601,Doris Roman,S002,React,2,3,No
+E098,Matthew Perry,S005,HTML/CSS,2,3,No
+E582,Kristen Dominguez,S005,HTML/CSS,4,4,Yes
+E4335,Jennifer Ramirez,S012,Project Management,5,1,No
+E4888,David Hammond,S010,Big Data,4,1,No
+E1001,Lauren Williams,S006,Python,4,4,No
+E2610,Amanda Trevino,S002,React,1,1,Yes
+E2427,Katrina Pierce,S009,Data Visualization,8,11,Yes
+E4362,Carlos Gallegos,S004,Docker,5,4,Yes
+E958,Carla Martin,S007,SQL,2,4,No
+E3027,Lindsay Jordan,S014,Client Management,4,1,Yes
+E173,Brandon Jordan,S008,Machine Learning,4,1,No
+E4524,Bryan Harris,S002,React,4,3,Yes
+E4288,Peter Avery,S003,Node.js,4,1,No
+E835,Timothy Delacruz,S010,Big Data,1,2,Yes
+E970,Billy Young,S001,JavaScript,5,1,No
+E4287,Tammy Moran,S005,HTML/CSS,6,6,Yes
+E1414,Jose Johnson,S013,Financial Modeling,8,12,No
+E3620,James Harris,S002,React,5,1,No
+E3785,Kristie Gamble,S011,Consulting Basics,4,3,Yes
+E1870,Deanna Lopez,S008,Machine Learning,1,3,Yes
+E1314,Michael Russell,S007,SQL,3,2,No
+E1597,Samantha Grimes,S009,Data Visualization,2,2,Yes
+E1243,Christopher Glass,S002,React,4,2,No
+E1064,Adam Bradford,S003,Node.js,1,4,Yes
+E1743,Daniel Williams,S012,Project Management,5,4,Yes
+E4510,Nicholas Jackson,S002,React,2,3,No
+E2791,Jill Jordan,S009,Data Visualization,5,1,Yes
+E936,Joanna Kelley,S013,Financial Modeling,2,2,No
+E4130,Gregory Lawrence,S011,Consulting Basics,2,2,No
+E1615,Carol Robinson,S001,JavaScript,6,12,Yes
+E572,Crystal Gonzalez,S007,SQL,2,1,No
+E1821,Anna Washington,S008,Machine Learning,5,2,Yes
+E616,Michael Smith MD,S005,HTML/CSS,7,6,No
+E4173,Michael Stanton,S003,Node.js,10,12,No
+E1963,Mr. Jonathan Green,S009,Data Visualization,4,1,No
+E4988,Danielle Huff,S007,SQL,5,3,Yes
+E1175,Sarah Moon,S002,React,4,1,No
+E2931,Sheri Robinson,S005,HTML/CSS,3,4,No
+E3434,John Peterson,S012,Project Management,5,3,Yes
+E3279,Diana Myers,S015,Risk Management,5,1,Yes
+E1632,John Edwards,S008,Machine Learning,2,3,Yes
+E2188,Tiffany Williams,S003,Node.js,4,2,No
+E1452,David Howard,S008,Machine Learning,10,6,Yes
+E1377,Jacob Nguyen,S008,Machine Learning,2,1,No
+E2546,Samuel Johnson,S009,Data Visualization,2,2,Yes
+E1190,Kevin Goodman,S010,Big Data,5,3,Yes
+E3374,Emily Stewart,S009,Data Visualization,2,1,No
+E2483,Kenneth Phillips,S005,HTML/CSS,4,2,No
+E3919,Jennifer Ibarra,S003,Node.js,6,10,No
+E1952,Anthony Owens,S011,Consulting Basics,1,2,Yes
+E3208,William Rodriguez,S013,Financial Modeling,7,12,No
+E1579,William Davis,S007,SQL,2,2,No
+E3331,Chris Baker,S004,Docker,7,12,Yes
+E4605,Elizabeth Pope,S008,Machine Learning,5,3,Yes
+E2109,John Estrada,S009,Data Visualization,8,7,No
+E021,Laura Clarke,S010,Big Data,2,4,No
+E1127,Elizabeth Marquez,S004,Docker,4,3,Yes
+E617,David Perez,S014,Client Management,4,3,Yes
+E3412,Ian Reid,S010,Big Data,5,2,No
+E3125,Bruce Petersen,S010,Big Data,2,4,Yes
+E3108,Brandon Jensen,S010,Big Data,1,4,No
+E717,Zachary Brown,S011,Consulting Basics,4,3,Yes
+E3047,Amy Campbell,S007,SQL,4,3,No
+E600,Paul Johnson,S008,Machine Learning,10,5,Yes
+E1294,Sara Roberts,S001,JavaScript,1,1,Yes
+E233,Courtney Stevens,S009,Data Visualization,10,8,Yes
+E439,Alexa Castro,S002,React,2,4,Yes
+E1969,Amanda Rodriguez,S005,HTML/CSS,4,4,No
+E1403,Michael Garcia,S012,Project Management,1,3,Yes
+E4509,Peggy Matthews,S006,Python,2,2,Yes
+E4282,Melissa Pham,S013,Financial Modeling,5,2,No
+E066,Marcus Griffin,S006,Python,5,2,No
+E1914,Ralph Gutierrez,S003,Node.js,2,2,No
+E4376,Catherine Williams,S005,HTML/CSS,7,10,Yes
+E2841,Tyler Andrews,S001,JavaScript,5,1,No
+E3267,Kathy Silva,S013,Financial Modeling,3,4,No
+E2029,Heather Rowe,S006,Python,4,4,No
+E216,Barbara Hernandez,S015,Risk Management,6,7,No
+E3045,Cody Martin,S005,HTML/CSS,1,2,No
+E3761,Tammy Mccarthy,S005,HTML/CSS,1,2,No
+E4841,Becky Ellis,S006,Python,2,3,Yes
+E2123,Lisa Wu,S001,JavaScript,8,6,No
+E1226,Jacob Murphy,S008,Machine Learning,5,2,Yes
+E3325,Jasmine Rodriguez,S015,Risk Management,3,2,Yes
+E219,Amy Carter,S005,HTML/CSS,5,4,No
+E408,Andrew Davis,S002,React,9,8,No
+E1971,Amy Curry,S009,Data Visualization,2,2,Yes
+E3238,Cindy Stephens,S004,Docker,2,4,No
+E867,Tristan Rivera,S011,Consulting Basics,2,2,Yes
+E899,Shawna Clark,S006,Python,3,4,No
+E2635,Ricardo Mitchell,S014,Client Management,2,3,No
+E2436,Carla Smith,S013,Financial Modeling,1,3,No
+E2175,Matthew Smith,S008,Machine Learning,10,8,Yes
+E572,Crystal Gonzalez,S005,HTML/CSS,5,1,No
+E3358,Nathan Wade,S015,Risk Management,7,9,No
+E3304,Danielle Conley,S008,Machine Learning,2,2,No
+E1935,Christina Smith,S012,Project Management,1,2,No
+E496,Jacqueline Martin MD,S015,Risk Management,5,2,Yes
+E604,John Gregory DDS,S010,Big Data,10,8,No
+E3528,Holly Phillips,S006,Python,4,4,No
+E4414,David Garcia,S015,Risk Management,4,1,No
+E825,Rebecca Bentley,S014,Client Management,10,6,Yes
+E399,Kristin Edwards,S012,Project Management,3,1,No
+E2182,Ann Clark,S003,Node.js,3,1,Yes
+E4867,Kimberly Owens,S008,Machine Learning,3,2,No
+E2608,Tom Lee,S003,Node.js,4,1,No
+E4700,Kyle Blankenship,S006,Python,2,3,Yes
+E1063,Mary Stafford,S009,Data Visualization,1,1,Yes
+E095,Lisa Steele,S004,Docker,5,1,No
+E1464,Tyrone Delacruz,S014,Client Management,3,4,No
+E3509,Christopher Bernard,S009,Data Visualization,6,6,No
+E1586,Gregory Decker,S011,Consulting Basics,10,9,Yes
+E389,Richard Gomez,S008,Machine Learning,2,1,Yes
+E4613,Christopher Kim,S001,JavaScript,5,1,Yes
+E281,Michael Villa,S012,Project Management,2,4,No
+E1253,Alisha Wiley,S007,SQL,3,4,No
+E3401,Terry Allen,S004,Docker,6,9,Yes
+E2288,Joseph Morgan,S014,Client Management,2,3,No
+E1287,Michael Smith,S002,React,8,12,No
+E4567,Beverly Mcgrath,S013,Financial Modeling,1,2,Yes
+E1574,Kristin Ward,S013,Financial Modeling,5,1,Yes
+E1823,Christopher Rogers,S013,Financial Modeling,10,12,Yes
+E4774,Taylor Hodge,S012,Project Management,4,2,Yes
+E4407,Dean Liu,S014,Client Management,3,2,Yes
+E955,Jeremy Martin,S006,Python,7,12,No
+E1728,Christina Spencer,S005,HTML/CSS,3,2,Yes
+E4495,Rebecca Lopez,S009,Data Visualization,1,4,No
+E2707,Samantha Anderson,S010,Big Data,5,3,No
+E1027,John Walters,S003,Node.js,10,9,No
+E4880,Gregory Castro,S011,Consulting Basics,6,6,No
+E755,Cody Roberts,S007,SQL,5,2,No
+E4800,Sarah Sawyer,S003,Node.js,7,6,Yes
+E2505,Darren Roach,S013,Financial Modeling,8,12,Yes
+E363,Jennifer Miller,S004,Docker,5,1,No
+E1241,Brittany Lynch,S004,Docker,3,1,No
+E1824,Rachel Taylor,S011,Consulting Basics,6,8,Yes
+E2053,Rebecca Young,S012,Project Management,7,11,No
+E1619,Troy Hahn,S009,Data Visualization,10,10,Yes
+E3902,Michele Crawford,S003,Node.js,1,3,No
+E1121,Dawn Fischer,S010,Big Data,10,9,No
+E897,Barbara Ballard,S002,React,6,9,No
+E1762,Lisa Hendricks,S008,Machine Learning,3,4,Yes
+E854,Jeffrey Day,S011,Consulting Basics,2,1,No
+E3526,Gary Wilcox,S001,JavaScript,2,3,Yes
+E712,Carrie Torres,S009,Data Visualization,3,2,Yes
+E036,Andrea Johnson,S011,Consulting Basics,2,1,No
+E1539,James Bond,S005,HTML/CSS,6,6,No
+E2317,Brittany Smith,S015,Risk Management,3,4,Yes
+E458,John Martinez,S014,Client Management,4,4,Yes
+E4657,James Turner,S001,JavaScript,4,3,Yes
+E4203,Jessica Carr,S008,Machine Learning,1,2,No
+E3020,Kathy Goodman,S013,Financial Modeling,5,3,Yes
+E2745,Laura Carter MD,S011,Consulting Basics,2,1,No
+E398,Mrs. Rebecca Whitney,S002,React,5,2,Yes
+E831,Richard Schwartz,S015,Risk Management,5,3,Yes
+E1291,Stephen Bell,S011,Consulting Basics,1,4,Yes
+E2208,Sierra Olson,S006,Python,4,3,Yes
+E4904,Gina Hancock,S008,Machine Learning,3,2,No
+E2310,Amanda Powell,S003,Node.js,2,2,No
+E678,Veronica Morris,S005,HTML/CSS,8,11,Yes
+E2758,Kimberly Montgomery,S003,Node.js,4,4,Yes
+E2538,Brian Jennings,S005,HTML/CSS,3,2,No
+E2010,Hannah Reynolds,S007,SQL,5,2,No
+E1165,Ryan Smith,S005,HTML/CSS,4,2,Yes
+E1379,Meghan Smith,S014,Client Management,2,4,Yes
+E1221,Jacob Jennings,S014,Client Management,2,3,No
+E115,Jose Chase,S003,Node.js,1,3,No
+E4676,Francisco Berry,S004,Docker,4,3,No
+E385,Marco Gonzalez,S013,Financial Modeling,2,4,Yes
+E1488,Lisa Hill,S006,Python,5,3,Yes
+E3283,Sharon Clark,S011,Consulting Basics,2,4,Yes
+E3482,Brenda Noble,S002,React,5,3,No
+E3841,Haley Hill,S015,Risk Management,3,3,Yes
+E1578,Dustin Moore,S011,Consulting Basics,3,2,No
+E4452,Chelsea Smith,S013,Financial Modeling,3,3,No
+E456,William Torres,S007,SQL,1,4,Yes
+E740,Michelle Edwards,S001,JavaScript,2,4,No
+E2399,Diamond Paul,S004,Docker,5,4,No
+E2272,Shelley Burns,S001,JavaScript,3,4,No
+E2733,Mrs. Christina Wilcox,S008,Machine Learning,1,4,No
+E3592,Joanne Armstrong,S011,Consulting Basics,4,1,No
+E2137,Tonya Hill,S002,React,4,2,Yes
+E1757,Karen Diaz,S012,Project Management,3,2,Yes
+E3311,Monique Chen,S005,HTML/CSS,1,2,No
+E4185,Vincent Beck,S005,HTML/CSS,5,2,No
+E3440,Jennifer Brock,S012,Project Management,10,10,Yes
+E3501,Ronald Jackson,S001,JavaScript,9,7,No
+E3490,Lacey Williams,S006,Python,4,1,Yes
+E4245,Jennifer Navarro,S010,Big Data,3,3,Yes
+E4577,Julia Buchanan,S006,Python,1,1,No
+E4569,Anthony Adams Jr.,S002,React,4,1,No
+E1376,Charles Doyle,S013,Financial Modeling,9,9,Yes
+E2235,Yvonne Snow,S006,Python,10,7,No
+E3029,Jessica Campbell,S002,React,1,3,No
+E4328,Dr. George Mack,S009,Data Visualization,4,4,Yes
+E2104,Austin Jackson,S010,Big Data,5,1,No
+E1076,Stephanie Green,S004,Docker,5,3,No
+E1290,Peter Little,S006,Python,3,4,Yes
+E4947,Peter Roberts,S002,React,3,1,Yes
+E2063,Joel Evans,S007,SQL,2,4,No
+E2619,Tiffany Andrews,S009,Data Visualization,3,1,No
+E4501,Brian Jordan,S005,HTML/CSS,3,1,No
+E3723,Brian Baxter,S012,Project Management,5,1,Yes
+E2231,Christina Vaughn,S013,Financial Modeling,2,3,No
+E4867,Kimberly Owens,S002,React,2,4,Yes
+E433,Sarah Peterson,S004,Docker,5,2,Yes
+E3688,Regina Cohen,S005,HTML/CSS,4,2,Yes
+E687,Richard Davis,S004,Docker,1,3,Yes
+E1608,Vincent Gilbert,S006,Python,8,7,Yes
+E3138,Timothy Day,S005,HTML/CSS,2,1,Yes
+E1989,Nathaniel Hernandez,S009,Data Visualization,3,3,Yes
+E2280,Tammy Alexander,S015,Risk Management,10,12,No
+E532,Daniel Rivas,S005,HTML/CSS,5,4,No
+E1191,Judith Baldwin,S015,Risk Management,5,4,Yes
+E3872,Denise Morris,S007,SQL,9,6,Yes
+E4131,Jonathan Huber,S002,React,4,1,No
+E1340,Ronnie Williams,S008,Machine Learning,4,1,Yes
+E4302,Grace Allen,S003,Node.js,4,1,No
+E3716,George Lopez,S001,JavaScript,3,1,Yes
+E2135,Timothy Martinez,S005,HTML/CSS,1,3,No
+E4480,Tina Bush,S010,Big Data,1,1,No
+E2842,Wanda Walsh,S004,Docker,5,2,No
+E3514,Haley Williams,S002,React,2,1,No
+E2249,Erin Mendoza,S011,Consulting Basics,2,2,No
+E4797,Kayla Strickland,S003,Node.js,9,6,Yes
+E3678,Charles Smith,S002,React,5,2,Yes
+E574,Patricia Hays,S009,Data Visualization,3,2,No
+E2150,Molly Owen,S007,SQL,3,1,Yes
+E3083,Christine Ward,S012,Project Management,1,3,Yes
+E4033,Michael Williams,S006,Python,5,4,Yes
+E2460,Nicholas Gould,S004,Docker,1,3,No
+E3535,Megan Newton,S010,Big Data,4,4,No
+E4971,Debra Ray,S011,Consulting Basics,2,4,No
+E4881,Danielle Kelly,S015,Risk Management,4,2,Yes
+E179,Matthew Osborne,S002,React,10,9,Yes
+E940,Jennifer Daniel,S014,Client Management,2,1,Yes
+E1399,Brandon Carter,S012,Project Management,2,1,No
+E4733,Mark Vasquez,S005,HTML/CSS,3,4,Yes
+E4650,Jeremy Howe,S001,JavaScript,3,2,No
+E1443,Michelle Orozco,S007,SQL,3,2,No
+E2119,Valerie Robinson,S008,Machine Learning,5,2,No
+E2123,Lisa Wu,S011,Consulting Basics,8,10,Yes
+E1197,Aimee Murray,S009,Data Visualization,2,2,No
+E904,Adam Mitchell,S007,SQL,4,2,Yes
+E2223,Jacob Farmer,S006,Python,8,9,Yes
+E756,James Roach,S011,Consulting Basics,6,10,Yes
+E2482,Joy Brown,S009,Data Visualization,4,4,No
+E3124,Rachel Torres,S003,Node.js,3,3,Yes
+E1413,Ricardo Sullivan,S010,Big Data,4,4,Yes
+E4532,Frank Cardenas,S002,React,3,3,Yes
+E4661,Roger Richardson,S006,Python,5,3,Yes
+E1911,Cameron Jensen,S014,Client Management,3,3,Yes
+E301,Samantha Peterson,S010,Big Data,4,4,No
+E1568,Amy Gonzales,S009,Data Visualization,5,4,Yes
+E2416,Joseph White,S011,Consulting Basics,2,4,No
+E1544,Heather Wise,S013,Financial Modeling,2,4,No
+E1703,Michael Castillo,S014,Client Management,4,3,No
+E1624,Natasha Burns,S014,Client Management,2,4,No
+E3106,Erica Griffin,S011,Consulting Basics,5,4,No
+E1733,Nicole Fitzgerald,S001,JavaScript,5,2,Yes
+E3595,Christopher Barker,S002,React,1,3,Yes
+E1537,Eric Woodard,S009,Data Visualization,6,9,Yes
+E3836,Joshua Smith,S013,Financial Modeling,4,2,No
+E760,Frank Johnson,S006,Python,5,2,Yes
+E2231,Christina Vaughn,S003,Node.js,4,3,Yes
+E2932,Tracy Peters DDS,S013,Financial Modeling,1,1,Yes
+E3550,Daniel Acevedo,S008,Machine Learning,1,2,No
+E1755,Robert Deleon,S007,SQL,8,12,Yes
+E3738,Beth Baker,S001,JavaScript,5,4,No
+E2229,Stephen Cochran,S013,Financial Modeling,4,3,Yes
+E4691,Amanda Ramirez,S007,SQL,8,7,Yes
+E1443,Michelle Orozco,S008,Machine Learning,10,8,Yes
+E3454,Garrett Johnson,S011,Consulting Basics,7,9,Yes
+E3556,Cody Mccall,S007,SQL,8,8,No
+E3417,Joseph Stone,S012,Project Management,5,3,No
+E2682,Joanna Rios,S004,Docker,5,4,No
+E239,Brittany Parrish,S003,Node.js,2,3,Yes
+E4504,Susan Peterson,S015,Risk Management,1,4,Yes
+E470,Robin Nelson,S002,React,1,1,No
+E4034,Sandra Snyder,S009,Data Visualization,1,1,No
+E3658,Kristin Kline,S002,React,8,9,Yes
+E2077,Karen Sawyer,S012,Project Management,2,1,Yes
+E1857,Jose Smith,S014,Client Management,1,4,No
+E895,John Shaffer,S010,Big Data,5,4,No
+E4613,Christopher Kim,S002,React,1,4,Yes
+E1650,David Carey,S004,Docker,2,4,No
+E3439,William Willis,S012,Project Management,8,12,No
+E423,Daniel Gonzales,S009,Data Visualization,3,4,Yes
+E2255,Douglas Barnes,S006,Python,1,3,No
+E2586,Justin Tucker,S001,JavaScript,4,2,No
+E2092,Shane Martinez,S001,JavaScript,9,5,Yes
+E1494,Matthew Odonnell,S006,Python,1,2,Yes
+E1041,Michael Hatfield,S002,React,6,7,Yes
+E3148,Rachel Valenzuela,S008,Machine Learning,7,11,No
+E4792,Bridget Shaw,S011,Consulting Basics,4,3,No
+E2129,Melissa Grant,S006,Python,9,5,Yes
+E1510,Amber Smith,S004,Docker,9,12,No
+E639,Mario Ballard,S002,React,3,4,Yes
+E1681,Christopher Garrett,S014,Client Management,4,4,No
+E2882,Krystal Wright,S004,Docker,2,2,Yes
+E1475,Marvin Williams,S003,Node.js,8,6,Yes
+E3591,Alexa Sanders,S003,Node.js,5,3,No
+E726,Louis Peterson,S009,Data Visualization,4,4,No
+E045,Jason Cooper,S009,Data Visualization,1,4,Yes
+E4849,Angela Griffin,S003,Node.js,9,12,No
+E831,Richard Schwartz,S004,Docker,1,4,Yes
+E2555,Erika Jordan,S004,Docker,10,12,No
+E054,Kelly Cuevas,S009,Data Visualization,1,1,Yes
+E3112,Brian Hernandez,S005,HTML/CSS,3,1,Yes
+E2867,Kelly Rocha,S014,Client Management,4,3,No
+E2089,Benjamin Gutierrez,S003,Node.js,2,3,Yes
+E787,Paul Myers,S009,Data Visualization,5,1,No
+E4903,Jason Williams,S003,Node.js,4,1,Yes
+E3539,Joseph Castro,S012,Project Management,3,1,Yes
+E4436,Christopher Johnson,S008,Machine Learning,4,3,No
+E3709,Antonio Lucas,S013,Financial Modeling,1,4,No
+E3631,Sheri Brown,S002,React,8,11,No
+E4133,Melissa Smith,S002,React,4,4,Yes
+E2797,Emma Barrett,S012,Project Management,3,1,No
+E4504,Susan Peterson,S011,Consulting Basics,8,9,Yes
+E3171,Jeffrey Meyer,S002,React,4,1,No
+E615,Julie Sanchez,S012,Project Management,1,3,Yes
+E2872,Laura Osborne,S011,Consulting Basics,5,4,Yes
+E938,Hector Fernandez,S011,Consulting Basics,4,4,No
+E3146,Arthur Morales,S006,Python,3,1,Yes
+E1048,Jamie Blanchard,S003,Node.js,8,9,No
+E1998,Chelsea Sandoval,S007,SQL,4,2,No
+E2877,Michael Contreras,S006,Python,3,4,No
+E433,Sarah Peterson,S005,HTML/CSS,4,4,No
+E4962,John Hunt,S006,Python,5,2,No
+E4700,Kyle Blankenship,S009,Data Visualization,9,10,No
+E252,Melissa Ward,S008,Machine Learning,4,3,Yes
+E4965,Cindy David,S012,Project Management,10,5,No
+E2306,Nichole House,S002,React,4,1,No
+E767,Jacob Zimmerman,S009,Data Visualization,1,1,No
+E2660,Michele Chan,S009,Data Visualization,2,3,No
+E3248,Erica Case,S012,Project Management,1,3,Yes
+E2441,Kenneth Shields,S003,Node.js,2,1,No
+E3808,William Thornton,S003,Node.js,7,9,Yes
+E3264,John Vargas,S014,Client Management,8,5,Yes
+E4343,Mary Clark,S003,Node.js,5,4,No
+E3334,Sheila Choi,S003,Node.js,5,3,No
+E4009,Joseph Graham,S009,Data Visualization,6,9,No
+E1835,Lauren Mcfarland,S014,Client Management,4,2,No
+E2848,Amy Garcia,S015,Risk Management,3,1,No
+E2287,John Bradshaw,S012,Project Management,4,3,No
+E2481,Christopher Russell,S002,React,3,3,No
+E4371,Tammie West,S005,HTML/CSS,2,4,No
+E2728,Donna Holden,S005,HTML/CSS,1,4,No
+E1194,Michelle Ayala,S012,Project Management,3,3,No
+E1406,Diane Robinson,S014,Client Management,2,2,No
+E2772,Heather Vega,S002,React,5,4,Yes
+E3041,Jesse Shelton,S012,Project Management,4,3,No
+E3973,Jason Thomas,S006,Python,4,2,Yes
+E4062,Matthew Monroe,S005,HTML/CSS,2,3,No
+E3444,Philip Rodriguez,S005,HTML/CSS,8,7,Yes
+E2536,Christina Bryant,S010,Big Data,4,3,No
+E1587,Jill Medina,S007,SQL,4,3,No
+E3547,Emily Cantrell,S014,Client Management,3,2,No
+E659,Patricia Martin,S004,Docker,2,4,Yes
+E360,Dustin Hanson,S015,Risk Management,5,4,Yes
+E169,John Newman,S008,Machine Learning,5,4,No
+E3954,Kristen Jennings,S003,Node.js,3,1,No
+E3328,Jennifer Barton,S004,Docker,2,3,No
+E4627,Thomas Deleon,S003,Node.js,5,2,No
+E4008,Matthew Harris,S001,JavaScript,3,1,No
+E244,Miguel Ball,S001,JavaScript,2,2,Yes
+E3548,John Garcia,S005,HTML/CSS,7,10,Yes
+E1624,Natasha Burns,S003,Node.js,3,3,Yes
+E258,Troy Taylor,S009,Data Visualization,4,2,Yes
+E4824,David Williams,S002,React,1,2,No
+E365,Dr. April Garcia DVM,S005,HTML/CSS,2,1,No
+E2744,Heather Rodriguez,S001,JavaScript,5,3,No
+E060,Daniel Richards,S011,Consulting Basics,6,5,No
+E2371,Lisa Dunlap,S004,Docker,2,3,No
+E4985,Donna Moore,S012,Project Management,2,4,No
+E794,Shawn Hernandez,S012,Project Management,1,4,Yes
+E1495,Joshua Scott,S009,Data Visualization,1,2,No
+E887,Jennifer Burton,S009,Data Visualization,4,1,No
+E1336,Jennifer Baker,S005,HTML/CSS,5,3,Yes
+E2904,Martin Garner,S006,Python,2,2,Yes
+E2221,Gregory Alexander,S012,Project Management,1,1,Yes
+E4473,Robin Friedman,S013,Financial Modeling,8,11,Yes
+E4768,Debra Mcintosh,S008,Machine Learning,9,6,Yes
+E3758,Austin Khan,S009,Data Visualization,2,2,Yes
+E502,Jessica Horton,S003,Node.js,5,2,Yes
+E3543,Cassidy Pham,S011,Consulting Basics,4,2,Yes
+E4944,Robert Castillo,S001,JavaScript,1,2,Yes
+E4242,Cindy Olson,S005,HTML/CSS,1,1,No
+E4022,Carl Wolfe,S014,Client Management,10,6,No
+E1623,Eugene Snyder,S015,Risk Management,1,3,No
+E2933,Jennifer Gaines,S004,Docker,2,1,No
+E2169,Robert Mcgrath,S009,Data Visualization,4,2,Yes
+E904,Adam Mitchell,S009,Data Visualization,1,3,No
+E4492,Jesse Thompson,S008,Machine Learning,1,1,No
+E2549,Kimberly Dixon,S009,Data Visualization,2,3,Yes
+E4358,Ronald White,S015,Risk Management,1,3,Yes
+E4690,Krista Walker,S009,Data Visualization,3,1,Yes
+E2158,Zachary Gonzalez,S012,Project Management,4,3,No
+E3254,Carol Osborne,S004,Docker,8,9,No
+E1128,Sarah Snyder,S013,Financial Modeling,4,1,Yes
+E1606,Marcus Richard,S008,Machine Learning,4,2,Yes
+E3130,Ryan Young,S008,Machine Learning,4,4,Yes
+E2147,Aaron Obrien,S012,Project Management,4,4,Yes
+E2890,Derrick Adams,S008,Machine Learning,5,3,Yes
+E2686,Brianna Glover,S012,Project Management,3,4,No
+E3998,Kristin Velasquez,S006,Python,2,1,No
+E3161,Phillip Payne,S002,React,6,12,No
+E2070,Shannon Rogers,S002,React,1,1,Yes
+E1356,Rita Andersen,S006,Python,1,4,No
+E3640,Christopher Hancock,S015,Risk Management,4,4,Yes
+E1589,Barbara Patel,S015,Risk Management,6,9,Yes
+E785,Jennifer Morales,S002,React,2,3,No
+E2172,Richard Rowe,S014,Client Management,3,4,No
+E1487,Timothy Scott,S015,Risk Management,2,4,No
+E3241,Randall Williams,S001,JavaScript,4,4,No
+E1035,James Nguyen,S015,Risk Management,3,4,No
+E2510,Amanda Hawkins,S008,Machine Learning,5,1,No
+E186,Samantha Lewis,S005,HTML/CSS,6,12,Yes
+E545,Mrs. Patty Simmons,S007,SQL,6,5,No
+E4750,Marco Wagner,S015,Risk Management,6,9,Yes
+E4786,Ricky Randolph MD,S009,Data Visualization,5,4,No
+E2240,Renee Hall,S010,Big Data,4,3,No
+E3682,Gregory Thompson,S011,Consulting Basics,1,2,No
+E1690,Bruce Wright,S004,Docker,8,5,Yes
+E3158,Luke Santiago,S005,HTML/CSS,3,1,Yes
+E2327,Dr. Tammy Sanchez MD,S015,Risk Management,2,1,Yes
+E3776,Sarah Freeman,S012,Project Management,1,1,Yes
+E984,Mark Brown,S012,Project Management,2,1,No
+E3549,Sarah Johnson,S008,Machine Learning,10,10,Yes
+E4307,Christine Brown,S013,Financial Modeling,5,4,No
+E498,Michelle Randall,S012,Project Management,5,1,No
+E2392,Joyce Meadows,S015,Risk Management,4,1,Yes
+E1342,Shane Fowler,S002,React,3,2,Yes
+E1540,Carl Sullivan,S004,Docker,5,1,Yes
+E4570,Jessica Chung,S010,Big Data,8,6,No
+E4155,Ryan Washington,S004,Docker,1,4,No
+E288,Michelle King,S004,Docker,8,9,Yes
+E1404,Rebecca Fernandez,S009,Data Visualization,8,11,No
+E1115,Michael Preston,S014,Client Management,5,1,No
+E1710,Tonya Murphy,S010,Big Data,4,1,No
+E3141,Tara Moyer,S013,Financial Modeling,5,1,No
+E559,Angela Meyer,S015,Risk Management,7,10,Yes
+E1397,Sandy Jacobs,S014,Client Management,1,1,Yes
+E3843,Timothy Smith,S008,Machine Learning,1,4,No
+E1580,Trevor Hill,S015,Risk Management,1,1,Yes
+E560,Steven Strong,S002,React,5,1,Yes
+E4019,Jonathan Turner,S010,Big Data,5,2,No
+E1221,Jacob Jennings,S009,Data Visualization,7,7,No
+E2168,Charles Adams,S002,React,5,4,Yes
+E4295,Kathleen Rogers MD,S003,Node.js,2,4,No
+E821,Laura Roberts,S012,Project Management,1,3,No
+E4924,Michelle Stone,S002,React,6,6,Yes
+E3441,Deborah Booth DDS,S003,Node.js,7,9,No
+E852,Alejandro Wood,S002,React,4,1,Yes
+E3309,Brett Marshall,S011,Consulting Basics,4,3,No
+E3558,Dr. Jesus Lamb,S011,Consulting Basics,2,3,Yes
+E2232,Joshua Henderson,S014,Client Management,1,4,Yes
+E803,Lindsay Smith,S003,Node.js,10,11,Yes
+E1135,Dr. Donna Johnson MD,S004,Docker,4,2,No
+E268,Heidi Rodriguez,S011,Consulting Basics,3,2,No
+E4937,Cheyenne Rogers,S004,Docker,1,2,No
+E3855,Rachael Patterson,S005,HTML/CSS,2,1,No
+E2837,Haley King,S010,Big Data,1,2,No
+E405,Mr. Jason Marshall,S005,HTML/CSS,1,3,No
+E086,Dr. Sarah Martinez,S006,Python,7,7,Yes
+E076,Matthew Roy,S008,Machine Learning,4,4,No
+E4535,Adrian Suarez,S009,Data Visualization,10,6,No
+E2002,Adam Mclaughlin,S009,Data Visualization,2,4,Yes
+E4207,Joshua Moses,S014,Client Management,10,7,No
+E3561,David Johnson,S007,SQL,2,2,No
+E4443,Cody Giles,S001,JavaScript,3,4,No
+E3464,Robert Stephens,S003,Node.js,1,2,No
+E2284,Nicholas Bell,S008,Machine Learning,1,3,No
+E3520,Joshua Olson,S006,Python,5,1,No
+E3789,Shannon Smith,S012,Project Management,5,3,Yes
+E3749,Paul Henderson,S010,Big Data,10,10,No
+E2599,Malik Johnson,S006,Python,10,7,No
+E4282,Melissa Pham,S011,Consulting Basics,3,1,No
+E1031,Valerie West,S001,JavaScript,1,2,No
+E3458,Priscilla Long,S013,Financial Modeling,3,1,Yes
+E1934,Christine Collier,S005,HTML/CSS,5,3,Yes
+E1680,Diane Ramos,S015,Risk Management,2,4,No
+E3528,Holly Phillips,S013,Financial Modeling,1,1,Yes
+E1298,Katrina Davis,S011,Consulting Basics,3,2,Yes
+E2876,Christina Marks,S012,Project Management,4,1,No
+E4051,Vincent Yang,S004,Docker,3,1,No
+E2284,Nicholas Bell,S015,Risk Management,4,2,No
+E599,Jessica Campbell,S009,Data Visualization,2,1,No
+E1429,Jennifer Wade,S003,Node.js,3,3,Yes
+E1391,Megan Bell,S001,JavaScript,9,9,Yes
+E203,Lisa Marshall,S005,HTML/CSS,1,4,Yes
+E4904,Gina Hancock,S013,Financial Modeling,1,3,No
+E1313,Kristina Barry,S006,Python,5,4,Yes
+E2640,Cindy Moore,S005,HTML/CSS,1,2,No
+E2644,Caitlin Hamilton,S012,Project Management,2,4,No
+E933,Karen Carrillo,S012,Project Management,8,12,No
+E1361,David Rose,S002,React,10,12,Yes
+E4705,Kevin Smith,S014,Client Management,4,4,No
+E3925,Jenny Carter,S005,HTML/CSS,1,3,Yes
+E4019,Jonathan Turner,S006,Python,5,2,Yes
+E3216,Christopher Garrett,S008,Machine Learning,1,4,Yes
+E450,Gina Williams,S008,Machine Learning,8,6,Yes
+E995,Cassandra Morris,S001,JavaScript,2,1,Yes
+E3983,Jay Melton,S009,Data Visualization,4,4,Yes
+E2999,Nicholas Carson,S004,Docker,5,4,Yes
+E414,Dominique Smith,S012,Project Management,5,4,Yes
+E3006,Alexandria Williams,S008,Machine Learning,4,4,No
+E1896,Brian Adams,S002,React,4,3,Yes
+E168,Jordan Miller,S013,Financial Modeling,3,2,Yes
+E661,Gina Ponce,S002,React,2,2,No
+E643,Veronica Baldwin,S010,Big Data,2,3,No
+E4432,Stephanie Hernandez,S012,Project Management,1,1,No
+E868,Melinda Malone,S005,HTML/CSS,5,1,Yes
+E2617,Carlos Perry,S011,Consulting Basics,4,3,Yes
+E4494,Patricia Johnson,S014,Client Management,3,1,Yes
+E962,Tina Bowen,S003,Node.js,7,7,No
+E3150,Deborah Diaz,S006,Python,3,3,Yes
+E4142,Jacob Cruz,S002,React,3,4,No
+E2491,Tara Dawson,S012,Project Management,4,2,No
+E4811,Mark Hall,S007,SQL,2,2,No
+E1139,Samuel Graham,S006,Python,3,1,No
+E2163,Sarah Sanchez,S003,Node.js,9,11,Yes
+E3980,Tammy Shannon,S002,React,2,3,Yes
+E1363,Rebecca Kennedy,S004,Docker,2,3,No
+E1483,Kaitlyn Smith,S005,HTML/CSS,5,2,Yes
+E4883,Matthew Walker,S006,Python,3,1,Yes
+E4135,Mrs. Natalie Harris,S012,Project Management,1,2,Yes
+E3819,Caleb Case,S015,Risk Management,4,1,Yes
+E1739,Kathryn James,S015,Risk Management,5,4,Yes
+E4532,Frank Cardenas,S003,Node.js,3,4,Yes
+E2551,Charles Monroe,S008,Machine Learning,1,2,Yes
+E4568,Daniel Dunn,S004,Docker,5,2,No
+E2817,Michael Beck,S009,Data Visualization,5,2,Yes
+E124,Timothy Wilson,S013,Financial Modeling,2,4,No
+E197,Anthony Malone,S003,Node.js,5,4,No
+E2344,Virginia Arnold,S011,Consulting Basics,6,5,Yes
+E001,Sharon Burns,S010,Big Data,3,2,No
+E1751,Johnathan Moran,S010,Big Data,1,2,No
+E3309,Brett Marshall,S002,React,3,4,Yes
+E1123,James Washington,S002,React,5,4,Yes
+E3644,Amanda Davis,S009,Data Visualization,4,1,Yes
+E2301,Leroy Benton,S001,JavaScript,5,4,No
+E2632,Justin Watts,S006,Python,4,3,Yes
+E1569,Catherine Ramirez,S003,Node.js,4,1,No
+E2052,Diane Wong,S007,SQL,5,4,No
+E4610,Matthew Adkins,S014,Client Management,5,2,Yes
+E3641,Daniel Rose,S006,Python,1,1,Yes
+E4502,Carly Payne,S014,Client Management,6,8,Yes
+E2978,Antonio Mcdaniel,S012,Project Management,4,2,No
+E4077,Angela Weiss,S003,Node.js,10,5,Yes
+E3440,Jennifer Brock,S008,Machine Learning,4,1,No
+E3176,Jeanette Decker,S002,React,6,6,No
+E1995,Daniel Schultz,S010,Big Data,1,4,No
+E306,Blake Ross,S003,Node.js,5,3,No
+E919,Austin Williams,S007,SQL,2,4,Yes
+E3999,John Mitchell,S001,JavaScript,1,3,Yes
+E969,Victoria Lynch,S006,Python,4,3,Yes
+E1863,Leslie Daniels,S005,HTML/CSS,2,3,Yes
+E1309,Paul Wallace,S007,SQL,2,1,No
+E1869,Rachel Miller,S012,Project Management,4,4,Yes
+E3422,Jon Leach,S011,Consulting Basics,1,2,No
+E3547,Emily Cantrell,S015,Risk Management,5,2,No
+E3572,Holly Johnson,S013,Financial Modeling,4,4,No
+E2667,Bryan Weeks,S006,Python,1,2,Yes
+E2808,Tara Brown,S014,Client Management,6,8,No
+E1745,Sean Peterson,S006,Python,2,4,Yes
+E3148,Rachel Valenzuela,S001,JavaScript,3,2,No
+E879,Jeff Jones,S002,React,2,1,Yes
+E4123,Casey Vasquez,S011,Consulting Basics,3,1,No
+E3004,Nichole Taylor,S005,HTML/CSS,9,11,Yes
+E502,Jessica Horton,S012,Project Management,4,3,No
+E4717,Jessica Nguyen,S007,SQL,8,6,Yes
+E4304,Thomas Williamson,S003,Node.js,3,2,No
+E1400,Douglas Miller,S015,Risk Management,3,3,No
+E2577,William Obrien,S006,Python,5,1,Yes
+E525,Mario Adams,S013,Financial Modeling,5,3,Yes
+E800,Melissa Stanton,S007,SQL,1,1,No
+E1067,Kyle Hill,S012,Project Management,1,3,No
+E3232,Denise Terry,S004,Docker,8,11,Yes
+E2904,Martin Garner,S011,Consulting Basics,4,3,Yes
+E982,Linda Kim,S012,Project Management,3,4,No
+E1963,Mr. Jonathan Green,S015,Risk Management,6,10,Yes
+E236,James Jones,S001,JavaScript,2,4,Yes
+E4905,Erik Duncan,S009,Data Visualization,5,2,No
+E3827,Marissa Campbell,S004,Docker,3,3,No
+E2109,John Estrada,S012,Project Management,4,4,No
+E761,Lori Campbell,S001,JavaScript,2,3,Yes
+E1190,Kevin Goodman,S012,Project Management,4,4,No
+E1038,Angela Lyons,S002,React,1,1,No
+E3442,Leslie Johnson,S007,SQL,9,8,No
+E2426,James Nielsen,S015,Risk Management,6,8,No
+E4235,Melissa Velez,S004,Docker,4,2,No
+E2399,Diamond Paul,S007,SQL,7,5,Yes
+E738,Henry Jordan,S008,Machine Learning,1,3,No
+E3810,Rachel Norton,S011,Consulting Basics,1,4,No
+E706,Michelle Rodriguez,S010,Big Data,3,3,No
+E4150,Hector Williams,S004,Docker,4,1,No
+E1871,Phillip Sanders,S004,Docker,4,4,No
+E2236,Andrew Mcdaniel,S012,Project Management,5,1,No
+E634,Joshua Johns,S001,JavaScript,3,2,Yes
+E4986,Keith Morris,S008,Machine Learning,3,1,Yes
+E727,Michelle Lane,S015,Risk Management,5,2,Yes
+E604,John Gregory DDS,S007,SQL,2,4,No
+E615,Julie Sanchez,S013,Financial Modeling,1,1,No
+E4928,Justin Schultz,S015,Risk Management,6,10,Yes
+E845,John Skinner,S001,JavaScript,4,1,Yes
+E2873,Mitchell Crawford,S011,Consulting Basics,2,1,No
+E3860,Gregory Estes,S013,Financial Modeling,4,1,No
+E883,Melanie Haynes,S011,Consulting Basics,1,2,No
+E3315,Lydia Lopez,S005,HTML/CSS,1,4,No
+E2435,Stephanie Edwards,S005,HTML/CSS,3,3,No
+E280,Jessica Bailey,S008,Machine Learning,6,6,Yes
+E707,Richard Pearson,S008,Machine Learning,1,1,No
+E736,Tanya Sosa,S003,Node.js,3,3,Yes
+E3842,Kenneth Frederick,S007,SQL,9,5,No
+E2158,Zachary Gonzalez,S013,Financial Modeling,1,1,Yes
+E1282,Kirsten Campbell,S008,Machine Learning,2,2,No
+E1343,Tamara Edwards,S014,Client Management,2,3,Yes
+E2631,Joseph Harper,S011,Consulting Basics,4,2,No
+E710,Mary Lambert,S007,SQL,1,4,No
+E3367,John Odom,S014,Client Management,1,2,No
+E1507,Vernon Sullivan,S011,Consulting Basics,1,4,Yes
+E4042,Robin Scott,S011,Consulting Basics,2,2,Yes
+E2349,Melissa Schmidt,S004,Docker,4,3,No
+E1136,Emily Ramirez,S008,Machine Learning,1,2,No
+E2910,Sarah Hall,S007,SQL,2,1,No
+E1331,Robin Chen,S006,Python,3,4,Yes
+E306,Blake Ross,S008,Machine Learning,1,4,No
+E4416,Teresa Ferguson,S007,SQL,5,1,No
+E3470,Colleen Nguyen,S006,Python,3,3,Yes
+E604,John Gregory DDS,S013,Financial Modeling,3,4,No
+E889,Mrs. Pamela Henry,S014,Client Management,9,12,Yes
+E4714,Rachel Jones,S013,Financial Modeling,10,10,Yes
+E4605,Elizabeth Pope,S003,Node.js,7,8,No
+E3828,Leonard Stewart,S005,HTML/CSS,4,3,No
+E1926,Lisa Singh,S004,Docker,2,3,Yes
+E463,Wanda George,S015,Risk Management,3,1,No
+E4117,Krista Bridges,S010,Big Data,2,4,No
+E343,Joy Sherman,S003,Node.js,10,6,Yes
+E1968,Tammy Berry,S004,Docker,5,3,No
+E3187,Sean Garcia,S004,Docker,2,4,No
+E2488,Paula Anderson,S005,HTML/CSS,5,3,Yes
+E3694,Heidi Ramirez,S015,Risk Management,3,3,No
+E3559,Lisa Campos,S009,Data Visualization,5,2,No
+E3470,Colleen Nguyen,S011,Consulting Basics,10,5,Yes
+E1138,Barbara Travis,S011,Consulting Basics,8,7,No
+E944,Barry Spencer,S013,Financial Modeling,1,3,Yes
+E2663,Sheryl Graves,S007,SQL,1,1,Yes
+E2972,Timothy Lambert,S012,Project Management,9,5,Yes
+E1104,Debbie Robinson,S011,Consulting Basics,3,1,Yes
+E4414,David Garcia,S011,Consulting Basics,1,3,Yes
+E4488,Stephen Williams,S008,Machine Learning,1,2,No
+E354,Anthony Patel,S012,Project Management,1,4,Yes
+E2050,Jasmin Stanley,S015,Risk Management,2,3,Yes
+E4748,Molly Barnes,S014,Client Management,3,2,No
+E4486,Laura Baxter,S012,Project Management,5,2,No
+E4736,Michael Lozano,S012,Project Management,3,4,No
+E147,Mark Baker,S001,JavaScript,1,4,Yes
+E008,Nicholas Miller,S004,Docker,2,1,No
+E1204,Daniel Butler,S014,Client Management,2,4,No
+E212,Juan Ho,S004,Docker,7,7,Yes
+E2100,Ronnie Ramirez,S003,Node.js,5,4,No
+E3313,Charles Roberts,S013,Financial Modeling,5,4,No
+E4935,Alexandria Lopez,S009,Data Visualization,2,2,No
+E4894,Jeremy Kelly,S005,HTML/CSS,5,2,No
+E2911,Carlos Walker,S002,React,4,1,No
+E3923,Judith Davidson,S009,Data Visualization,5,1,Yes
+E4288,Peter Avery,S010,Big Data,1,1,Yes
+E3112,Brian Hernandez,S014,Client Management,7,5,No
+E3315,Lydia Lopez,S005,HTML/CSS,4,1,No
+E2652,Jennifer Horn,S008,Machine Learning,5,1,Yes
+E3110,Lindsay Lee,S001,JavaScript,2,4,Yes
+E1992,Joseph Hayden,S007,SQL,5,2,No
+E414,Dominique Smith,S015,Risk Management,5,1,Yes
+E1515,Connie Davis,S004,Docker,1,2,Yes
+E1758,Christopher Davis,S004,Docker,2,4,Yes
+E4260,Gilbert Gutierrez,S006,Python,5,2,No
+E3129,Melanie Rios,S012,Project Management,9,7,Yes
+E2751,Joseph Nelson,S004,Docker,1,3,No
+E3215,Michael Moore,S011,Consulting Basics,2,1,No
+E3691,Nathan Levine,S010,Big Data,2,1,No
+E3087,Dustin Wilson,S011,Consulting Basics,1,4,No
+E3278,Debra Goodwin,S013,Financial Modeling,5,1,No
+E3458,Priscilla Long,S006,Python,2,4,No
